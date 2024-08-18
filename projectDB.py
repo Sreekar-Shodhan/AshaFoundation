@@ -1,13 +1,15 @@
 
 import sqlite3
 import polars as pl
-def insert_data(project_status,project_funding):
-    print(project_status)
-    print(project_funding,'********')
-    db = sqlite3.connect('project_database.db')
 
+def insert_data(project_status, project_funding):
+   # print(project_status)
+   # print(project_funding, '********')
+
+    db = sqlite3.connect('project_database.db')
     cursor = db.cursor()
 
+    # Create the project_status table if it doesn't exist
     cursor.execute('''CREATE TABLE IF NOT EXISTS project_status
                     (id INTEGER PRIMARY KEY,
                     status TEXT,
@@ -18,43 +20,45 @@ def insert_data(project_status,project_funding):
                     tel TEXT,
                     stewarding_chapter TEXT)''')
 
+    # Create the project_funding table if it doesn't exist
     cursor.execute('''CREATE TABLE IF NOT EXISTS project_funding
                     (id INTEGER PRIMARY KEY,
+                    pid INTEGER,
                     year INTEGER,
-                    amount TEXT)''')
-    
-    # Prepare the INSERT statement
-    insert_query = '''
-    INSERT INTO project_status (status, project_steward, project_partner, other_contacts, project_address, tel, stewarding_chapter)
-    VALUES (?, ?, ?, ?, ?, ?, ?)
+                    currency TEXT,
+                    amount INTEGER)''')
+
+    # Insert data into the project_status table
+    insert_status_query = '''
+        INSERT INTO project_status (status, project_steward, project_partner, other_contacts, project_address, tel, stewarding_chapter)
+        VALUES (?, ?, ?, ?, ?, ?, ?)
+    '''
+    cursor.execute(insert_status_query, project_status)
+
+    # Insert data into the project_funding table
+    insert_funding_query = '''
+        INSERT INTO project_funding (pid, year, currency, amount)
+        VALUES (?, ?, ?, ?)
     '''
 
-    for row in project_funding:
-        cursor.execute("INSERT INTO project_funding (year, amount) VALUES (?, ?)", 
-               (row[0], row[1]))
+    # Iterate through the outer tuple for project_funding
+    for pid, funding_data in project_funding:
+        # Iterate through the inner tuples
+        for year, currency, amount in funding_data:
+            cursor.execute(insert_funding_query, (pid, year, currency, amount))
 
-    cursor.execute(insert_query, project_status)
-    
+    # Query the project_status table
     query = 'SELECT * FROM project_status'
-    #query2 = 'SELECT * FROM project_funding'
     cursor.execute(query)
-    #cursor.execute(query2)
-    # Fetch all rows and column names
     rows = cursor.fetchall()
     column_names = [description[0] for description in cursor.description]
 
-    # cursor.execute(query2)
-    # rows2 = cursor.fetchall()
-    # column_names2 = [description[0] for description in cursor.description]
-    # df2 = pl.DataFrame(rows2, schema=column_names2)
-    
-    
     # Convert the data to a Polars DataFrame
-    df = pl.DataFrame(rows, schema=column_names)
+   # df = pl.DataFrame(rows, schema=column_names)
 
     # Display the DataFrame
-    print(df)
-    # print(df2)
-    db.commit()
+   # print(df)
 
+    # Commit the changes and close the database connection
+    db.commit()
     db.close()
