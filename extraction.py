@@ -11,45 +11,40 @@ def read_and_analyze(i):
 
 
 def extract_funding(text, pid: int):
-    pattern = r"(\w{3} \d{4})(\w+)(USD|INR)\s+(\d+)"
+    parts = re.findall(r'(.*?(?:USD|INR|EUR|GBP|CHF|CAD)\s+\d+)', text)
     print(text)
-    matches = re.findall(pattern, text)
-    print(matches)
-    cumulative_amounts = {}
+    result = []
+    for record in parts:
+        pattern = r'(\w+)\s+(\d+)([A-Za-z\./\-\s]+)(USD|INR|EUR|GBP|CHF|CAD)\s+(\d+)'
+        matches = re.match(pattern, record)
 
-    if matches:
-        for match in matches:
-            year_month, city, currency, amount = match
-            year = int(year_month[3:])
-            if year not in cumulative_amounts:
-                cumulative_amounts[year] = {}
-            if currency not in cumulative_amounts[year]:
-                cumulative_amounts[year][currency] = 0
-            cumulative_amounts[year][currency] += int(amount)
-
-    result = {pid: {}}
-    for year, currencies in cumulative_amounts.items():
-        for currency, amount in currencies.items():
-            if year not in result[pid]:
-                result[pid][year] = {}
-            result[pid][year][currency] = amount
-
+        if matches:
+            month = matches.group(1)
+            year = matches.group(2)
+            area = matches.group(3)
+            currency = matches.group(4)
+            amount = matches.group(5)
+            
+            print(month, year, area, currency, amount,'######')
+            result.append((pid,month, year, area, currency, amount))
     return result
 
-def extract_status(text):
+
+def extract_status(text,pid):
     pattern = r'Status:(.*?)Project Steward:(.*?)Project Partner...:(.*?)Other Contacts:(.*?)Project Address:(.*?)Tel:(.*?)Stewarding Chapter:(.*?)'
     match = re.search(pattern, text)
     if match:
-        return {
-            'Status': match.group(1).strip(),
-            'Project Steward': match.group(2).strip(),
-            'Project Partner': match.group(3).strip(),
-            'Other Contacts': match.group(4).strip(),
-            'Project Address': match.group(5).strip(),
-            'Tel': match.group(6).strip(),
-            'Stewarding Chapter': match.group(7).strip()
-        }
-    return dict()
+        Status = match.group(1)
+        Project_Steward = match.group(2)
+        Project_Partner = match.group(3)
+        Other_Contacts = match.group(4)
+        Project_Address = match.group(5)
+        Tel = match.group(6)
+        Stewarding_Chapter = match.group(7)
+        print(Status, Project_Steward, Project_Partner, Other_Contacts, Project_Address, Tel, Stewarding_Chapter)
+    
+    result =  [pid,Status, Project_Steward, Project_Partner, Other_Contacts, Project_Address, Tel, Stewarding_Chapter]
+    return result 
 
 def extract_data(i):
     soupO = read_and_analyze(i)
@@ -60,16 +55,29 @@ def extract_data(i):
     project_funding = projects[2].text
     project_desc    = projects[3].text
     
-    return_value=extract_status(project_status)
+    project_status_value=extract_status(project_status,pid)
     project_funding_value = extract_funding(project_funding,pid)
     print(project_funding_value)
-   # projectDB.insert_data(return_value,project_funding_value)
-    return return_value,project_funding_value
-
-#def dataframe_dict(dict_to_convert):
+    print(project_status_value)
+    column_names = ['pid','month', 'year', 'area', 'currency', 'amount']
     
-   # df = pl.DataFrame.from_dict(dict_to_convert, orient='index')
-   # return df
+    df = pl.DataFrame(project_funding_value, schema=column_names,orient='row')
+    print(df)
+    column_names2 = ['pid','Status', 'Project Steward', 'Project Partner', 'Other Contacts', 'Project Address', 'Tel', 'Stewarding Chapter']
+    df2 = pl.DataFrame([project_status_value], schema=column_names2,orient='row')
+    print(df2)
+   # dataframe_dict(project_funding_value)
+   # projectDB.insert_data(return_value,project_funding_value)
+    return project_status_value,project_funding_value
+
+def dataframe_dict(tuple_to_convert):
+    print(type(tuple_to_convert))
+    # Create DataFrame
+    column_names = ['pid','Status', 'Project Steward', 'Project Partner', 'Other Contacts', 'Project Address', 'Tel', 'Stewarding Chapter']
+    df = pl.DataFrame(tuple_to_convert, schema=column_names)
+    #df = pl.DataFrame(dict_to_convert)
+    print(df)
+    return df
 
 def insert_to_database(project_status,project_funding):
     data_tuple = (
@@ -81,8 +89,7 @@ def insert_to_database(project_status,project_funding):
         project_status['Tel'],
         project_status['Stewarding Chapter']
     )
-    # funding_tuple=tuple((year, amount) for year, amount in project_funding.items())
-    # print(funding_tuple)
+    
     funding_tuple = tuple(
                 (pid, tuple((year, currency, amount) for year, details in funding_data.items() for currency, amount in details.items()))
                 for pid, funding_data in project_funding.items()
@@ -122,10 +129,10 @@ def get_funding_from_db():
 
     # Display the DataFrame
    # print(df,'***')
-for pid in range(1, 1353):
+for pid in range(1, 1354):
 #pid = 11
-    return_value, project_funding = extract_data(pid)
-    insert_to_database(return_value, project_funding)
-    get_funding_from_db()
+    project_status_value, project_funding_value = extract_data(pid)
+#insert_to_database(return_value, project_funding)
+#get_funding_from_db()
 
 

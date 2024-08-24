@@ -20,23 +20,8 @@ db save normally in df groupby pid
 sub rows is not possible in sql 
 meta ai 
 
-s.no project_id year   month amount
-1    500       year1 month1 amount1 
-2    500       year1 month2 amount2
-3    500       year1 month3 amount3
+why convert to tuple and insert into database? the result is a dict why not insert based on dict?
 
-            year2     amount20
-            year3     amount3
-            year4     amount4
-
-1            1
-            2
-            3
-            4
-2            1
-             2
-             3
-             4            
 
 address text extraxt meta api give co-ordinates gmap api 
 how can u analyse all parts using ai 
@@ -48,3 +33,13 @@ pandas ai for ai generating charts
 
 pid address state 
 pid year month chapter curr amount 
+
+pid 39,107 -> NYC/NJ
+48,61,76,83.109 -> no data anyway 
+442/443 -> GBP london 
+466 -> Ann-Arbor 
+508 -> Mid-Hudson Valley 
+637 -> frankfrut EUR, Chennai USD 
+684 -> canada CAD
+1126 -> sheffield GBP
+1235 -> CHF zurich 
