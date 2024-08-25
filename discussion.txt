@@ -1,6 +1,3 @@
-project status imp ones are:
-stewarding Chapter, state (indian state),
-
 3 chapter , year, state -> funding slashed by those 3 
 I give you a state tell me how the funding is in terms of chapter and funding 
 
@@ -9,18 +6,10 @@ on a global basis?
 
 also percentages -> of the total amount spent in a year 
 
-sep column for state , how do you know it is still active(in progress)
-project_address has state * 
 
 keep raw data untouched but make new tables with more structure 
 
 create index on project_id and year  index by year  
-
-db save normally in df groupby pid 
-sub rows is not possible in sql 
-meta ai 
-
-why convert to tuple and insert into database? the result is a dict why not insert based on dict?
 
 
 address text extraxt meta api give co-ordinates gmap api 
@@ -34,12 +23,12 @@ pandas ai for ai generating charts
 pid address state 
 pid year month chapter curr amount 
 
-pid 39,107 -> NYC/NJ
-48,61,76,83.109 -> no data anyway 
-442/443 -> GBP london 
-466 -> Ann-Arbor 
-508 -> Mid-Hudson Valley 
-637 -> frankfrut EUR, Chennai USD 
-684 -> canada CAD
-1126 -> sheffield GBP
-1235 -> CHF zurich 
+1) Analysis of funding by state by year
+2) chapter wise analysis of 1) above
+
+- save the data in database , also make it cumulative (currently its not)
+- if I get time will work on graphs(visualization) part too
+data saved to csv but its raw 
+groupby year and get cumulative amount 
+maybe combine two df's based on pid 
+make it one single csv and make data visualization on that csv 

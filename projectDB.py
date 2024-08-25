@@ -3,8 +3,6 @@ import sqlite3
 import polars as pl
 
 def insert_data(project_status, project_funding):
-   # print(project_status)
-   # print(project_funding, '********')
 
     db = sqlite3.connect('project_database.db')
     cursor = db.cursor()
@@ -52,13 +50,6 @@ def insert_data(project_status, project_funding):
     cursor.execute(query)
     rows = cursor.fetchall()
     column_names = [description[0] for description in cursor.description]
-
-    # Convert the data to a Polars DataFrame
-   # df = pl.DataFrame(rows, schema=column_names)
-
-    # Display the DataFrame
-   # print(df)
-
-    # Commit the changes and close the database connection
+    
     db.commit()
     db.close()
