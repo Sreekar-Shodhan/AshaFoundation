@@ -42,9 +42,10 @@ def extract_status(text,pid):
         Project_Address = match.group(5)
         Tel = match.group(6)
         Stewarding_Chapter = match.group(7)
+        extracted_state = extract_state(Project_Address)
       #  print(Status, Project_Steward, Project_Partner, Other_Contacts, Project_Address, Tel, Stewarding_Chapter)
     
-    result =  [pid,Status, Project_Steward, Project_Partner, Other_Contacts, Project_Address, Tel, Stewarding_Chapter]
+    result =  [pid,Status, Project_Steward, Project_Partner, Other_Contacts, Project_Address, Tel, Stewarding_Chapter,extracted_state]
     return result 
 
 def extract_data(i):
@@ -63,62 +64,127 @@ def extract_data(i):
     column_names = ['pid','month', 'year', 'area', 'currency', 'amount']
     
     df = pl.DataFrame(project_funding_value, schema=column_names,orient='row')
-   # print(df)
+    print(df)
     
-    column_names2 = ['pid','Status', 'Project Steward', 'Project Partner', 'Other Contacts', 'Project Address', 'Tel', 'Stewarding Chapter']
+    column_names2 = ['pid','Status', 'Project Steward', 'Project Partner', 'Other Contacts', 'Project Address', 'Tel', 'Stewarding Chapter','Extracted State']
     df2 = pl.DataFrame([project_status_value], schema=column_names2,orient='row')
-   # print(df2)
-    
+    print(df2)
     return project_status_value,project_funding_value
 
-
+def convert_to_DF():
 # Initialize empty lists to store all data
-all_funding_data = []
-all_status_data = []
+    all_funding_data = []
+    all_status_data = []
 
-# Main loop
-for pid in range(1, 1354):
-    project_status_value, project_funding_value = extract_data(pid)
-    all_status_data.append(project_status_value)
-    all_funding_data.extend(project_funding_value)
+    # Main loop
+    for pid in range(1, 1354):
+        project_status_value, project_funding_value = extract_data(pid)
+        all_status_data.append(project_status_value)
+        all_funding_data.extend(project_funding_value)
 
-funding_column_names = ['pid', 'month', 'year', 'area', 'currency', 'amount']
-status_column_names = ['pid', 'Status', 'Project Steward', 'Project Partner', 'Other Contacts', 'Project Address', 'Tel', 'Stewarding Chapter']
+    funding_column_names = ['pid', 'month', 'year', 'area', 'currency', 'amount']
+    status_column_names = ['pid', 'Status', 'Project Steward', 'Project Partner', 'Other Contacts', 'Project Address', 'Tel', 'Stewarding Chapter','Extracted State']
 
-funding_df = pl.DataFrame(all_funding_data, schema=funding_column_names)
-status_df = pl.DataFrame(all_status_data, schema=status_column_names)
+    funding_df = pl.DataFrame(all_funding_data, schema=funding_column_names)
+    status_df = pl.DataFrame(all_status_data, schema=status_column_names).drop_nulls()
 
-def calculate_cumulative_funding():
-    # Ensure 'year' and 'amount' are of correct types
+    # Save to CSV
+    funding_df.write_csv('DataCSV/consolidated_funding.csv')
+    status_df.write_csv('DataCSV/consolidated_status.csv')
+
+    
+def cumulative_funding_yearCurr():
+    funding_df = pl.read_csv('DataCSV/consolidated_funding.csv')
     funding_df_processed = funding_df.with_columns([
         pl.col('year').cast(pl.Int32),
-        pl.col('amount').cast(pl.Float64)
+        pl.col('amount').cast(pl.Float64),
+        pl.col('currency').cast(pl.Utf8)
     ])
+    
+    yearCurr = funding_df_processed.group_by(['year', 'currency']).agg([
+        pl.col('amount').sum().alias('total_amount')
+    ]).sort(['year', 'currency']) 
+    
+    yearCurr.write_csv('DataCSV/yearCurr.csv')
 
-
+def calculate_funding_pidYear():
+    # Ensure 'year' and 'amount' are of correct types
+    funding_df = pl.read_csv('DataCSV/consolidated_funding.csv')
+    funding_df_processed = funding_df.with_columns([
+        pl.col('year').cast(pl.Int32),
+        pl.col('amount').cast(pl.Float64),
+        
+    ])
     # Group by year and calculate yearly total
         # Group by 'pid' and 'year', then sum the amounts for each combination
-    pid_year_totals = funding_df_processed.group_by(['pid', 'year']).agg([
+    pid_year_totals = funding_df_processed.group_by(['pid', 'year','area','currency']).agg([
         pl.col('amount').sum().alias('yearly_total')
     ]).sort(['pid', 'year'])
 
     # Calculate the cumulative sum of amounts within each 'pid'
-    funding_cumulative_df = pid_year_totals.with_columns([
-        pl.col('yearly_total').cum_sum().over('pid').alias('cumulative_amount')
-    ])
+    # funding_cumulative_df = pid_year_totals.with_columns([
+    #     pl.col('yearly_total').cum_sum().over('pid').alias('cumulative_amount')
+    # ])
     
     print("Cumulative Funding DataFrame:")
-    print(funding_cumulative_df)
+    print(pid_year_totals)
     print("****")
 
-    funding_cumulative_df.write_csv('DataCSV/cumulative_funding.csv')
+    pid_year_totals.write_csv('DataCSV/cumulative_funding.csv')
 
-# Save to CSV
-funding_df.write_csv('DataCSV/consolidated_funding.csv')
-status_df.write_csv('DataCSV/consolidated_status.csv')
+def extract_state(text):
+    strings_to_check = [
+        "Andhra Pradesh", "Arunachal Pradesh", "Assam", "Bihar", 
+        "Chhattisgarh", "Goa", "Gujarat", "Haryana", "Himachal Pradesh", 
+        "Jharkhand", "Karnataka", "Kerala", "Madhya Pradesh", 
+        "Maharashtra", "Manipur", "Meghalaya", "Mizoram", "Nagaland", 
+        "Odisha", "Punjab", "Rajasthan", "Sikkim", "Tamil Nadu", 
+        "Telangana", "Tripura", "Uttar Pradesh", "Uttarakhand", "West Bengal",
+        "Andaman and Nicobar Islands", "Chandigarh", "Dadra and Nagar Haveli and Daman and Diu", 
+        "Lakshadweep", "Delhi", "Puducherry", 
+        "Ladakh", "Jammu and Kashmir","Uttaranchal","Pondicherry","Orissa"
+    ]
 
-# Calculate and save cumulative funding
-calculate_cumulative_funding()
+    #text = "hello bihar, this is a test"
+
+    pattern = "(?i)" + "|".join(strings_to_check)
+    match = re.search(pattern, text)
+
+    if match:
+        extracted_string = match.group()
+    else:
+        extracted_string = None
+    print(f"Extracted string: {extracted_string}")
+
+    return extracted_string
+
+def final_df():
+    status_df = pl.read_csv('DataCSV/consolidated_status.csv')
+    funding_df = pl.read_csv('DataCSV/cumulative_funding.csv')
+    
+    final_df = status_df.join(funding_df, on='pid', how='left').select([
+    'pid', 'year', 'area', 'Stewarding Chapter', 'currency', 'yearly_total', 'Extracted State'
+    ]).rename({'Extracted State': 'state'})
+    print("Final DataFrame:")
+    print(final_df)
+    print("****")
+    
+    final_df.write_csv('DataCSV/final_df.csv')
+# def only_states():
+#     status_df = pl.read_csv('DataCSV/consolidated_status.csv')
+    
+#     # Extract states from the 'Project Address' column
+#     extracted_states = extract_state(status_df['Project Address'].to_list())
+    
+#     # Add the extracted states as a new column
+#     status_df = status_df.with_columns([
+#         pl.Series(name="Extracted State", values=extracted_states)
+#     ])
+    
+#     # Save the updated DataFrame back to CSV
+#     status_df.write_csv('DataCSV/consolidated_status_with_states.csv')
+
+
 # def insert_to_database(project_status,project_funding):
 #     data_tuple = (
 #         project_status['Status'],
