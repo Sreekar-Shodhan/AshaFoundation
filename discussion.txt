@@ -46,8 +46,6 @@ final df -> pid year chapter amount state curr (ignore other than USD? )
 pid year area curr amount(sum) -> this one df 
 get state sep and join that state to 46 
 
-sk-RcUPOLejOs--5ADrztCfInWj8mN8gfZeMAbQJuBZkbT3BlbkFJuKIo3Jt6AD7eLRJNZiGaGui8CYMX4jVvEd2VcQ1EoA
-
 graph , percenta_state_year imp 
 divide percenta_state_year with percentage_population
 
