@@ -2,3 +2,6 @@ streamlit
 matplot
 seaborn
 pandas
+python-dotenv
+pandasai
+numpy==1.23.5

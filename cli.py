@@ -12,3 +12,11 @@ if __name__ == '__main__':
         extraction.convert_to_DF()
    elif command == 'final_df':
         extraction.final_df()
+   elif command == 'state_year':
+        extraction.state_year()
+   elif command == 'total_year':
+        extraction.total_year_df()
+   elif command == 'percentage_state':
+        extraction.percentage_state_df()
+   elif command == 'state_chapter':
+        extraction.state_chapter_df()

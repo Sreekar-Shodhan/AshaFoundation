@@ -7,19 +7,19 @@ pid,Status,Project Steward,Project Partner,Other Contacts,Project Address,Tel,St
 6, completed - requirements ended  ,  ,  ,  ," , ,,Near Nagpur,MADHYA PRADESH   ",   ,"",MADHYA PRADESH
 7, completed - requirements ended  , Garima Bhatia  , Sandeep Pandey  , Mr. Ramraj  ," , No.1, VGN Nagar, Iyypanthangle , P.O. Kattupakkam,,Chennai,JHARKHAND  600056 ",   ,"",JHARKHAND
 8, completed - requirements ended  ,  ,  ,  ," , ,,Beleghata,WEST BENGAL   ",   ,"",WEST BENGAL
-11, completed - requirements ended  , Natasha Menon  ,  ,  ," , C-76, Bathla Apts,43, I.P. Ext.,Delhi,DELHI  110092 "," (91)-(11) 2722593, 2725180  ","",Delhi
+11, completed - requirements ended  , Natasha Menon  ,  ,  ," , C-76, Bathla Apts,43, I.P. Ext.,Delhi,DELHI  110092 "," (91)-(11) 2722593, 2725180  ","",DELHI
 12, completed - requirements ended  ,  ,  ,  ," , ,,,TAMIL NADU   ",   ,"",TAMIL NADU
 13, completed - requirements ended  , Ranitendranath Tagore  , Indrani Ghosh  ,  ," , 7B Mandeville Gardens,,Kolkata,WEST BENGAL  700019 ",   ,"",WEST BENGAL
 14, completed - requirements ended  , Radha Ganesan  ,  ,  ," , c/o Dr. Shashi Rao,233 6th Main, 4th Block,Jayanagar,KARNATAKA  560 011 ",   ,"",KARNATAKA
 15, completed - things went wrong  , Sandeep Pandey  ,  ,  ," , ,,Lucknow,UTTAR PRADESH   ",   ,"",UTTAR PRADESH
 16, completed - requirements ended  , Manoj Chandran  ,  ,  ," , ,,,JHARKHAND  825401 ",   ,"",JHARKHAND
 17, completed - requirements ended  , Jayashree Janardhan  ,  ,  ," , ,,,TAMIL NADU   ",   ,"",TAMIL NADU
-18, current / ongoing  , Ravi Kumar  , Meril K.T  , Revathi Kadari  ," , c/o K.T. Meril, Jerusalem Colony,Behind Karnataka College,Bidar,KARNATAKA  585401 ", 91-08482-224160  ,"",Karnataka
+18, current / ongoing  , Ravi Kumar  , Meril K.T  , Revathi Kadari  ," , c/o K.T. Meril, Jerusalem Colony,Behind Karnataka College,Bidar,KARNATAKA  585401 ", 91-08482-224160  ,"",KARNATAKA
 19, completed - requirements ended  , Melli Annamalai  ,  ,  ," , ,,,TAMIL NADU   ", 044-26264837  ,"",TAMIL NADU
 20, completed - sustainable  , Vallabh Pandey  , Sandeep Pandey  ,  ," , "" ASHA "" C/o Vijay Kumar Pandey , V.+P. Reoti ( South ),,BALLIA,UTTAR PRADESH  227209 "," 91+5494+260425,260277  ","",UTTAR PRADESH
 22, completed - requirements ended  , Sirish Agarwal  , Neel Kamal  , Sandeep Pandey  ," , Lalpur Village,Post Atrauli,,UTTAR PRADESH   "," 0522-2347365, 9415022772. Do n  ","",UTTAR PRADESH
-25, current / ongoing  , Rashi Dhall  , Sudha Vohra  , Ashish Johri  ," , Basti Vikas Kendra,Bal Mukund Khand,Giri Nagar,Kalkaji,New Delhi,DELHI  110019 ", 011-26449026  ,"",Delhi
-26, completed - requirements ended  , Ajay Dalmia  , Jayashree Janardhan  ,  ," , ,,,PONDICHERRY   ",   ,"",PONDICHERRY
+25, current / ongoing  , Rashi Dhall  , Sudha Vohra  , Ashish Johri  ," , Basti Vikas Kendra,Bal Mukund Khand,Giri Nagar,Kalkaji,New Delhi,DELHI  110019 ", 011-26449026  ,"",DELHI
+26, completed - requirements ended  , Ajay Dalmia  , Jayashree Janardhan  ,  ," , ,,,PONDICHERRY   ",   ,"",PUDUCHERRY
 27, current / ongoing  , Amruta Deshpande  , Simanthini Dhuru  , Seema Chaudhary  ," , (1) Raoli Camp,S.M. Road, Sion Koliwada,Sardar Nagar 4,MAHARASHTRA  400037 ", 011-91-022-4072188  ,"",MAHARASHTRA
 29, completed - requirements ended  ,  ,  ,  ," , Near Ganj Gurhatti,,Moradabad,HARYANA   ",   ,"",HARYANA
 30, completed - requirements ended  , Shailen Mistry  , Rahul Pandey  ,  ," , Bal Anand, Akash Deep,Dongersi Road,Malabar Hill,MAHARASHTRA  400006 ","  (91-22)362-5543, 362-9147, 36  ","",MAHARASHTRA
@@ -39,17 +39,17 @@ pid,Status,Project Steward,Project Partner,Other Contacts,Project Address,Tel,St
 50, completed - requirements ended  , Shouri Chatterjee  ,  ,  ," , Lengru Khuli,,Tangra,WEST BENGAL   ",   ,"",WEST BENGAL
 51, completed - requirements ended  ,  ,  ,  ," , 303/2, L.B. Shastri Nagar,Vimanapura Post, Annasandra Palya,Bangalore,KARNATAKA  560 017 ", 91-80-527-2111  ,"",KARNATAKA
 52, completed - requirements ended  , Shamik B  ,  ,  ," , ,,,KARNATAKA   ",   ,"",KARNATAKA
-53, current / ongoing  , Melli Annamalai  , G. S Jayadeva  , Vijay Dwarakanath  ," , PWD Colony (Behind Forest Nursery,Chamarajanagar,Karnataka,KARNATAKA  571313 ", 08226 22556  ,"",Karnataka
+53, current / ongoing  , Melli Annamalai  , G. S Jayadeva  , Vijay Dwarakanath  ," , PWD Colony (Behind Forest Nursery,Chamarajanagar,Karnataka,KARNATAKA  571313 ", 08226 22556  ,"",KARNATAKA
 54, completed - sustainable  ,  ,  ,  ," , ,,,MAHARASHTRA   ",   ,"",MAHARASHTRA
 56, current / ongoing  , Katie Harrison  , Riti  Dhankar  , Neha Kapoor  ," , Todi Ramjanipura,Kho Nagoriyan Road,Jagatpura,RAJASTHAN  302017 ", 011 91 141 2750230  ,"",RAJASTHAN
 58, completed - requirements ended  , Bhinish Shah  , Bina Lashkari  , Mandar Jadhav  ," , Jagannath Shankarsheth Chowk Municipal School Second Floor,Room No 54, Nana Chowk, Grant Road,,MAHARASHTRA  400 007 ", 011-91-22-23826343  ,"",MAHARASHTRA
 59, completed - requirements ended  , Anurag Sharma  ,  ,  ," , Gandhi Nagaram,,Gollaprolu,ANDHRA PRADESH  533445 ",   ,"",ANDHRA PRADESH
 60, completed - requirements ended  , Melli Annamalai  ,  ,  ," , Z.P. High School,DUVVA,Duvva,ANDHRA PRADESH  534156 ",   ,"",ANDHRA PRADESH
-62, completed - things went wrong  , Madhab Nayak  ,  ,  ," , 302, Jai Apartments,,Sector-9 Rohini,New Delhi,DELHI  110 085 "," 91-11-755 3976, 514 3836  ","",Delhi
+62, completed - things went wrong  , Madhab Nayak  ,  ,  ," , 302, Jai Apartments,,Sector-9 Rohini,New Delhi,DELHI  110 085 "," 91-11-755 3976, 514 3836  ","",DELHI
 64, completed - requirements ended  ,  ,  ,  ," , ,,Gahora,UTTAR PRADESH   ",   ,"",UTTAR PRADESH
 65, completed - requirements ended  , Sanjay Jain  ,  ,  ," , Thoubal Achouba, M.I. Road,Hotel Kongbra,Thoubal,MANIPUR  795138 ", (03848)-22641  ,"",MANIPUR
 68, completed - requirements ended  , Thimmappa Anekonda  ,  ,  ," , ,,,KARNATAKA   ",   ,"",KARNATAKA
-69, completed - requirements ended  , Jay Jayapalan  ,  ,  ," , ,,Mohuda Village,ORISSA  760002 ", 91-680-209755-63  ,"",ORISSA
+69, completed - requirements ended  , Jay Jayapalan  ,  ,  ," , ,,Mohuda Village,ORISSA  760002 ", 91-680-209755-63  ,"",ODISHA
 71, completed - requirements ended  ,  ,  ,  ," , L.C.Tyagi, Secretary,P.O.Jelu,Gagadi (via Tinvri),RAJASTHAN  346 004 ",   ,"",RAJASTHAN
 72, completed - requirements ended  ,  ,  ,  ," , ,,,ANDHRA PRADESH   ",   ,"",ANDHRA PRADESH
 74, completed - requirements ended  ,  ,  Aruna Chandrasekar  ,  ," , ,,,TAMIL NADU   ",   ,"",TAMIL NADU
@@ -78,7 +78,7 @@ pid,Status,Project Steward,Project Partner,Other Contacts,Project Address,Tel,St
 107, completed - requirements ended  , Raj Chauhan  ,  ,  ," , Mr. Narendra Kumar,Manav Mandir,Khaknar,MADHYA PRADESH  450332 ", (+91) 07325 86359  ,"",MADHYA PRADESH
 110, completed - requirements ended  , Garima Bhatia  ,  ,  ," , 17A, Brojen Mukherjee Road,,Behala,WEST BENGAL  700034 ",   ,"",WEST BENGAL
 111, completed - requirements ended  ,    , Subbaramiah R  , Sai Krishna  ," , General Secretary MICDA,11-8, NGOs colony,Puttur,ANDHRA PRADESH  517583 ", 877-2243901  ,"",ANDHRA PRADESH
-112, completed - requirements ended  , Venice Walters  , Govinda Lenka  , Chirag Shah  ," , VIA: Devidol, Phuanga and Niyali,,Juanga,ORISSA  PIN: 754109 ", 9861012151  ,"",ORISSA
+112, completed - requirements ended  , Venice Walters  , Govinda Lenka  , Chirag Shah  ," , VIA: Devidol, Phuanga and Niyali,,Juanga,ORISSA  PIN: 754109 ", 9861012151  ,"",ODISHA
 113, completed - requirements ended  , Harish Chawla  ,  ,  ," , Madurai Institute for Peace Science,Gandhi Museum.,Alathur Panchayat,TAMIL NADU  625 002 ", 530 291 / 560 229  ,"",TAMIL NADU
 114, completed - requirements ended  , Praveen Krishnan  ,  ,  ," , T-73-B, 30th Cross Street,Besant Nagar,Chennai,TAMIL NADU  600090 ", 91-44-491-7483  ,"",TAMIL NADU
 118, completed - things went wrong  , Kavita Kulkarni  ,  ,  ," , ,,Nandgad,KARNATAKA  591 120 ",   ,"",KARNATAKA
@@ -89,9 +89,9 @@ pid,Status,Project Steward,Project Partner,Other Contacts,Project Address,Tel,St
 124, current / ongoing  , Gaurav Agarwal  , Nandlal Master  , Kshitij Srivastava  ," , Village Nagepur (Usrapatti),Nagepur,Post Benipur,UTTAR PRADESH  221307 ", 91-542-2632433  ,"",UTTAR PRADESH
 126, completed - requirements ended  ,  ,  ,  ," , New English School and Junior College, Nevare,P.O. Nevare, Taluk and district Ratnagiri,Nevare,MAHARASHTRA  415 620 ", 47226  ,"",MAHARASHTRA
 128, completed - requirements ended  , Joydeep Mitra  , Nilanjan Adhya  ,  ," , Vill & Post-Jhilu,Dist. Burdwan,,WEST BENGAL  713 147 ",   ,"",WEST BENGAL
-130, terminated  ,  ,  ,  ," , Bharat Gyan Vigyan Samithi(Orissa),C/4 HIG flats,Housing Board colony,Baramunda,ORISSA  571003 ", 55089  ,"",Orissa
+130, terminated  ,  ,  ,  ," , Bharat Gyan Vigyan Samithi(Orissa),C/4 HIG flats,Housing Board colony,Baramunda,ORISSA  571003 ", 55089  ,"",ODISHA
 131, completed - requirements ended  , Sridhar Desikan  ,  ,  ," , ,,,TAMIL NADU   ",   ,"",TAMIL NADU
-132, completed - requirements ended  , Durgam Vahia  , Sameer Gosh  ,  ," , The Friends of the Doon, EBD Business Center,49 Rajpur Road,Dehra Doon,UTTARANCHAL  248001 ",  91-0135-657748  ,"",UTTARANCHAL
+132, completed - requirements ended  , Durgam Vahia  , Sameer Gosh  ,  ," , The Friends of the Doon, EBD Business Center,49 Rajpur Road,Dehra Doon,UTTARANCHAL  248001 ",  91-0135-657748  ,"",UTTARAKHAND
 133, completed - requirements ended  , Mukund Muralidhar  ,  ,  ," , 44, Old Post Office Street,Venkatapuram, Ambattur,,TAMIL NADU  600053 ", 011-91-44-681930  ,"",TAMIL NADU
 137, proposal-evaluation by chapter  , Geethapriya  Raghavan  , Sundari Srinivasan  ,  ," , Door 103, Puttanahalli,Kothanur Village,J.P. Nagar, 7th Phase,KARNATAKA   560 078 ", 22447407  ,"",KARNATAKA
 138, completed - requirements ended  , Ranjeet Ranade  , Pankaj Gupta  ,  ," , Gen J Bhosale Marg,Nariman Point,Mumbai,MAHARASHTRA  400021 ", (022) 22886975  ,"",MAHARASHTRA
@@ -117,7 +117,7 @@ pid,Status,Project Steward,Project Partner,Other Contacts,Project Address,Tel,St
 169, completed - requirements ended  ,  ,  ,  ," , 306 Kalakodi street, Tenkasi,,,TAMIL NADU  627811 ", 91-4633-81081  ,"",TAMIL NADU
 170, completed - requirements ended  , Anitha Sivasankaran  , Muralidharan V  , Anand Raghavan  ," , Sevalaya, Kasuva Village Pakkam PO,near Thiruninravur, 60202,Kasuva Village,TAMIL NADU  602024 ", 26344243 / 9444346699  ,"",TAMIL NADU
 174, completed - requirements ended  , Ranjini Reddy  ,  ,  ," , Mr. K. Murugesan, Project Co-ordinator (SHARE),33-A Christie Mathews Memorial Complex,T.B. Sanatorium P.O.,TAMIL NADU  632 011 ", 91-0416-224018 / 223524 / 7030  ,"",TAMIL NADU
-175, completed - requirements ended  ,  ,  ,  ," , P.V.G. Gujarati School,Navroji Cross Lane,Ghatkopar (West),MAHARASHTRA  400 086 ", 512 4617  ,"",Gujarat
+175, completed - requirements ended  ,  ,  ,  ," , P.V.G. Gujarati School,Navroji Cross Lane,Ghatkopar (West),MAHARASHTRA  400 086 ", 512 4617  ,"",GUJARAT
 176, completed - requirements ended  , Swathi and Sruthi Ramakrishnan  ,  , Vidyanand Rajpathak  ," , No. 7, 5th Main, 2nd Cross, Shankar Nagar,Nandini Layout Post (Opp Ashoka Heights Apts),,KARNATAKA  560096 ", (080)235-74801   ,"",KARNATAKA
 177, completed - sustainable  , Caroline Lobo  ,  ,  ," , 3rd Cross, 3rd Phase,Near Ragi Gudda,J.P. Nagar,KARNATAKA  560 078 ", 91 80 6631076  ,"",KARNATAKA
 178, terminated  ,  ,  ,  ," , 223C, Rajaji Street,,K.K. Nagar,TAMIL NADU   ",   ,"",TAMIL NADU
@@ -150,7 +150,7 @@ pid,Status,Project Steward,Project Partner,Other Contacts,Project Address,Tel,St
 214, completed - requirements ended  , Ankur Pariyani  ,  ,  ," , ,,,UTTAR PRADESH   ",   ,"",UTTAR PRADESH
 226, completed - requirements ended  , Raj Chauhan  , Srikanth Voorakaranam  ,  ," , Sector-4, Adarsh Nagar,,P.B. No. 12,,Phalodi,RAJASTHAN  342301 ", (02925) 22272  ,"",RAJASTHAN
 227, completed - requirements ended  ,  ,  ,  ," , Valluvar Gurukulam,74, G.S.T Road, Tambaram (West),Chennai,TAMIL NADU  600045 ",   ,"",TAMIL NADU
-229, Support ended.  , Kavitha Srinivasan  , Appanu Nambiar  , Hari Kannan  ," , Vanavasi Ashram,P.O. Periyar,Kerala,KERALA  670 644 "," 91-4935-260422 (school), 91-98  ","",Kerala
+229, Support ended.  , Kavitha Srinivasan  , Appanu Nambiar  , Hari Kannan  ," , Vanavasi Ashram,P.O. Periyar,Kerala,KERALA  670 644 "," 91-4935-260422 (school), 91-98  ","",KERALA
 230, terminated  ,  ,  ,  ," , R.G.Tamhane,Suhiketan,Karve Road,Abhyudaya Colony,Vishnunagar, Dombivali West,MAHARASHTRA  422005 ",   ,"",MAHARASHTRA
 231, completed - things went wrong  , Nandini Dendukuri  , Melli Annamalai  ,  ," , ,,,TELANGANA   ",   ,"",TELANGANA
 232, rejected  , Vikas Sawant  ,  ,  ," , Vasundhara Rural Reconstruction and Education Project,,Nerurpar,MAHARASHTRA  416525 ", 02362 - 22375  ,"",MAHARASHTRA
@@ -165,7 +165,7 @@ pid,Status,Project Steward,Project Partner,Other Contacts,Project Address,Tel,St
 242, completed - sustainable  , Prasad Naldurg  , Santosh Ansumali  ,  ," , ,,,WEST BENGAL   ", 91-33-2634-4821  ,"",WEST BENGAL
 244, completed - requirements ended  , Mugdha Velankar  , Garima Bhatia  ,  ," , C-2, Triveni,Gilbert HIll, J.P. Road,Andheri,MAHARASHTRA  400058 ", 91-22-2624-4304  ,"",MAHARASHTRA
 245, completed - things went wrong  , Nilanjan Adhya  ,  ,  ," , c/o Voice Of People,Nutan Diyarah, P.O. Nayabad P.S.,Sonarpur,WEST BENGAL  743 369 "," Tel- (9133) 462-0914, 462-0686  ","",WEST BENGAL
-246, completed - requirements ended  , Deepak Nayak  , Bhisma Rath  ,  ," , Headmaster, Bholanath M. E. School,P. O. : Jayapur, Via : Guamal,Itagari,ORISSA   ",   ,"",ORISSA
+246, completed - requirements ended  , Deepak Nayak  , Bhisma Rath  ,  ," , Headmaster, Bholanath M. E. School,P. O. : Jayapur, Via : Guamal,Itagari,ORISSA   ",   ,"",ODISHA
 247, completed - things went wrong  , Sanjay Chandran  ,  ,  ," , Ishan,8/1 College Row,,WEST BENGAL  9 ", 91 (33) 555-5018 or 241-2007  ,"",WEST BENGAL
 248, completed - sustainable  , Sapna Natarajan  , Sudha Balachandra  ,  ," , Postal Colony Road,,Chembur,MAHARASHTRA  400071 ", 91-22-5220224 / 91-22-5220225  ,"",MAHARASHTRA
 249, completed - requirements ended  , Shachi Patel  , Rajeev Kumar  , Lalit Dubey  ," , Officer,,Katihar,BIHAR  854105 ", 91-6452-229529  ,"",BIHAR
@@ -180,7 +180,7 @@ pid,Status,Project Steward,Project Partner,Other Contacts,Project Address,Tel,St
 261, completed - requirements ended  , Aritro Sinharoy  ,  , Trina Ghosh Dastidar  ," , Radhaballavpur;,P.O.-Bamongachi;,Langalberia,WEST BENGAL  743353 ", 91-33-437-1129  ,"",WEST BENGAL
 262, completed - requirements ended  , Ravi Kiran Kandikonda  ,  ,  ," , ,,,DELHI   ",   ,"",DELHI
 263, current / ongoing  , Shivashankar Halan  , Mathuram Shiamalababy  , Meera Sitharam  ," , 117 Suddananda Bharathi Streeet,East Thambaram,Chennai,TAMIL NADU  600059 ", 91-44-2378081  ,"",TAMIL NADU
-264, completed - requirements ended  , Yash Warke  ,  ,  ," , Himalayan Institute, Hospital Trust,,Jolly Grant, Dehra Doon,UTTARANCHAL  248140 ", 91.135.412095  ,"",UTTARANCHAL
+264, completed - requirements ended  , Yash Warke  ,  ,  ," , Himalayan Institute, Hospital Trust,,Jolly Grant, Dehra Doon,UTTARANCHAL  248140 ", 91.135.412095  ,"",UTTARAKHAND
 265, completed - requirements ended  ,  , Mohan Kumaravel  ,  ," , No.5 APCT Complex, Perianahalli, 635205,,Perianahalli,TAMIL NADU  635 205 ", (91) 04348- 47407  ,"",TAMIL NADU
 266, completed - requirements ended  , Sowmya Subramanian  ,  ,  ," , State Bank Road,,,Dombivili-East,MAHARASHTRA   ",   ,"",MAHARASHTRA
 267, current / ongoing  , Kriti Agarwal  , Shivani Taneja  , Garima Bangard  ," , Muskaan, 14, Nadir Colony,Shamla Hills,Bhopal,MADHYA PRADESH  462013 ", 011 91 9425600382  ,"",MADHYA PRADESH
@@ -202,7 +202,7 @@ pid,Status,Project Steward,Project Partner,Other Contacts,Project Address,Tel,St
 284, current / ongoing  , Robin Gupta  , Biju Borbaruah  , Vidhya Govinadraju  ," , Asha Darshan,-,Tamulpur,ASSAM  781367 ", 091 36 24287364  ,"",ASSAM
 285, completed - requirements ended  ,  ,  ,  ," , ,,,UTTAR PRADESH   ",   ,"",UTTAR PRADESH
 286, completed - requirements ended  ,  ,  ,  ," , Plot No. 62, Tarate Colony, Karve Road,,,Pune,MAHARASHTRA  411004 "," 5463259, 5446258  ","",MAHARASHTRA
-287, completed - requirements ended  , Rahul Ranjan  , Indrajit Khurana  ,  ," , 3731 -A,Sriram Nagar, Samantarpur, Old Town,,Bhubaneswar,ORISSA  751002 ", 91 674 2340746  ,"",ORISSA
+287, completed - requirements ended  , Rahul Ranjan  , Indrajit Khurana  ,  ," , 3731 -A,Sriram Nagar, Samantarpur, Old Town,,Bhubaneswar,ORISSA  751002 ", 91 674 2340746  ,"",ODISHA
 288, completed - sustainable  , Arulchandran Paramasivam  , Thomas Parthiban  ,  ," , ,,,TAMIL NADU   ", 91-4552-242653  ,"",TAMIL NADU
 290, completed - requirements ended  , Santhosh Sundararaman  , Mrs. Jayalakshmi Rajagopal  , Subhashree Rajagopal  ," , ,,Neelankarai,TAMIL NADU   ",   ,"",TAMIL NADU
 291, current / ongoing  , Melli Annamalai  , H. D. Malathi  ,  ," , 4 Canter Ct,H.D.Kote Taluk,Nashua,KARNATAKA  03063 ", 6038863332  ,"",KARNATAKA
@@ -211,14 +211,14 @@ pid,Status,Project Steward,Project Partner,Other Contacts,Project Address,Tel,St
 296, completed - requirements ended  , Melli Annamalai  , G. S Jayadeva  ,  ," , Mr. Jayadeva, Deenabandhu Trust, Behind Forest Nursery,P.W.D Colony,Chamarajanagar,KARNATAKA  571313 "," 0821-722556, 722922  ","",KARNATAKA
 297, completed - requirements ended  ,  ,  ,  ," , McCluskieganj,,,JHARKHAND   ",   ,"",JHARKHAND
 299, completed - requirements ended  , Mohit Agnihotri  ,  , Vallabh Pandey  ," , Gram-Lathudih PO-Ganidhinagar,,,Zila – Gazipur,UTTAR PRADESH  233225 ", +91-05493-283370  ,"",UTTAR PRADESH
-300, current / ongoing  , Nagender Bandi  , Somnath Singha Roy  , Shouvik Chatterjee  ," , Mandra Lions Club,Sarada Pally, Baghmundi, Purulia, West Bengal, India,Baghmundi,WEST BENGAL  723152 ", 9103252250381  ,"",West Bengal
+300, current / ongoing  , Nagender Bandi  , Somnath Singha Roy  , Shouvik Chatterjee  ," , Mandra Lions Club,Sarada Pally, Baghmundi, Purulia, West Bengal, India,Baghmundi,WEST BENGAL  723152 ", 9103252250381  ,"",WEST BENGAL
 301, completed - requirements ended  , Radha Ganesan  , Radha Ganesan  ,  ," , R.M.K.M. c/o Mr.Sagarmal Kaushik, 112/10, Civil Lines,,Opp. Savitri School,Ajmer,RAJASTHAN  305 006 ",   ,"",RAJASTHAN
 302, completed - requirements ended  , Anu Subramaniam  ,  ,  ," , 84 Hennur Road,,Kariyanapalya,KARNATAKA  560084 ",   ,"",KARNATAKA
 304, completed - requirements ended  , Ullas Nambiar  ,  ,  ," , Namma Mane,34 Annasandrapalya,,Vimanapura,KARNATAKA  560017 ", 80-5232749  ,"",KARNATAKA
 306, completed - requirements ended  , Snigdha Verma  ,  ,  ," , P.O. Joka,24 Paragans,Thakurpukur,WEST BENGAL   ",   ,"",WEST BENGAL
-307, completed - requirements ended  , Minali Balaram  ,  ,  ," , Boomtar Namchi,South Sikkim,Boomtar,SIKKIM  737126 ", 91-3595-263653  ,"",Sikkim
+307, completed - requirements ended  , Minali Balaram  ,  ,  ," , Boomtar Namchi,South Sikkim,Boomtar,SIKKIM  737126 ", 91-3595-263653  ,"",SIKKIM
 308, completed - requirements ended  , Amit Mookerjee  ,  ,  ," , Vidya Bhawan Education Centre,Dr. Mohan Sinha Mehta Marg,,Dewali,RAJASTHAN  313001 ", 91-(294) 450911/ 451323/ 45149  ,"",RAJASTHAN
-309, completed - sustainable  , Mona Sehgal  , Mona Sehgal  , Kamala Raman  ," , 192 Dharma Vihar,,Khndagiri,,Chandanhandi block, Bhubaneswa,ORISSA  751030 ", (91) 0674 - 2351051  ,"",ORISSA
+309, completed - sustainable  , Mona Sehgal  , Mona Sehgal  , Kamala Raman  ," , 192 Dharma Vihar,,Khndagiri,,Chandanhandi block, Bhubaneswa,ORISSA  751030 ", (91) 0674 - 2351051  ,"",ODISHA
 310, completed - requirements ended  , Ravichandra Palaparthi  ,  ,  ," , P.Sonaimuthu, Executive Director - SAADOW,119-D/6B, Behind Central Theatre,Natham,TAMIL NADU  624 401 ", 04544 –245111  ,"",TAMIL NADU
 311, Support ended.  , Satya Mishra  , Vallabh Pandey  , Chakravarthy Meduri  ," , Village–Matuchauri, Post-Uchauri,,Tehsil-Saidpur, Zilla-Gazipur,,UTTAR PRADESH   ",   ,"",UTTAR PRADESH
 312, proposal - received  , Sameer Parikh  ,  ,  ," , Ajay Raina c/o Raiz Sheikh - Elite Flats,Off Narayan Nagar Roadd, Near Jettabai Park Bus Stop,Paldi,GUJARAT  380 007 ", 079 - 6608537  ,"",GUJARAT
@@ -232,7 +232,7 @@ pid,Status,Project Steward,Project Partner,Other Contacts,Project Address,Tel,St
 328, completed - requirements ended  , Rajesh Zele  ,  ,  ," , C\O, Shri. B.V.Dalvi,,4\131,Nirmal Nagar,MHB Colony,,Bandra (East),Mumbai,MAHARASHTRA  400051 ", O22-26475440  ,"",MAHARASHTRA
 331, completed - requirements ended  , Devdatta Akhawe  , Ajeet Singh  , Nina John  ," , S-8/395, Khajuri Colony,,,UTTAR PRADESH  2 ", 91-542-2504253  ,"",UTTAR PRADESH
 332, completed - requirements ended  , Prasoon Diwakar  , Priya Theodore  , Vijaya Swaminathan  ," , 8/11,,Mannarpuram,TAMIL NADU  620020 ", 0431 - 2422121  ,"",TAMIL NADU
-335, completed - requirements ended  , Sai Manohar Gopisetty  , Joyashree (Ranu) Mahanti  ,  ," , Debasis Bhawan, Near Ramji Mandir,,Smbalpur,ORISSA  768001 ", 0663-400849  ,"",ORISSA
+335, completed - requirements ended  , Sai Manohar Gopisetty  , Joyashree (Ranu) Mahanti  ,  ," , Debasis Bhawan, Near Ramji Mandir,,Smbalpur,ORISSA  768001 ", 0663-400849  ,"",ODISHA
 338, completed - requirements ended  , Jayashree Janardhan  ,  ,  ," , AID-India,Old No. 132,Avvai Shanmugam Salai,Gopalapuram,TAMIL NADU  600086 ", 91-44-811 5058  ,"",TAMIL NADU
 339, completed - requirements ended  , Ajitha Koratala  , Ravi Kumar  ,  ," , 12-13-1173, Street #10,Tarnaka,Secunderabad,TELANGANA  500017 ", 91-40-27017700/7019315/7150107  ,"",TELANGANA
 340, completed - requirements ended  , Lakshmi Venkatesh  ,  ,  ," , Vidya Vrikshah,,3, Tiruveedi Amman street. RK Nagar,,Chennai,TAMIL NADU  600 028 ", 011-91-44-24937926  ,"",TAMIL NADU
@@ -256,7 +256,7 @@ pid,Status,Project Steward,Project Partner,Other Contacts,Project Address,Tel,St
 370, completed - requirements ended  , Bala Pesala  ,  ,  ," , c/o Dr.Prasanna, President,Yadavallivaristreet,Kothapet,ANDHRA PRADESH  522001 ", +91 (0863) 2290293  ,"",ANDHRA PRADESH
 375, completed - requirements ended  , Salil Dave  , Saroj Budhwar  , Vibha Chhatwal Sarin  ," , 112/269, Swaroop Nagar,,Kanpur,UTTAR PRADESH  208002 ", 91-512-2543375  ,"",UTTAR PRADESH
 378, completed - requirements ended  , Murali Mani  , Prof. Mani T. K  ,  ," , Mithram Rehabilitation Complex,,Kanjirikkappilly, Arakunnam P.O,,KERALA  682313 ", (91-484) 2748391  ,"",KERALA
-381, completed - requirements ended  , Dilip Warrier  ,  ,  ," , CII/10, BAPA Nagar,,New Delhi,,DELHI  110003 ", +91-11-338-8900  ,"",Delhi
+381, completed - requirements ended  , Dilip Warrier  ,  ,  ," , CII/10, BAPA Nagar,,New Delhi,,DELHI  110003 ", +91-11-338-8900  ,"",DELHI
 384, completed - requirements ended  , Anju Anand  , Ravi Manghani  ,  ," , ,,,GUJARAT   ",   ,"",GUJARAT
 385, completed - requirements ended  ,  ,  ,  ," , 21/322, Chinmaya Road,,,Fort, Tripunithura,KERALA  682301 ",   ,"",KERALA
 386, completed - requirements ended  ,  ,  ,  ," , Kuthambakkam Village Panchayat,,Kuthambakkam,TAMIL NADU  602107 ",   ,"",TAMIL NADU
@@ -271,18 +271,18 @@ pid,Status,Project Steward,Project Partner,Other Contacts,Project Address,Tel,St
 402, completed - requirements ended  , Pankaj Gupta  , Dr. Sheel Thakur  ,  ," , REaD Technical Education Center,R.K. Girls Inter College,,Tewaripur, UP,UTTAR PRADESH   ",   ,"",UTTAR PRADESH
 403, completed - requirements ended  , Indraneel Kanaglekar  ,  ,  ," , ,,Padel,MAHARASHTRA   ",   ,"",MAHARASHTRA
 404, completed - things went wrong  , Brijesh Shrivastav  , Prem Kumar  ,  ," , Fatehpur Nattha, PO. Bilari, Jila Muradabad, U.P. 202411,,,UTTAR PRADESH  202411 ", 91- 9412839020  ,"",UTTAR PRADESH
-405, completed - requirements ended  , Sudarshan Setlur  ,  ,  ," , Tamil Nadu Science Forum 130/3,,Avvai Shanmugam Salai, Gopalapuram,,TAMIL NADU  600086 ", (011)-(91)-44-28113630  ,"",Tamil Nadu
+405, completed - requirements ended  , Sudarshan Setlur  ,  ,  ," , Tamil Nadu Science Forum 130/3,,Avvai Shanmugam Salai, Gopalapuram,,TAMIL NADU  600086 ", (011)-(91)-44-28113630  ,"",TAMIL NADU
 408, completed - requirements ended  , Nirupama Gopalaswami  , K Murthy   ,  ," , 1A,Kalaigner Karunanidhi Street,,Melnallathur and Post, Thiruvallur District, ,Thiruvallur,TAMIL NADU  602002 ", 91 9443340137  ,"",TAMIL NADU
 409, completed - requirements ended  , Sunil Laxman  , Srinivas Akula  ,  ," , Mother India Community Development Association,,11-42, NGO,Puttur,ANDHRA PRADESH  517 583 ", (91) - 98577 - 31782  ,"",ANDHRA PRADESH
 410, completed - requirements ended  , Smruti Behera  , Sushma Veerappa  ,  ," , Vivekanandanagara,Post Kukkundoor(West),,KARNATAKA  576117 ",   ,"",KARNATAKA
 412, Support ended.  , Vidyanand Rajpathak  , Guruswamy Kumaraswamy  , Premnath Venugopalan  ," , Secretary, Matimand Shikshan Mandal, Mamata Vidyalala,Pragat Hospital, Dhulia Road,Amalner,MAHARASHTRA  425401 ", (02587)225512; (02587)222293  ,"",MAHARASHTRA
 413, completed - requirements ended  , Vamsi Gadey  , Ajay Kumar  , Vignesh Ramakrishnan  ," , ,,,ANDHRA PRADESH   ",   ,"",ANDHRA PRADESH
 414, current / ongoing  , Sharan Asundi  , Varghese Cleatas  , Madhukar Govindaraju  ," , Vikasana,,P.B.No.23, Galihalli cross,Tarikere taluk,Chikmagalur Dist.,Tarikere,KARNATAKA  577228 ", 011 91 8261422570  ,"",KARNATAKA
-415, completed - requirements ended  , Shobha Murali  , Dr. Ven Dhammapiya  , Anita Shah  ," , Bahujana Hitaya Education Trust,P.O. Bishnupur, Manu Bankul,Sabroom, South Tripura,TRIPURA   "," 91-3823-275295, 275329  ","",Tripura
+415, completed - requirements ended  , Shobha Murali  , Dr. Ven Dhammapiya  , Anita Shah  ," , Bahujana Hitaya Education Trust,P.O. Bishnupur, Manu Bankul,Sabroom, South Tripura,TRIPURA   "," 91-3823-275295, 275329  ","",TRIPURA
 416, completed - requirements ended  , Vaibhavi Gala  , Anita Balasubramanium  , Suraj Jacob  ," , ,,,DELHI   ",   ,"",DELHI
 417, completed - sustainable  , Shalaka Natu  , Sunderrajan Krishnan  ,  ," , ,,,JAMMU AND KASHMIR   ",   ,"",JAMMU AND KASHMIR
 418, completed - requirements ended  , Giridhar Kolanupaka  , P Purnachandra Rao  ,  ," , Plot 60, Satavahana HMT Colony,Kukatpally,Hyderabad,ANDHRA PRADESH  500072 ", 9848235103  ,"",ANDHRA PRADESH
-419, current / ongoing  , Anita Shah  , Sunita Changkakati  , Bhargavi Ramamurthy  ," , Assam Center for Rural Development,  29, PB Road,P.O.-Rihabari,Guwahati,ASSAM  781008 ", 091-361-2632672  ,"",Assam
+419, current / ongoing  , Anita Shah  , Sunita Changkakati  , Bhargavi Ramamurthy  ," , Assam Center for Rural Development,  29, PB Road,P.O.-Rihabari,Guwahati,ASSAM  781008 ", 091-361-2632672  ,"",ASSAM
 421, completed - requirements ended  , Shanthi Kalpat  ,  ,  ," , Samrakshan-Kuno Project,,Village Agraa, Tehsil Vijaypur,MADHYA PRADESH  466332 ",   ,"",MADHYA PRADESH
 422, current / ongoing  , Melli Annamalai  , S Vikki  ,  ," , 375 East street,Karumbalai,Madurai,TAMIL NADU  625020 ", 91 7667484643  ,"",TAMIL NADU
 423, completed - requirements ended  , Pankaj Jagtap  , Harshavardhan Purandare  ,  ," , Manik Avghade,c/0 Mahadeo Jadhav,Saidapur,MAHARASHTRA  415110 ", 02164 272921  ,"",MAHARASHTRA
@@ -298,7 +298,7 @@ pid,Status,Project Steward,Project Partner,Other Contacts,Project Address,Tel,St
 443, completed - sustainable  , Ipsita  Sinha  , Abesh  Choudhury  ,  ," , ,,,WEST BENGAL   ",   ,"",WEST BENGAL
 444, completed - requirements ended  , Shankar Srinivas  ,  ,  ," , ,,,DELHI   ",   ,"",DELHI
 450, completed - requirements ended  , Mohit Agnihotri  , Sandeep Pandey  ,  ," , ,,Kanpur,UTTAR PRADESH   ", 0512-2770072  ,"",UTTAR PRADESH
-451, completed - requirements ended  , Krish Krishnamurthy  ,  ,  ," , Vijaya Saw Mill, Kumta (N Kanara),Karnataka,Divgi,KARNATAKA  583143 ", +91 838 662 2064  ,"",Karnataka
+451, completed - requirements ended  , Krish Krishnamurthy  ,  ,  ," , Vijaya Saw Mill, Kumta (N Kanara),Karnataka,Divgi,KARNATAKA  583143 ", +91 838 662 2064  ,"",KARNATAKA
 452, completed - requirements ended  , Farid Abbasi  ,  , Sandeep Pandey  ," , Asha,A-893 Indiara Nagar,Lucknow,UTTAR PRADESH  226016 ", 91-983-942-2521  ,"",UTTAR PRADESH
 453, completed - requirements ended  , Hitendra Munjampally  , Swati Chavan  , Kiran Shah  ," , 94/17, Arvind Society,S.No.29, Anand Nagar, Hingne (Ku.),Pune,MAHARASHTRA  411051 "," +91-20-4351805, +91-20-4357445  ","",MAHARASHTRA
 455, completed - requirements ended  , Gautam Banerjee  ,  ,  ," , Hazinagar, Lichutala,P.O. Chandannagar, Dist. Hooghly,,WEST BENGAL  712136 ", 91-33-2683-5511  ,"",WEST BENGAL
@@ -307,11 +307,11 @@ pid,Status,Project Steward,Project Partner,Other Contacts,Project Address,Tel,St
 458, current / ongoing  , Suhas Satheesh  , Dr SP Singh  ,  ," , H. No. 100 , Village and Post,Sushuwahi ,Karmnavir,UTTAR PRADESH  221005 ", 0542 318574  ,"",UTTAR PRADESH
 463, completed - requirements ended  , Brijesh Shrivastav  , Vallabh Pandey  ,  ," , C/O Anil Kumar, OM Nagar Colony,Beripur, Sarnath Lane No 1,,UTTAR PRADESH  221002 ",   ,"",UTTAR PRADESH
 464, completed - requirements ended  , Mehar Singh  , Uday Gosain  ,  ," , 18B, Shipra Sun City, Indirapuram, Gaziabad,,Noida,UTTAR PRADESH  201010 ", 0120 2912219  ,"",UTTAR PRADESH
-465, completed - requirements ended  , Niti Kumar  , Uday Gosain  ,  ," , AG- 17, Shalimar Bagh,,Delhi,DELHI  110088 ", 91-11-27478956  ,"",Delhi
+465, completed - requirements ended  , Niti Kumar  , Uday Gosain  ,  ," , AG- 17, Shalimar Bagh,,Delhi,DELHI  110088 ", 91-11-27478956  ,"",DELHI
 466, completed - things went wrong  , Vipul Bansal  ,  ,  ," , B 8/77-A Bara Gambhir Singh,Bhelupura,Varanasi,UTTAR PRADESH   ", 91-542-23411339/2276413  ,"",UTTAR PRADESH
 472, completed - requirements ended  , Mohanchandra P  ,  ,  ," , Vanashree trust,Joga Road,Sagar,KARNATAKA  577401 ", 91-8183-326996  ,"",KARNATAKA
 473, completed - requirements ended  , Padma Dakoju  ,  ,  ," , Gaya Dobhi Road (Near Magadh University Bodhgaya),P.O Magadh University Postoffice Bodhgaya District,Gaya,BIHAR  824234 ", + 91 - 631 2200657  ,"",BIHAR
-474, terminated  , Navin Kashyap  , Anouradha Bakshi  ,  ," , C-15, Chiragh Enclave,,New Delhi,DELHI  110 048 "," +91 11 2626 9915, 9811424877  ","",Delhi
+474, terminated  , Navin Kashyap  , Anouradha Bakshi  ,  ," , C-15, Chiragh Enclave,,New Delhi,DELHI  110 048 "," +91 11 2626 9915, 9811424877  ","",DELHI
 476, completed - requirements ended  ,  ,  ,  ," , ,,Loni,MAHARASHTRA   ",   ,"",MAHARASHTRA
 481, Support ended.  , Shankar Srinivas  , Kiran Prasad  ,  ," , ,,,KARNATAKA   ",   ,"",KARNATAKA
 483, Proposal - Closed  , Keshav Ramarao  , Srijan Chakraborty  ,  ," , ,,,GUJARAT   ",   ,"",GUJARAT
@@ -332,10 +332,10 @@ pid,Status,Project Steward,Project Partner,Other Contacts,Project Address,Tel,St
 504, completed - requirements ended  , Srikanth Voorakaranam  , Subrahmanya Kuchibhotla  ,  ," , ,,,KARNATAKA   ",   ,"",KARNATAKA
 505, current / ongoing  , Sriram    , Kasturi Easwaran  ,  ," , First Floor, 85/2, Luz Avenue, Mylapore, Chennai 600004,Near Nageswara rao park ,Chennai,TAMIL NADU  600004 ", 91-9840820210  ,"",TAMIL NADU
 510, completed - requirements ended  , Namita   Agrawal  , surjitkumar yumkhaibam  , Shantikumar NIngthoujam  ," , Moirang Lamkhai,Moirang Lamkhai,Moirang,MANIPUR  795133 ", 913879262399  ,"",MANIPUR
-512, completed - requirements ended  , Vani Mynampati  , Reetu Sogani  ,  ," , Premkuti,,Pokharkhali,UTTARANCHAL  263601 ", (91) 94129-52639  ,"",UTTARANCHAL
+512, completed - requirements ended  , Vani Mynampati  , Reetu Sogani  ,  ," , Premkuti,,Pokharkhali,UTTARANCHAL  263601 ", (91) 94129-52639  ,"",UTTARAKHAND
 517, completed - requirements ended  , Srikanth Pilla  , Padmavathi Peri  ,  ," , Helen Keller Memorial Association for the Blind,Lakshmipuram,,ANDHRA PRADESH   ", 91-891-2550174  ,"",ANDHRA PRADESH
 520, completed - requirements ended  , Sunil Laxman  ,  ,  ," , Suvidya #206, 30th A Cross, 9th Main,Jayanagar,Bangalore,KARNATAKA  560041 ", 080 - 56700142  ,"",KARNATAKA
-521, completed - requirements ended  , Salil Phadnis  , Shailen Mistry  ,  ," , Pindval, Taluka: Dharampur, Jilla: Valsad,Gujarat,,GUJARAT  396050 ", c/o 02633-242-367  ,"",Gujarat
+521, completed - requirements ended  , Salil Phadnis  , Shailen Mistry  ,  ," , Pindval, Taluka: Dharampur, Jilla: Valsad,Gujarat,,GUJARAT  396050 ", c/o 02633-242-367  ,"",GUJARAT
 525, rejected  , Sachin Mehta  , Sachin Mehta  ,  ," , AT, POSTAND TALUKA SHIRPUR,,SHIRPUR, MAIN ROAD,Shirpur,MAHARASHTRA  425405 ", 91 2563 255561  ,"",MAHARASHTRA
 527, completed - requirements ended  , Prem Gangalakunta  , Giridhar Kolanupaka  , Viswanath Puttagunta  ," , Haritha Ecological Institute,P.O.Box No.26,Paloncha,TELANGANA  507115 ", (91) 939-738-2796  ,"",TELANGANA
 529, completed - requirements ended  , Binay Pathak  , Anita Balasubramanium  ,  ," , c/o Meenakshi Balasubramanian,A 1007, Marvel Apoorva Apts, Kalasathamman Koil St, Ramavara,,TAMIL NADU  600089 ",   ,"",TAMIL NADU
@@ -360,14 +360,14 @@ pid,Status,Project Steward,Project Partner,Other Contacts,Project Address,Tel,St
 567, completed - requirements ended  , Krish Krishnamurthy  ,  ,  ," , Vivek Nagar, Kumta,,,KARNATAKA  581343 ", +91 (838) 622-2064  ,"",KARNATAKA
 568, completed - requirements ended  , Debapriya Mazumdar  ,  , Soumyadeb Mitra  ," , Kalyan Sangha,Dist: Purba  Medinipur,Deulpota P.O. Barbasudevpur,WEST BENGAL  721645 ", +91-3224-286673  ,"",WEST BENGAL
 572, completed - requirements ended  , Kasturi Easwaran  , Kasturi Easwaran  , Ananth ES  ," , ,,,TAMIL NADU   ",   ,"",TAMIL NADU
-573, completed - requirements ended  , Satish Gopalakrishnan  , Sreelekha Ray  ,  ," , Voluntary Health Association of Tripura,CIRCUIT HOUSE AREA,P.O. KUNJABAN,TRIPURA  799 006 "," (0381) 222 2849,  230 0482  ","",Tripura
+573, completed - requirements ended  , Satish Gopalakrishnan  , Sreelekha Ray  ,  ," , Voluntary Health Association of Tripura,CIRCUIT HOUSE AREA,P.O. KUNJABAN,TRIPURA  799 006 "," (0381) 222 2849,  230 0482  ","",TRIPURA
 574, current / ongoing  , Jyoti Gawade  , Yogesh Kulkarni  ,  ," , Vigyan Ashram,Hwy 54,Pabal,MAHARASHTRA  412403 ", 011 91 20 25360203  ,"",MAHARASHTRA
 575, completed - requirements ended  , Sowmya Subramanian  , Sunil Laxman  , Sanjeev Ranganathan  ," , Mother India Community Development Association (MICDA),24-16, NGO,Puttur,ANDHRA PRADESH  517583 ", (91)-98577-31782  ,"",ANDHRA PRADESH
 577, completed - things went wrong  , Anusha Anantharaju  ,  , Shailender Nagpal  ," , Bhagwan Shri Ram,,Village Sotai, Distt. Ballabga,HARYANA   "," 0129-2207144, 0129-2244008  ","",HARYANA
 578, current / ongoing  , Vidhya Sridhar  , Meenakshi Umesh  , Vidhya Sridhar  ," ,  Puvidham Rural Development Trust,Nagarkooda Village Post,Nagarkooda Village Post,TAMIL NADU  636803 ", 91-4342-311641  ,"",TAMIL NADU
 579, current / ongoing  , Sowmya Suryanarayanan  , Siddamma E  , Vikram Iyengar  ," ,  184/14C-2 Jayanagar,,,,TAMIL NADU   "," 9884080048(C), 44-65519972(H)  ","",TAMIL NADU
 582, completed - requirements ended  , Salil Phadnis  , Madhavi Samson  , Snetu Karania  ," , Kacchi Colony,,Tughlakabad,DELHI   ",   ,"",DELHI
-583, Proposal - Closed  , Rohini Muthuswami  , Tulika Agrawal  ,  ," , Vigyan Vijay Foundation, H-2/2-5, Mahavir Enclave,,Palam-Dabri Road,New Delhi,DELHI  110045 "," 01120551616, 9810248197, 98104  ","",Delhi
+583, Proposal - Closed  , Rohini Muthuswami  , Tulika Agrawal  ,  ," , Vigyan Vijay Foundation, H-2/2-5, Mahavir Enclave,,Palam-Dabri Road,New Delhi,DELHI  110045 "," 01120551616, 9810248197, 98104  ","",DELHI
 585, Support ended.  , Santhosh Padmanabhan  ,  ,  ," , Chandranagar and Kumaraswamy Layout,,Bangalore,KARNATAKA   ",   ,"",KARNATAKA
 586, completed - requirements ended  , Susan Seats  , Mukund Muralidhar  ,  ," , VR Pillai Street,,Chepauk, Chennai,TAMIL NADU   ",   ,"",TAMIL NADU
 587, current / ongoing  , Madan Appiah  , T. K. Elumalai  ,  ," , Periya paalayathu amman  Kovil street,Old mamallapuram road, Thandalam village,Thirupporur,TAMIL NADU  603110 ", 011-91-9442531003  ,"",TAMIL NADU
@@ -392,7 +392,7 @@ pid,Status,Project Steward,Project Partner,Other Contacts,Project Address,Tel,St
 618, completed - requirements ended  , Srikanth Voorakaranam  , Srikanth Voorakaranam  ,  ," , Namma Bhoomi,,Kundapur,KARNATAKA   ",   ,"",KARNATAKA
 619, current / ongoing  , Robin Gupta  , MAHESH  PANDEY  ,  ," , ASHA TRUST ,685 /A Village Post Tatiyaganj, Mandhana, Kanpur Nagar,kanpur,UTTAR PRADESH  209217 ", 011  9198385 46900  ,"",UTTAR PRADESH
 620, current / ongoing  , Neena Pemmaraju  , Radhika Sethi  ,  ," , Plot 4119,DLF Phase IV,Gurgaon,HARYANA  122002 ", 011 91 9810278051  ,"",HARYANA
-622, rejected  , Nirav Desai  ,  ,  ," , Animators for Community Development, Pondichery,,,PONDICHERRY   ",   ,"",PONDICHERRY
+622, rejected  , Nirav Desai  ,  ,  ," , Animators for Community Development, Pondichery,,,PONDICHERRY   ",   ,"",PUDUCHERRY
 623, completed - requirements ended  , Rajaraman Krishnan  ,  ,  ," , ,,,TAMIL NADU   ",   ,"",TAMIL NADU
 624, completed - requirements ended  , Raakhi Agrawal  ,  , Mona Sehgal  ," , ,,,UTTAR PRADESH   ",   ,"",UTTAR PRADESH
 626, current / ongoing  , Rajaraman Krishnan  , Rajaraman Krishnan  ,  ," , First Floor, 85/2, Luz Avenue, Mylapore, Chennai 600004,Near Nageswara rao park,Chennai,TAMIL NADU  600004 ", 011919444404060  ,"",TAMIL NADU
@@ -401,7 +401,7 @@ pid,Status,Project Steward,Project Partner,Other Contacts,Project Address,Tel,St
 633, completed - requirements ended  , Padma Subbaraya  , Dr R Balasubramaniam  , Madhavi Cherukuri  ," , Swami Vivekananda Youth Movement,Hanchipura rd,Saragur,KARNATAKA  571121 ", 91-821-265412  ,"",KARNATAKA
 634, current / ongoing  , Jyotsna Gidugu   , Venugopalan R  ,  ," , ASHRAYA PULLIYIL KILIKOLLOOR,N/A,Kollam,KERALA  691004 ", 91 9446315656  ,"",KERALA
 635, completed - requirements ended  , Chandana Pairla  , T. Venkateswara Rao  ,  ," , Madhavi Nilayam,   J. K. C. College Road Extension,,,Guntur,ANDHRA PRADESH  522006 ", 91-863-2359181  ,"",ANDHRA PRADESH
-636, completed - sustainable  , Chadramouli Ganesan  , Hari Bist  , Anamika Batra  ," , c/o Prof. Hari Bist,14-35, GB Pant Marg,Haldwani,UTTARANCHAL  263141 ", 91 8941032868  ,"",UTTARANCHAL
+636, completed - sustainable  , Chadramouli Ganesan  , Hari Bist  , Anamika Batra  ," , c/o Prof. Hari Bist,14-35, GB Pant Marg,Haldwani,UTTARANCHAL  263141 ", 91 8941032868  ,"",UTTARAKHAND
 637, completed - requirements ended  , Rajaraman Krishnan  , Bhaskar Venkateswaran  ,  ," , ,,,TAMIL NADU   ",   ,"",TAMIL NADU
 638, completed - requirements ended  , Prasanth Ramanand  , Premila Harimohan  , Anita Chawla  ," , â€œ Sruthishilpamâ€, 21/1252 A ,,Palluruthy,Kochi,KERALA  682006 ", 91-484-2328977 / 2232598  ,"",KERALA
 640, completed - requirements ended  , Ramchandar Krishnamurthy  , Ramchandar Krishnamurthy  ,  ," , Flat 5, Shree Datta Krupa,,908 Deccan Gymkahana,,Pune,KARNATAKA  411004 ",   ,"",KARNATAKA
@@ -424,8 +424,8 @@ pid,Status,Project Steward,Project Partner,Other Contacts,Project Address,Tel,St
 667, completed - requirements ended  , DP Prakash  , K Murthy   , Uma V  ," , Old No, 5 New No, 26 Second Floor, Zinda Street, Kondithope,,Chennai,TAMIL NADU  6000079 ", 9840340244  ,"",TAMIL NADU
 668, current / ongoing  , Jim Cavender  , B. Ramdas  ,  ," , Vishwa Bharathi Vidyodaya Trust,P. O. BOX NO. 28,Gudalur,TAMIL NADU  643212 ", 011 91 4262261927  ,"",TAMIL NADU
 671, current / ongoing  , Padmanava Sen  , Sankar Halder  , Hitten Zaveri  ," , Purbasridharpur, Raidighi,24 Pargs(s),South 24 Parganas,WEST BENGAL  743383 ", 011 91 33 24625544  ,"",WEST BENGAL
-677, completed - requirements ended  , Kirtimalini Gadre Bhattacharya  , Raj Jeba Durai .N  , Biju Borbaruah  ," , c/o G.Radhapyari & Lata Devi,Kwakeithel Laishram Leikai,,Imphal, Manipur,MANIPUR  795001 "," +91(0)3852230227, 09856164548  ","",Manipur
-678, completed - requirements ended  , Dinesh Upreti  , Uday Gosain  , Ravi M.R.  ," , 5, M-1 Street,IIT, Hauz Khas,,,Delhi,DELHI  110016 ",   ,"",Delhi
+677, completed - requirements ended  , Kirtimalini Gadre Bhattacharya  , Raj Jeba Durai .N  , Biju Borbaruah  ," , c/o G.Radhapyari & Lata Devi,Kwakeithel Laishram Leikai,,Imphal, Manipur,MANIPUR  795001 "," +91(0)3852230227, 09856164548  ","",MANIPUR
+678, completed - requirements ended  , Dinesh Upreti  , Uday Gosain  , Ravi M.R.  ," , 5, M-1 Street,IIT, Hauz Khas,,,Delhi,DELHI  110016 ",   ,"",DELHI
 680, Support ended.  , Chalam Plachikkat  , Rekha Chauhan  ,  ," , Aswari,Raja Talab,,UTTAR PRADESH   ",   ,"",UTTAR PRADESH
 682, completed - requirements ended  , Sangeitha Thayalan  , Bimal Mondal  , Anirban Patra  ," , Kaorakhali, via Nimpith Ashram, P.S. Kultali ,Via Nimpith Ashram, P.S - Kultali,Kaorakhali,WEST BENGAL  743338 ", 91-97325-68825  ,"",WEST BENGAL
 683, completed - requirements ended  , Danny Kedem  , Rohini Muthuswami  ,  ," , ,,,DELHI   ",   ,"",DELHI
@@ -436,14 +436,14 @@ pid,Status,Project Steward,Project Partner,Other Contacts,Project Address,Tel,St
 697, current / ongoing  , Dhwanil Shukla  , Ramesh Kasondra  , Anuradha Bulusu  ," , A-18 Pushpadhan Bungalows,Link Road Near  HFDC Bank,Bharuch,GUJARAT  392001 ", 011-91-9662006293  ,"",GUJARAT
 700, completed - requirements ended  , Bharath Beedu  , Rohini Muthuswami  ,  ," , ,,5 villages in Virat Nagar,RAJASTHAN   ", 91 11 55137806  ,"",RAJASTHAN
 702, completed - requirements ended  , Sanika Kulkarni  , Ranganathan V  , Badri Narayanan  ," , Old No.10/2, New No.25, First Main Road, Kasturibhai Nagar,Adyar,Chennai,TAMIL NADU  600020 ", 91-44-2446 5590  ,"",TAMIL NADU
-703, completed - sustainable  ,  , Sanghamitra Bose  ,  ," , Project: Rz-3, B/9, Kishangarh, Vasant Kunj,Office: 108- B/9, 1st Floor, Kishangarh, Vasant Kunj,New Delhi,DELHI  110 070 ", +91 93137-48115 (more below)  ,"",Delhi
+703, completed - sustainable  ,  , Sanghamitra Bose  ,  ," , Project: Rz-3, B/9, Kishangarh, Vasant Kunj,Office: 108- B/9, 1st Floor, Kishangarh, Vasant Kunj,New Delhi,DELHI  110 070 ", +91 93137-48115 (more below)  ,"",DELHI
 704, current / ongoing  , Sujit Kuruvilla  , Hilda Isaac  ,    ," , No. 39,Mission Street,Porayar,TAMIL NADU  609307 ", 011 91 9443243681  ,"",TAMIL NADU
 705, completed - requirements ended  , Panchali Goswami  ,  ,  ," , ,,,ASSAM   ",   ,"",ASSAM
 707, current / ongoing  , Padmanava Sen  , Nandlal Master  , Anjana Mohan  ," , Lok Samiti Office,Nagipur,, Post Behinipur,UTTAR PRADESH  221307 ", 05422632433 9415300520  ,"",UTTAR PRADESH
 709, completed - requirements ended  , Rajeev Annaluru  , Chennaiah Poguri  , Melli Annamalai  ," , Post Box No. 47,,No: 22 - 977/1, Moruganipalli Road,Chittoor,ANDHRA PRADESH  517001 "," +91 (8572) 227475,  228592  ","",ANDHRA PRADESH
-710, completed - things went wrong  , Chandrika Jena  , Hochiminh Sastri  , Fehmida Kapadia  ," , Padmashree Society,,Bachhara Patna,ORISSA  752050 ", 91-674-2492740  ,"",ORISSA
+710, completed - things went wrong  , Chandrika Jena  , Hochiminh Sastri  , Fehmida Kapadia  ," , Padmashree Society,,Bachhara Patna,ORISSA  752050 ", 91-674-2492740  ,"",ODISHA
 711, proposal-evaluation by chapter  , Kamakoti Veezhinathan  ,  Veezhinathan  ,  ," , NIT TRICHY,THUVAKUDI,TRICHY,TAMIL NADU  620 015 ",   ,"",TAMIL NADU
-713, completed - requirements ended  , Bharadwaj Ananthan  ,  ,  ," , Village â€“ Boxma, P O Kuchinda,,,ORISSA  768222 ", 91 06642 220240  ,"",ORISSA
+713, completed - requirements ended  , Bharadwaj Ananthan  ,  ,  ," , Village â€“ Boxma, P O Kuchinda,,,ORISSA  768222 ", 91 06642 220240  ,"",ODISHA
 715, completed - requirements ended  , Sirish Agarwal  , Vallabh Pandey  ,  ," , ,,,UTTAR PRADESH   ",   ,"",UTTAR PRADESH
 716, current / ongoing  , Venkataraman Muthukrishnan  , Kasturi Easwaran  , Venkataraman Muthukrishnan  ," , First Floor, 85/2, Luz Avenue, Mylapore, Chennai 600004,Near Nageswara rao park,chennai,TAMIL NADU  600004 ", 91 94455-74295  ,"",TAMIL NADU
 717, completed - requirements ended  , Sarika Phadke  , Vaidehi Deshpande  ,  ," , X -1, Rathi Chowk,Satpur,Nasik,MAHARASHTRA  422 007 ", (0253) 25351880  ,"",MAHARASHTRA
@@ -453,22 +453,22 @@ pid,Status,Project Steward,Project Partner,Other Contacts,Project Address,Tel,St
 723, completed - requirements ended  , Sivananda Tirumalaraju  , Natrajan Amirapu  , Kiran Durvasula  ," , Opp Rotary Kalyan Mandapam,Ramakrishna Seva Samithi,Bapatla,ANDHRA PRADESH   ", +91-0864-321973  ,"",ANDHRA PRADESH
 724, completed - requirements ended  , Gauri Jog  , Swapna Banerjee  , Reshu Jain  ," ,  417, Hossenpur,,,Kolkata,WEST BENGAL  700107 ", 011-91-3324431520  ,"",WEST BENGAL
 726, Support ended.  , Shailesh Vaishnavi  , Sunil Laxman  ,  ," ,  31, 5th Cross, Off 5th Main,Indira Nagar, 1st Stage,Yelahanka, Bangalore District,KARNATAKA  560 038 ", 091-080-5274633  ,"",KARNATAKA
-727, completed - requirements ended  , Sashi Venkatesan  , Kaveesher Krishnan  , Bhargavi Akri  ," , H. No. 1-4-880/2/36/1, New Bakaram, Gandhi Nagar,Hyderabad- 500 080, Andhra Pradesh, India,,ANDHRA PRADESH  600034 ", 91 - 40 - 27674757  ,"",Andhra Pradesh
+727, completed - requirements ended  , Sashi Venkatesan  , Kaveesher Krishnan  , Bhargavi Akri  ," , H. No. 1-4-880/2/36/1, New Bakaram, Gandhi Nagar,Hyderabad- 500 080, Andhra Pradesh, India,,ANDHRA PRADESH  600034 ", 91 - 40 - 27674757  ,"",ANDHRA PRADESH
 729, completed - requirements ended  , Surya Potharaju  ,  ,  ," , Kc Mahindra Educational Trust/Naandi Foundation,502, Trendset Towers Road#2 Banjara Hills,HYDERABAD,CHHATTISGARH  500 034 ", 91-(0)40-2355 6491/92  ,"",CHHATTISGARH
 730, completed - requirements ended  , Giridhar Kolanupaka  ,  , Ravi Kiran Kandikonda  ," , Ghanpur (M),Machareddy Mandal,Nizamabad,TELANGANA  503111 ", 9849157773  ,"",TELANGANA
 731, completed - requirements ended  ,  ,  ,  ," , Govt. High Schol, Shivna, Tehsil:Zhirnya, Dist: Khargone, MP,,Shivna,MADHYA PRADESH   ",   ,"",MADHYA PRADESH
 733, completed - requirements ended  ,  ,  ,  ," , Salarpur,,Salarpur,UTTAR PRADESH   ",   ,"",UTTAR PRADESH
-736, completed - requirements ended  , Ravi Kiran Kandikonda  , Sandhya Chellapilla  ,  ," , L-6 Kalkaji,,New Delhi,RAJASTHAN  110019 ",   ,"",Delhi
+736, completed - requirements ended  , Ravi Kiran Kandikonda  , Sandhya Chellapilla  ,  ," , L-6 Kalkaji,,New Delhi,RAJASTHAN  110019 ",   ,"",DELHI
 737, completed - requirements ended  , Swati Sircar  , Sujit Sinha  ,  ," , ,,,WEST BENGAL   ",   ,"",WEST BENGAL
-739, completed - requirements ended  , Pankaj Jagtap  ,  ,  ," , Post Dhengli Pimpalgaon Taluka Selu Dist Parbhani,Maharashtra, India,Digraj,MAHARASHTRA   ", 91-9422-569883  ,"",Maharashtra
+739, completed - requirements ended  , Pankaj Jagtap  ,  ,  ," , Post Dhengli Pimpalgaon Taluka Selu Dist Parbhani,Maharashtra, India,Digraj,MAHARASHTRA   ", 91-9422-569883  ,"",MAHARASHTRA
 740, completed - requirements ended  , Ranitendranath Tagore  , K Murthy   ,  ," , Asha Honor, T-58a 32nd Cross Street,,Besant Nagar,,Chennai.,TAMIL NADU  6000090 ", 9840340244  ,"",TAMIL NADU
 741, completed - requirements ended  , Ranitendranath Tagore  , Chandravel R. K  ,  ," , 1/196 A, Veeras Garden, M.G.R.Nagar Main Road,,Lingam Nagar, Mudichur, West Tambaram,Chennai,TAMIL NADU  600048 ", 09840937779  ,"",TAMIL NADU
-745, current / ongoing  , Amol Agarwal  , Anouradha Bakshi  , Megha   ," , C 15 Chiragh Enclave,,New Delhi,DELHI  110048 ", +91-98114-24877  ,"",Delhi
-746, current / ongoing  , Suvarna SreeGeetha Dandapanthula  , Professor Aditya Mohanty  ,  ," , Adruta Children Home,Gadakana, Mancheswar (R.S),Bhubaneswar,ORISSA  751017 ", 0091-94385-53645  ,"",ORISSA
+745, current / ongoing  , Amol Agarwal  , Anouradha Bakshi  , Megha   ," , C 15 Chiragh Enclave,,New Delhi,DELHI  110048 ", +91-98114-24877  ,"",DELHI
+746, current / ongoing  , Suvarna SreeGeetha Dandapanthula  , Professor Aditya Mohanty  ,  ," , Adruta Children Home,Gadakana, Mancheswar (R.S),Bhubaneswar,ORISSA  751017 ", 0091-94385-53645  ,"",ODISHA
 747, completed - requirements ended  , Mamta  Naidu  , Anupama Pandey  , Shreya Amin  ," , 238 Sidhartha Enclave,,,DELHI  110014 ", +919891513797  ,"",DELHI
 748, completed - requirements ended  , Sandeepa  Koli  , Uma V  , Muthu ram  ," , Old No.5, New No.26, II Floor,,Zinda Street, Kondithope,,Avadi,TAMIL NADU  600 079 ", 09444404822  ,"",TAMIL NADU
-750, completed - requirements ended  , Shilpi Gupta  , Brahmanand Rout  , Mohit Saigal  ," , 10 most backward villages of Belghar area of,Tumudibandh Block of the district,Dupi, Pagarapadi, Susbabhata,ORISSA   ", 91-0674-2546413  ,"",ORISSA
-753, Support ended.  , Nikhil Bojja  , Sibani Panigrahi  , Mohit Saigal  ," , Mahila Vikas, Palace Street, Parlakhemundi 761200,Gajapati District, Orissa, India,,ORISSA  761200 ", (+91) 6815 224679  ,"",Orissa
+750, completed - requirements ended  , Shilpi Gupta  , Brahmanand Rout  , Mohit Saigal  ," , 10 most backward villages of Belghar area of,Tumudibandh Block of the district,Dupi, Pagarapadi, Susbabhata,ORISSA   ", 91-0674-2546413  ,"",ODISHA
+753, Support ended.  , Nikhil Bojja  , Sibani Panigrahi  , Mohit Saigal  ," , Mahila Vikas, Palace Street, Parlakhemundi 761200,Gajapati District, Orissa, India,,ORISSA  761200 ", (+91) 6815 224679  ,"",ODISHA
 754, completed - requirements ended  , Sathyan Subbiah  ,  ,  ," , Vivekananda Kendra  - Rural development programme,92/4, Devarpuram Road,THOOTHUKUDI,TAMIL NADU  628003 ", (0461) 2329336  ,"",TAMIL NADU
 756, current / ongoing  , Padmanava Sen  , Mina Das  , Abhyuday Mandal  ," , VILL. SUBUDDHIPUR, DE PARA, P.O. BARUIPUR,DIST. SOUTH 24 PARGANAS, KOLKATA, WEST BENGAL,BARUIPUR,WEST BENGAL  700144 ", 091-033-2433 9865  ,"",WEST BENGAL
 757, completed - requirements ended  , Poojitha Satti  , Shampa Roy  , Abhinav Rungta  ," , Trinita Society for Social Education and Health Research,19, Kankulia Road,kolkata,WEST BENGAL  700029 ", 9433079313  ,"",WEST BENGAL
@@ -479,7 +479,7 @@ pid,Status,Project Steward,Project Partner,Other Contacts,Project Address,Tel,St
 763, proposal-evaluation by chapter  , Rahul Sathe  , Anjali Bhatawadekar  , Padmanava Sen  ," , Ram Mandir Road, Vile Parle (E),,Mumbai,MAHARASHTRA  400057 "," 26117195, 26142123,26141276  ","",MAHARASHTRA
 764, current / ongoing  , Sreejit Menon  , Varsha Parchure  , Sreejit Menon  ," , Second Floor, Sudama Smruti, Near Pragati College,Snehakit Mitra Mandal Chowk, Nandivali Road, Dombivali,MAHARASHTRA  421201 ", 011 91 22 25380111  ,"",MAHARASHTRA
 765, completed - requirements ended  , Chandrika Nimmagadda  , Sanjeev Kumar  ,  ," , Krishi Bharati, C â€“ 186, Nirala Nagar,,Lucknow,UTTAR PRADESH  226 020 ", 91 522 2789 175  ,"",UTTAR PRADESH
-766, completed - requirements ended  , Sima Shah  ,  , Vileen Shah  ," , Junagadh-Vanthli Highway, P.O.Box No.8, Shapur,,Dist. Junagadh, Gujarat, India,GUJARAT  362 205 ", 94-2624-4026  ,"",Gujarat
+766, completed - requirements ended  , Sima Shah  ,  , Vileen Shah  ," , Junagadh-Vanthli Highway, P.O.Box No.8, Shapur,,Dist. Junagadh, Gujarat, India,GUJARAT  362 205 ", 94-2624-4026  ,"",GUJARAT
 767, terminated  , Chandra Kumar Purohit  ,  ,  ," , House No.13, â€œMitra Kunjâ€,Street: Lata Marg, Sohagpur,Sohagpur,MADHYA PRADESH  461771 ", 91-7575-278336  ,"",MADHYA PRADESH
 769, completed - requirements ended  , Anjana Mohan  , Anitha Sharma  ,  ," , BALAVIHAR,Behind Tagore Theater,Thiruvananthapuram,KERALA  695010 ", 0471-2727008  ,"",KERALA
 770, completed - requirements ended  , Gayathri Krishnamoorthy  , Sandeep Pandey  ,  ," , Post Atrauli,,,UP, India,UTTAR PRADESH   ", 0522-2347365  ,"",UTTAR PRADESH
@@ -494,7 +494,7 @@ pid,Status,Project Steward,Project Partner,Other Contacts,Project Address,Tel,St
 783, Support ended.  , Ankur Pariyani  , Vallabh Pandey  ,  ," , c/o Manoj Kumar,Village and Post Mahe,,BIHAR  848208 ", 91-9931956501  ,"",BIHAR
 784, completed - requirements ended  , ARUN VENKATESAN  , Kanakaraju A  , Surya Potharaju  ," ,  A Block, Apt no. 408,,Street no. 6, Vidyanagar,HYDERABAD,ANDHRA PRADESH  500007 ", 919441924445   ,"",ANDHRA PRADESH
 785, completed - requirements ended  ,  ,  ,  ," , New No 75A, Old 105A,Chandrabagh Avenue,,Mylapore, Chennai,TAMIL NADU  600004 ", 91-44-28474007  ,"",TAMIL NADU
-786, terminated  , Soumyadeb Mitra  , Vinod Sena  ,  ," , 1398, Dr. Mukherjee Nagar,,Delhi,DELHI  110 00 ", (91-11) 27653809  ,"",Delhi
+786, terminated  , Soumyadeb Mitra  , Vinod Sena  ,  ," , 1398, Dr. Mukherjee Nagar,,Delhi,DELHI  110 00 ", (91-11) 27653809  ,"",DELHI
 787, current / ongoing  , Shanthi Sravanakumar  , Siddamma E  , Palani Sundaramurthy  ," , Bharathi Trust, 184/14C, IIIrd Cross St.,Jaya Nagar, Thiruvallur,Senjiagaram village,TAMIL NADU  602001 ", 011 91 9884080048  ,"",TAMIL NADU
 788, current / ongoing  , Padmanava Sen  , Sankar Halder  , Girish Ramaswamy  ," , Purbasridharpur, Raidighi,24 Pargs(s),South 24 Parganas,WEST BENGAL  743383 ", 011 91 33 24625544  ,"",WEST BENGAL
 789, completed - requirements ended  , B. Ashok  , Madhu R  ,  ," , No.33/1-9, Thiagaraj Layout, Jaibharat Nagar, M S Nagar Post,,Bangalore,KARNATAKA  560033 ", 080-25492782/ 3 / 1  ,"",KARNATAKA
@@ -503,17 +503,17 @@ pid,Status,Project Steward,Project Partner,Other Contacts,Project Address,Tel,St
 792, completed - requirements ended  , Shiva Arunachalam  , Harshavardhan Purandare  , Pankaj Jagtap  ," , Shaligram House, Subhash Path, Nr Old municipality,,Thane,,MAHARASHTRA  4000601 "," +91-22-25369666,25363122,93229  ","",MAHARASHTRA
 794, current / ongoing  , Priyasmita Ghosh  , S Pal  , Monalisa Sen  ," , Village Balia,P.O. Bahirkhand,Bahirkhand,WEST BENGAL  712405 ", 03212 242283  ,"",WEST BENGAL
 797, Proposal - Closed  , Sandeep Pandey  , Manish Kumar  , Shobha Shukla  ," , A-893 Indira Nagar,,Lucknow,UTTAR PRADESH  226013 ", 0522-2342435  ,"",UTTAR PRADESH
-798, completed - things went wrong  , Fehmida Kapadia  , Hochiminh Sastri  ,  ," , Padmashree Society, Bachhara Patna,,,ORISSA  752050 ", 91-674-2492740  ,"",ORISSA
+798, completed - things went wrong  , Fehmida Kapadia  , Hochiminh Sastri  ,  ," , Padmashree Society, Bachhara Patna,,,ORISSA  752050 ", 91-674-2492740  ,"",ODISHA
 799, completed - requirements ended  ,  ,  ,  ," , â€˜Geeta Dhamâ€™, 41,,Ashok Nagar, Range Hills Road,, Pune,MAHARASHTRA   411007 ", 91- 20 â€“ 2553 7747  ,"",MAHARASHTRA
 800, completed - requirements ended  , Prajakta Dravid  , Yash Kapoor  ,  ," , 405/9 Narayan peth, Behind Modi Ganpati Temple,,Pune,MAHARASHTRA  411030 "," (020) â€“ 25448019, 24483050,  ","",MAHARASHTRA
 801, completed - things went wrong  , Kalimuthu Vinayagamoorthy  , Thirumalai Devendiran  , Kavitha Golconda  ," , Puliampatti village & Post,,,,TAMIL NADU  606 703 ",   ,"",TAMIL NADU
 803, completed - requirements ended  , ankur Bora  , Suresh Rajkhowa  ,  ," , Saraipani,P.O.Mahimabari,Titabar,ASSAM  785630 ", (091) 943-515-3164  ,"",ASSAM
 805, current / ongoing  , Vidhya Govinadraju  , Dr Raja Venkatesh  ,  ," , 164, MM Plaza, 1st Floor,Trichirapalli Main Road,,Perambalur,TAMIL NADU  621005 ", 91-98424-62930  ,"",TAMIL NADU
 807, rejected  , Bharath Kumar Thandri  , Padma Venkatraman  , Satish Murugesan  ," , Gnanodaya School,Venkatapuram Village,,TAMIL NADU  603204 ", 91-44-27464890  ,"",TAMIL NADU
-808, completed - requirements ended  , Hansa Shah  , Rohini Muthuswami  , Venkata Pingali  ," , 59, Tughlakabad Institutional Area,,New Delhi,DELHI  110 062 "," (11) 29955505, (11) 29956244  ","",Delhi
+808, completed - requirements ended  , Hansa Shah  , Rohini Muthuswami  , Venkata Pingali  ," , 59, Tughlakabad Institutional Area,,New Delhi,DELHI  110 062 "," (11) 29955505, (11) 29956244  ","",DELHI
 809, current / ongoing  , Melli Annamalai  , A. S. Karthik Bharathi  ,  ," , Arjun Shanmuga Illam,439/1 East Street ,Karumbalai,TAMIL NADU  625020 ", 9894805446  ,"",TAMIL NADU
 810, completed - requirements ended  , Rekha Santhanam  , Jatinder Arora  , Vineet Jain  ," , J-5A, Jhalana Institution Area,,Jaipur,RAJASTHAN   ", +91-(0)141-2711018/ 2703110  ,"",RAJASTHAN
-811, completed - requirements ended  , Sundar Iyer  ,  ,  ," , ,,Orissa,ORISSA  765 019 ", 06863-247505  ,"",Orissa
+811, completed - requirements ended  , Sundar Iyer  ,  ,  ," , ,,Orissa,ORISSA  765 019 ", 06863-247505  ,"",ODISHA
 812, completed - requirements ended  , Priya Mocherla  , Bharathi Devi Malempati  , Rajeev Annaluru  ," , House No. 3-10-6, Kamalakara Nilayam,Gokhale Nagar,Ramanthapur,TELANGANA  500013 ", 040-27038233  ,"",TELANGANA
 814, completed - requirements ended  , Bhawani Singh  , Manish Kumar  , Sharique Hasan  ," , A-893 Indira Nagar,,Lucknow,UTTAR PRADESH  226013 ", 0522-2342435  ,"",UTTAR PRADESH
 815, completed - requirements ended  , Hitten Zaveri  ,  ,  ," , Mann Deshi Foundation Mhaswad,Tal-Man District-Satara,Mhaswad,MAHARASHTRA  415509 ", 91-2373-270119  ,"",MAHARASHTRA
@@ -529,15 +529,15 @@ pid,Status,Project Steward,Project Partner,Other Contacts,Project Address,Tel,St
 832, completed - requirements ended  , Jaideep Sahasrabudhe  , Prerna Valimbe  ,  ," , ""Rashmi "" , 3/9 , Yashashree Colony,,Behind navsahyadri Vithal Mandir, Karve Nagar,Pune,MAHARASHTRA  411052 ", 020-32918617  ,"",MAHARASHTRA
 834, current / ongoing  , Sachin Mehta  , Assis Rodgrigues  ,  ," , C/o Father Assis Rodgrigues,The Shirpur Vishwamandal Sevashram,Shirpur,MAHARASHTRA  425405 ", 91 2563 255561  ,"",MAHARASHTRA
 835, completed - requirements ended  , Sravya Yandamuri	  , Dr. A. Goswami  , sandeep kulkarni  ," , Child Aid Foundation,,C.A.F. Road, Patamatalanka,,Vijayawada,ANDHRA PRADESH  520014 ", 91 0866 2470380  ,"",ANDHRA PRADESH
-836, completed - requirements ended  , Priyanka Chahar  ,  ,  ," ,  Salil Chattopadhyay ,Samagra Uttarbanga Loka Kalyan Kendra,""Jinkgoale"", Mohitnagar, Jalpaiguri 735 1 0 1,Jalpaiguri,WEST BENGAL  735101 ", 913561-255685/0372  ,"",goa
+836, completed - requirements ended  , Priyanka Chahar  ,  ,  ," ,  Salil Chattopadhyay ,Samagra Uttarbanga Loka Kalyan Kendra,""Jinkgoale"", Mohitnagar, Jalpaiguri 735 1 0 1,Jalpaiguri,WEST BENGAL  735101 ", 913561-255685/0372  ,"",GOA
 837, completed - requirements ended  , Vishweshwara Herle  , Melli Annamalai  ,  ," , Village : Barkalikapur, P.O. Bakhrahat,,Bakhrahat Road,,WEST BENGAL   ", (033) 2498 0226  ,"",WEST BENGAL
 839, current / ongoing  , Abhyuday Mandal  , Swami Shivabhavananda  ,  ," , Ramakrishna Mission Ashrama,Narendrapur,P.O. Narendrapur,WEST BENGAL  700103 ", 011 91 3324772201  ,"",WEST BENGAL
 840, completed - requirements ended  , Maulik Nagri  , Martin Macwan  ,  ," , Sanand Bavla Road,,Village Nani Devti,,Taluka Sanand, Ahmedabad,GUJARAT  380 007 "," +917965443745, +919727750448  ","",GUJARAT
 842, completed - requirements ended  , Manoj Bhattacharyya  , Swami Biswatmananda  , Priyanka Soni  ," , Bharat Sevashram Sangha,Sahapur,Malda,WEST BENGAL  732101 ", 03512 260459  ,"",WEST BENGAL
 845, current / ongoing  , Jamuna Rajamani   , Ajita Panshikar  ,  ," , No. 1, Norton 2nd Street, ,Mandaveli,Chennai,TAMIL NADU  600028 ", 011 91 9342164411  ,"",TAMIL NADU
 847, completed - things went wrong  , Giridhar Kolanupaka  , Giridhar Kolanupaka  ,  ," , H. No. 16 - 2 - 738/4/5/12, S.B.H Bank Colony,Gaddiannaram, Malakpet,,Hyderabad,,TELANGANA  500059 ", +91-40-2415 1497  ,"",TELANGANA
-848, current / ongoing  , Shaibal Dutta  , Uday Gosain  , Amit Sharma  ," , 405, F, Pocket II, Phase I,,Mayur Vihar,,Delhi,DELHI  110091 ", 9101143042669  ,"",Delhi
-849, current / ongoing  , Shaibal Dutta  , Uday Gosain  , Amit Sharma  ," , 405, F, Pocket II, Phase I,,Mayur Vihar,,Delhi,DELHI  110091 ", 9101143042669  ,"",Delhi
+848, current / ongoing  , Shaibal Dutta  , Uday Gosain  , Amit Sharma  ," , 405, F, Pocket II, Phase I,,Mayur Vihar,,Delhi,DELHI  110091 ", 9101143042669  ,"",DELHI
+849, current / ongoing  , Shaibal Dutta  , Uday Gosain  , Amit Sharma  ," , 405, F, Pocket II, Phase I,,Mayur Vihar,,Delhi,DELHI  110091 ", 9101143042669  ,"",DELHI
 852, completed - requirements ended  , Vijay Yerramilli  , Raju BRK  , Madhav Lakkapragada  ," , Circle of Goodwill, D.No. 14-1-1, Nowroji Road,,,Mangamaripeta,ANDHRA PRADESH  530 002 ", +1-91-891- 2701531/ 2553154  ,"",ANDHRA PRADESH
 854, completed - requirements ended  , Sanjeev Ranganathan  , Sanjeev Ranganathan  ,  ," , Sarpanch Office,Mushtikovela Village,C.K.Palli Mandal,ANDHRA PRADESH  515101 ", 09440798541  ,"",ANDHRA PRADESH
 855, completed - requirements ended  , Riddhi Goradia  ,    ,  ," , Assema Charitable Trust,G-3 Josephine Apartments, Ground Floor, Chimbai Road, Bandra,Mumbai,MAHARASHTRA  400050 ", 91-22-26407248  ,"",MAHARASHTRA
@@ -547,7 +547,7 @@ pid,Status,Project Steward,Project Partner,Other Contacts,Project Address,Tel,St
 862, completed - requirements ended  , Reshu Jain  , Dr R Balasubramaniam  ,  ," , Hanchipura Road, Saragur,,H.D. Kote Taluk,KARNATAKA  571121 ", +91 (8228) 265877  ,"",KARNATAKA
 863, completed - requirements ended  , Niranjan Thirukkovalur  , Vijay Pandey  , Vallabh Pandey  ," , Asha-Ballia,,P.O. Reoti,Bhaisahan,UTTAR PRADESH  277209 ", 91-9935517689  ,"",UTTAR PRADESH
 865, completed - requirements ended  , Ravi Gangavarapu  , Sireesha Maneri  , Sanjeev Ranganathan  ," , c/o Timbaktu Collective, Chennakothapalli Field Office,,CK Palli Village,ANDHRA PRADESH  515101 ", 09440988575  ,"",ANDHRA PRADESH
-866, completed - requirements ended  , Mayur Kajla  , Kiran Modi  ,  ," , C-9 (Basement),Lajpat Nagar - III,New Delhi,DELHI  110024 "," +91+11+29840151, 39603837  ","",Delhi
+866, completed - requirements ended  , Mayur Kajla  , Kiran Modi  ,  ," , C-9 (Basement),Lajpat Nagar - III,New Delhi,DELHI  110024 "," +91+11+29840151, 39603837  ","",DELHI
 868, completed - requirements ended  , Bhavani       , Bhushan C. N  , Sangam Singh  ," , Satsang Vidyalaya - Nakkaladinne,Ponnutipalayam Post,Madanapalle,ANDHRA PRADESH  517325 ", +91 9347565647 / +91 944021282  ,"",ANDHRA PRADESH
 869, completed - requirements ended  , Dilip Menon  , Balaji Sampath  ,  ," , AID India, Old No 20, New No 34, II Floor,,Rathenam Street, Gopalapuram,,Chennai,TAMIL NADU  600086 ", +91-94440-61033  ,"",TAMIL NADU
 872, current / ongoing  , Deepali Jain  , Vandana Shastri  , Poojan Karnik  ," , E1/157 ,Area Colony,Berkeley,MADHYA PRADESH  94704 ", 91 9329262121   ,"",MADHYA PRADESH
@@ -572,35 +572,35 @@ pid,Status,Project Steward,Project Partner,Other Contacts,Project Address,Tel,St
 897, completed - requirements ended  , Padmanava Sen  , Tarapada Bhattacharjee  ,  ," , Vill + P.O. Deulpur,,,,WEST BENGAL  711411 ", +91 33 26290050/ +91 923189284  ,"",WEST BENGAL
 899, current / ongoing  , Aneetha Jayaraman  , Senkathir Srinivasan  , Sripriya Padmanabhan  ," , A8, 31 Motilal street,T. Nagar ,Chennai,TAMIL NADU  600017 ", 011 91 9840173824  ,"",TAMIL NADU
 900, completed - requirements ended  , Vamshidhar Kommineni  , Gurveen Kaur  ,  ," , C-128, AWHO Ved Vihar,Subhash Nagar,Secunderabad,TELANGANA  500015 ", +91 040  27990529  ,"",TELANGANA
-901, completed - sustainable  , Fehmida Kapadia  , Meera malek  ,  ," , Center for Development,Ahmedabad,Gujarat,GUJARAT   ", 91 079 2657 7016  ,"",Gujarat
+901, completed - sustainable  , Fehmida Kapadia  , Meera malek  ,  ," , Center for Development,Ahmedabad,Gujarat,GUJARAT   ", 91 079 2657 7016  ,"",GUJARAT
 902, completed - requirements ended  , Harendra Guturu  , Seth Galligan  , Nilima Abrams  ," , House #121,,,Maragodu Post,Kathelekad Vill.,KARNATAKA  571252 ",   ,"",KARNATAKA
 903, completed - requirements ended  ,  , Sujit Sinha  ,  ," , ,,Kolkata,WEST BENGAL   ",   ,"",WEST BENGAL
 904, completed - requirements ended  , Suma Mondal  ,  , Vijay Kanagala  ," , 417, Hossenpur,,Kolkata,WEST BENGAL  700 107 ", 0091-33-2443 1520  ,"",WEST BENGAL
 905, Support ended.  , Murali Narasimhan  , Kshama Kshade  ,  ," , 112/10, Civil Lines, Opp. Savatri School,,,Ajmer,RAJASTHAN  305006 ", 91-145-2420635  ,"",RAJASTHAN
 906, completed - requirements ended  , Vivek Sharma  , Gourishankar Agarwalla  ,  ," , Resident Society. Sector 8,84/424 Pratap Nagar ( Sanganer),Jaipur,RAJASTHAN  302033 ", (141) 2791573  ,"",RAJASTHAN
 907, completed - requirements ended  , Amy Huff Shah  , Bhanuja Lal  ,  ," , 128, Shivdaspur, Lahartara, Varanasi-221002 U.P. India,,Khadarawan- Phattupur,UTTAR PRADESH  221002  ", 0542-2372191  ,"",UTTAR PRADESH
-908, completed - requirements ended  , Shalini Dawar  , Dalia Kar  ,  ," , 14, Jangpura B,Mathura Road,,New Delhi,DELHI  110014 "," M-9810997490, 9211160905  ","",Delhi
+908, completed - requirements ended  , Shalini Dawar  , Dalia Kar  ,  ," , 14, Jangpura B,Mathura Road,,New Delhi,DELHI  110014 "," M-9810997490, 9211160905  ","",DELHI
 909, completed - requirements ended  , Murthy S  , Lakshmi Suryanarayanan  ,  ," , No.2 Besant Avenue, Besant Nagar,,Chennai,TAMIL NADU  600090 ", 91-44-24915826  ,"",TAMIL NADU
 910, current / ongoing  , Aravind Karanam  , Praveen Kumar  ,  ," , Hanchipura Road, Saragur,H D Kote Taluk, Mysore District,Saragur,KARNATAKA  571121 ", 91 9591945162  ,"",KARNATAKA
-911, completed - requirements ended  , Chandan Dasgupta  , Mohd Khurshed  ,  ," , C-183, Madhuban, Preet Vihar,,New Delhi 110092,,UTTAR PRADESH   ", +91-11-65137806  ,"",Delhi
+911, completed - requirements ended  , Chandan Dasgupta  , Mohd Khurshed  ,  ," , C-183, Madhuban, Preet Vihar,,New Delhi 110092,,UTTAR PRADESH   ", +91-11-65137806  ,"",DELHI
 912, Support ended.  , Pawan Agarwal  , Rekha Chauhan  ,  ," , Bairvan, Gangapur, ,Varanasi,UP,,UTTAR PRADESH   "," +91-941-525-6472, +91-941-521-  ","",UTTAR PRADESH
 913, completed - requirements ended  , Alok Gupta  , Rangiah Tirunagari  , Sridhar Patel  ," , Primary School, Muthireddygudem,,,TELANGANA  508116 ", 91-8685-645046  ,"",TELANGANA
 915, completed - requirements ended  , Vidya  Ganesh  , Baitali Ganguly  ,  ," , 10/5 Jamir Lane, Second Floor,,Kolkata,WEST BENGAL  700019 ", 91-33-24602229  ,"",WEST BENGAL
-916, completed - requirements ended  , Megha   ,  ,  ," , C 15 CHIRAGH ENCLAVE,,New Delhi,DELHI  110048 ", 91 11 26269915  ,"",Delhi
+916, completed - requirements ended  , Megha   ,  ,  ," , C 15 CHIRAGH ENCLAVE,,New Delhi,DELHI  110048 ", 91 11 26269915  ,"",DELHI
 917, completed - requirements ended  ,  ,  ,  ," , #15, G.R.Layout, Cholanayakanahalli, R.T.Nagar,Near Rajiv Gandhi Dental College,Bangalore,KARNATAKA  560032 ", +91-98452-61892  ,"",KARNATAKA
 918, completed - requirements ended  , Sreenath Samudrala  , Sujit Nilegaonkar  , Amruta Nawarange  ," , Tendulkar Smruti, In Front of Petrol pmp,,,MAHARASHTRA  401603 ", 91 02520 222454  ,"",MAHARASHTRA
 919, current / ongoing  , Vallabh Pandey  , Ankur Pariyani  , Padmanava Sen  ," , Asha Trust,Bhandahan Kalan,Varanasi,UTTAR PRADESH  221116 ", 011 91 542 261 8201  ,"",UTTAR PRADESH
-920, completed - requirements ended  , Chirag Shah  , K. M. Paliwal  , Madhu Aggarwal  ," , BP-139,Shalimar Bagh,New Delhi, India,UTTAR PRADESH  110088 ", 011-27479009   ,"",Delhi
+920, completed - requirements ended  , Chirag Shah  , K. M. Paliwal  , Madhu Aggarwal  ," , BP-139,Shalimar Bagh,New Delhi, India,UTTAR PRADESH  110088 ", 011-27479009   ,"",DELHI
 921, completed - requirements ended  , Raghu Santanam  , James A.P.  ,  ," , #119, Industrial Area, Metagalli,,,Mysore,KARNATAKA  570016 ", 91-821-2581113  ,"",KARNATAKA
 925, current / ongoing  , Sandeep Nain  , jasmine sandhu  ,  ," , GRAVIS, 3/458, 3/437, MM Colony,,Osian,RAJASTHAN  342008 ", 91-291-2785317  ,"",RAJASTHAN
 926, completed - requirements ended  , Aanchal Singh  , Jane Sahi  , Manish Babladi  ," , Vishram,,Silvapura,Bangalore North,KARNATAKA  560090 ", 080-28466274  ,"",KARNATAKA
 927, completed - requirements ended  , Aashi Chaturvedi  , Anil Mudgal  , Sankalp Nayak  ," , 1, Shivaji Nagar, Near Gas Claim Court, Behind MPEB Office,,,Bhopal,MADHYA PRADESH  462016 ", 91-755-4293399  ,"",MADHYA PRADESH
 928, Support ended.  , Itisha Tyagi  , Karen Thorst  ,  ," , C/O Mr. Ishwer Dayal, Vidya Mandir Public School,,Karkarmodal Village, Site -4,,Sahibabad Industrial Area,UTTAR PRADESH   ", 91-11-32947734  ,"",UTTAR PRADESH
 930, completed - requirements ended  , Madhura Raghavan  , Paulin Rani  , Madhura Raghavan  ," , 9-2, Balaji Street, Shanthi Nagar,Shanthi Nagar,Madurai,TAMIL NADU  625018 ", 0452-2660123  ,"",TAMIL NADU
-931, current / ongoing  , Rohini Muthuswami  , Aparna Concern For Humanity  ,  ," , IInd Floor, Building No. 252/1,Shahpur Jat,New Delhi,DELHI  110049 ", 0119810345783  ,"",Delhi
+931, current / ongoing  , Rohini Muthuswami  , Aparna Concern For Humanity  ,  ," , IInd Floor, Building No. 252/1,Shahpur Jat,New Delhi,DELHI  110049 ", 0119810345783  ,"",DELHI
 932, current / ongoing  , Vibha Deo  , Audrey Feriera  ,  ," , 1527,Golf Club Road,Yerwada Pune,MAHARASHTRA  411006 ", 91-20-26692910  ,"",MAHARASHTRA
 933, completed - requirements ended  , Megha Manjunath  , Vinod  Hari  , Kirthi Jayachandran  ," , Isha Vidhya Matriculation School,Ikkarai Booluvampatti Post ,Sandegoundenpalayam ,TAMIL NADU  641109 ", 0422-265-1222  ,"",TAMIL NADU
-934, completed - requirements ended  , Prasenjit Biswas  ,  K Ananda  , Akanksha Bapna  ," , At-Netaji Subash Marg,Near S.P Residence,Chatrapur,ORISSA  761020 ", 011 91 9876543210  ,"",ORISSA
+934, completed - requirements ended  , Prasenjit Biswas  ,  K Ananda  , Akanksha Bapna  ," , At-Netaji Subash Marg,Near S.P Residence,Chatrapur,ORISSA  761020 ", 011 91 9876543210  ,"",ODISHA
 935, Proposal - Closed  , Umesh Sharma  , Biju Borbaruah  ,  ," , Pamohi,,P.O. Garchuk,,Guwahati,ASSAM  781035 ", 91-9864041711  ,"",ASSAM
 937, completed - requirements ended  , Sapan Agarwal  , Arvind Sardana  , Linda Hess  ," , ,,,MADHYA PRADESH   ",   ,"",MADHYA PRADESH
 941, completed - requirements ended  , Vibha Chhatwal Sarin  , Jyoti Sinha  , Vaidehi Natu  ," , Flat No.103/A, M. K. Apartments,,New Patliputra Colony,Patna,BIHAR  800013 "," +91 612 2270307, +91 983503160  ","",BIHAR
@@ -613,9 +613,9 @@ pid,Status,Project Steward,Project Partner,Other Contacts,Project Address,Tel,St
 956, current / ongoing  , Ravi Venkatraman  , Senthil Gopalan  , Meera Sitharam  ," , Thenur Village,T. Kalathur via Kunnam Taluk,Perambalur,TAMIL NADU  621114 ", 011 91 4327234644  ,"",TAMIL NADU
 957, Support ended.  , Vinod Viswanath  , Govindaswamy Nammalvar  , Siddamma E  ," , 17/9, 5TH STREET, SRINIVASA NAGAR,,THIRUVANAI KOIL, TRICHY,TAMIL NADU  620 005 ", +91-944-262-4589  ,"",TAMIL NADU
 958, completed - sustainable  , Koussalya Balasubramanian  , Dr. Bibek Ray  , Raj Chowdhury  ," , P. O. Gohaldanga,,Gohaldanga,WEST BENGAL  721232 ", 91-9830264191  ,"",WEST BENGAL
-961, completed - requirements ended  , Vinod Viswanath  , Aditi Kaur  , Amit Sharma  ," , 63-A Vyom Prasth, G.M.S Road,,,Dehradun,UTTARANCHAL  248001 ", 91-135-6532937; 91-135-2722097  ,"",UTTARANCHAL
+961, completed - requirements ended  , Vinod Viswanath  , Aditi Kaur  , Amit Sharma  ," , 63-A Vyom Prasth, G.M.S Road,,,Dehradun,UTTARANCHAL  248001 ", 91-135-6532937; 91-135-2722097  ,"",UTTARAKHAND
 964, completed - requirements ended  , Srijan Chakraborty  ,  ,  ," , 1527,Golf Club Road,Yerwada,Pune,411006,,Pune,MAHARASHTRA  411006 ", 91-20-26692910  ,"",MAHARASHTRA
-966, completed - requirements ended  , Madhuri Shivalkar  , Subramanya Bhatt  , Manju Krishnan  ," , Patte, Post Badagannur,Karnataka-,,KARNATAKA   574334 ",   ,"",Karnataka
+966, completed - requirements ended  , Madhuri Shivalkar  , Subramanya Bhatt  , Manju Krishnan  ," , Patte, Post Badagannur,Karnataka-,,KARNATAKA   574334 ",   ,"",KARNATAKA
 967, current / ongoing  , Balaji S  , Anu Krishna  , Padmanava Sen  ," , Sittilingi,Theerthamalai P.O.,Sittilingi/ Kottapatti,TAMIL NADU  636906 ", 8098398762  ,"",TAMIL NADU
 969, completed - requirements ended  , Anindya Roy  , Subir Bhattacharjee  ,  ," , Ushagram Trust,P.O.- Birnagar,,Vill.- Ushagram,WEST BENGAL  741127 ", +91 (03473) 261-084  ,"",WEST BENGAL
 970, current / ongoing  , Nehal Bandi  , Khemraj Choudhary  , Nehal Bandi  ," , B 8, Bapu Nagar,Senthi,Senthi,RAJASTHAN  312025 ", 91-1472-243788  ,"",RAJASTHAN
@@ -626,8 +626,8 @@ pid,Status,Project Steward,Project Partner,Other Contacts,Project Address,Tel,St
 976, completed - requirements ended  , Navin Kashyap  , Shekhar Jha  ,  ," , At+Po-Kamalpur, Via-Kanauli Bazar, Distt-Supaul,,,BIHAR  847451 ", +91-9934251400  ,"",BIHAR
 977, completed - requirements ended  , Guru Mathur  , Krishnaveni Raju  , Arathi Rao  ," , Shanthi High School for physically challenged children,Sivasailam,Alwarkurichi (via)  Tirunelvel,TAMIL NADU  627412 ", 04634-283344  ,"",TAMIL NADU
 982, current / ongoing  , Sriram Muthukumar  , Desingu S  , Guru Mathur  ," , 107 Nemmellikuppam Perur Post,,Mamallapuram,TAMIL NADU  603104 ", 9840676135  ,"",TAMIL NADU
-983, completed - requirements ended  , Anshu Gaur  , bratin biswas  , Sandhya Raman  ," , ‘Sangeet’, Vill. Surul, P.O. Sriniketan,Dist. Birbhum, West Bengal (India),,WEST BENGAL  731236 ", 03463 – 320185 / (0) 943434811  ,"",West Bengal
-984, completed - requirements ended  , Navin Kashyap  , Anouradha Bakshi  ,  ," , Sri Ram Goburdhan Charitable Trust ,C 15 Chiragh Enclave,New Delhi,DELHI  110048 ", + 91 9999079705  ,"",Delhi
+983, completed - requirements ended  , Anshu Gaur  , bratin biswas  , Sandhya Raman  ," , ‘Sangeet’, Vill. Surul, P.O. Sriniketan,Dist. Birbhum, West Bengal (India),,WEST BENGAL  731236 ", 03463 – 320185 / (0) 943434811  ,"",WEST BENGAL
+984, completed - requirements ended  , Navin Kashyap  , Anouradha Bakshi  ,  ," , Sri Ram Goburdhan Charitable Trust ,C 15 Chiragh Enclave,New Delhi,DELHI  110048 ", + 91 9999079705  ,"",DELHI
 985, current / ongoing  , Pratyush Gupta  , Deepak Kumar  ,  ," , People First, Gyan Vikas Centre, Nr Magadh University,People First Educational Charitable Trust - Bodhgaya,Gaya,BIHAR  824231 ", 0631-220-312  ,"",BIHAR
 988, completed - requirements ended  , Fehmida Kapadia  , Asavari Herwadkar  ,  ," , Ojus Medical Institute,Tulip Star, Juhu Tara Road,Juhu, Mumbai,MAHARASHTRA  400049 ", +91 9821322605   ,"",MAHARASHTRA
 989, completed - requirements ended  , Abhinaya Narayanan  , Sanju Kumar  , Devdatta Akhawe  ," , H.No.1-866/120/A/105, Khedkar Layout, Behind Bus Stand,,M.S.K Mill Road,Gulbarga,KARNATAKA  585102 ", 91-94835 17676  ,"",KARNATAKA
@@ -657,7 +657,7 @@ pid,Status,Project Steward,Project Partner,Other Contacts,Project Address,Tel,St
 1029, current / ongoing  , Bhaskar Venkateswaran  , Rajaraman Krishnan  , Rajaraman Krishnan  ," , 14/12 Rangaraman complex Madurai main road Kayathar,,Thoothukkudi,TAMIL NADU  628952 ", 91-9884437340  ,"",TAMIL NADU
 1031, completed - requirements ended  , Yash Kapoor  , Supriya Akhaury  , Chandan Dasgupta  ," , C/o Jayaprakash Narayan Memorial Trust,,1654 ATS Greens Village, Plot #1 Expressway, Sector 93A,Noida,UTTAR PRADESH  201303 ", +91 120 4317884/ 9818875056  ,"",UTTAR PRADESH
 1032, proposal - received  , Amol Raut  , Alpa Rajai  ,  ," , Bhavdhara Academy,Chandansar (Katkari Pada),Virar ,MAHARASHTRA  401305 ", 0091-250-2524567  ,"",MAHARASHTRA
-1033, completed - requirements ended  , Sagar Doshi  , Sagar Doshi  , Abhishek  Iyer  ," , First Gate, AT/PO Berhampur, Dist Ganjam, Orissa,AT/PO Berhampur,Berhampur,ORISSA  760001 ", 06802270812  ,"",Orissa
+1033, completed - requirements ended  , Sagar Doshi  , Sagar Doshi  , Abhishek  Iyer  ," , First Gate, AT/PO Berhampur, Dist Ganjam, Orissa,AT/PO Berhampur,Berhampur,ORISSA  760001 ", 06802270812  ,"",ODISHA
 1035, completed - requirements ended  , Dileep Bhat  , Ashis Panda  , Bhinish Shah  ," , Udaypura,,Dungarpur,RAJASTHAN  314001 ", 079-26305041  ,"",RAJASTHAN
 1036, completed - requirements ended  , Pawan Agarwal  , Meenakshi Umesh  ,  ," , Puvidham Rural Development Trust,Nagarkooda Village & Post, ,,TAMIL NADU  636803 ", +91-4342-311641  ,"",TAMIL NADU
 1040, completed - requirements ended  , Priyanka Vasudevan  , Gomathi S  , Vivek Jayaraman  ," , No 7/4, Besant Road,Royapettah,Chennai,TAMIL NADU  600014 ", +91-44-28350403  ,"",TAMIL NADU
@@ -670,7 +670,7 @@ pid,Status,Project Steward,Project Partner,Other Contacts,Project Address,Tel,St
 1053, completed - requirements ended  , Hina Mehta  ,  ,  ," , Drksâkshi Bâlângan, Near Ajay Poultry Farm, ,Supela Purani Basti, PO Supela, ,Durg, Chattisgarh,CHHATTISGARH  490023 ",   ,"",CHHATTISGARH
 1055, Support ended.  , Ashok Chakraborty  , DighalPatra Academy  , Manidipa Mukherjee  ," , Village: Kanchuri,,Contai,WEST BENGAL  721401 ", 9232706050  ,"",WEST BENGAL
 1056, rejected  , Ramakrishna Peeta  , Manikandan V  , Venkatesh Balakrishna  ," , C/o The Timbaktu Collective, ,Chennekotha Palli Village (post),Chennekotha Palli,ANDHRA PRADESH  515101 "," +91 8559 202335/339, 240335/33  ","",ANDHRA PRADESH
-1058, completed - requirements ended  , Shreya Amin  , Meenu Venkateswaran  ,  ," , C-24 B, Second Floor,,Kalkaji,New Delhi ,DELHI  110019 "," +91 11 2644 0619, +91 11 2621   ","",Delhi
+1058, completed - requirements ended  , Shreya Amin  , Meenu Venkateswaran  ,  ," , C-24 B, Second Floor,,Kalkaji,New Delhi ,DELHI  110019 "," +91 11 2644 0619, +91 11 2621   ","",DELHI
 1059, Support ended.  , Kriti Modi  , Padmini Gopalan  , Rohini Muthuswami  ," , Old number 115, New number 30,PS Sivasami Salai,Mylapore, Chennai,TAMIL NADU   ", 044-24992450  ,"",TAMIL NADU
 1062, completed - requirements ended  , Sandeep Morthala  , Abhishek Kishore  ,  ," , ,,Khirkhi Village,DELHI   ",   ,"",DELHI
 1063, completed - requirements ended  , Sang Venkatraman  , Prema Rangachary  , Padmanava Sen  ," , Bhuvana Foundation Thuvaipathy Road, ,,Anaikatty,TAMIL NADU  641108 ", 44-24344433  ,"",TAMIL NADU
@@ -691,8 +691,8 @@ pid,Status,Project Steward,Project Partner,Other Contacts,Project Address,Tel,St
 1078, completed - sustainable  , Raji Muppala  , Jithendar Kumar  ,  ," , Spandana Voluntary Organization,Palangi village,Palangi village,ANDHRA PRADESH  534211 ", 011-91- 9397646210  ,"",ANDHRA PRADESH
 1079, rejected  , Ajoy Saha  , Sudeshna  Sinha  , Proma  Basu Roy  ," , 62B, Alipore Road, ,,Kolkata,WEST BENGAL  700027 ", (033) 2448-0018  ,"",WEST BENGAL
 1080, completed - requirements ended  , Prateek Sharma  , Chetan Solanki  , Vinod Ramachandran  ," , Arogya Bhavan, Zhirnya Road,,Bhikangaon,MADHYA PRADESH  451331 ", 09425950085  ,"",MADHYA PRADESH
-1081, completed - sustainable  , Anish Johnson  , Anubhav Mitra  ,  ," , The Benentech Initiative,,486 Double Storey New Rajinder Nagar,New Delhi,DELHI  110060 ",   ,"",Delhi
-1082, current / ongoing  , Ishan Shah  , Zaira Rahim  , Shakuntala Sadhu  ," ,  F 2, First Floor, ,Lado Sarai,,New Delhi,DELHI  110030 ", 91-11-29522112  ,"",Delhi
+1081, completed - sustainable  , Anish Johnson  , Anubhav Mitra  ,  ," , The Benentech Initiative,,486 Double Storey New Rajinder Nagar,New Delhi,DELHI  110060 ",   ,"",DELHI
+1082, current / ongoing  , Ishan Shah  , Zaira Rahim  , Shakuntala Sadhu  ," ,  F 2, First Floor, ,Lado Sarai,,New Delhi,DELHI  110030 ", 91-11-29522112  ,"",DELHI
 1084, completed - requirements ended  , Ankur Pariyani  , Ena Lebel  ,  ," , LITERACY INDIA LEARNING CENTER , VILLAGE – BHATI KHURD,Near Sawan Public School, Radha Swami Satsang Gate 2,,DELHI  110074 ",   ,"",DELHI
 1085, completed - requirements ended  , Chandrasekar Varanasi  , Tejaswi Sevekari  ,  ," , 1089, Shivaji Road Opp. Shrinath Talkies Budhwar Peth,,Pune,MAHARASHTRA  411016 ", +91 (020) 65287297  ,"",MAHARASHTRA
 1086, completed - requirements ended  , Sashi Venkatesan  , Herald D’Souza  ,  ," , Yuvajyothi,B-145, St.Martin Nagar,Jaripatka, Nagpur,MAHARASHTRA  4400 ", 91 712 2630615  ,"",MAHARASHTRA
@@ -703,13 +703,13 @@ pid,Status,Project Steward,Project Partner,Other Contacts,Project Address,Tel,St
 1091, completed - requirements ended  , Padmanava Sen  , Siddamma E  , Santhosh Padmanabhan  ," , 184/14C-2 Jayanagar,,,,TAMIL NADU   "," 91-9884080048(C), 91-44-655199  ","",TAMIL NADU
 1092, Support ended.  , Shivashankar Halan  , Girigan Gopi  ,  ," , M S Swaminathan Research Foundation,Community Agrobiodiversity Centre, Puthurvayal P.O.,,Kalpetta,KERALA  673121 ", 091-4936-204477  ,"",KERALA
 1093, completed - requirements ended  , Jagadish Gattu  , Chennupati Vidya  ,  ," , Children,Vemavaram Village,K.Tadepalli Panchayath,ANDHRA PRADESH  520010 ", 91-866-2473056  ,"",ANDHRA PRADESH
-1094, completed - requirements ended  , Ankur Pariyani  , Ajay Patel  ,  ," , Ajay Patel Mankaiya, Mirzamurad Varanasi ,Uttar Pradesh, India,Mankaiya,UTTAR PRADESH  221307 ", +91 9935956075  ,"",Uttar Pradesh
+1094, completed - requirements ended  , Ankur Pariyani  , Ajay Patel  ,  ," , Ajay Patel Mankaiya, Mirzamurad Varanasi ,Uttar Pradesh, India,Mankaiya,UTTAR PRADESH  221307 ", +91 9935956075  ,"",UTTAR PRADESH
 1095, current / ongoing  , Melli Annamalai  , Praveen Kumar  ,  ," , Swami Vivekananda Youth Movement,Hanchipura Road,Saragur,KARNATAKA  571121 ", 91-8228-265412  ,"",KARNATAKA
 1097, completed - requirements ended  , Sumana Reddy  , Sri Madipalli  ,  ," , Rishi Valley Education Center,Krishnamurti Foundation India,Madanapalle,ANDHRA PRADESH  517352 ", 011 91 8571280622  ,"",ANDHRA PRADESH
 1098, completed - requirements ended  , Sumana Reddy  ,  ,  ," , Rishi Valley Education Center,Krishnamurti Foundation India,Madanapalle,ANDHRA PRADESH  517352 ", +918571280622/280582  ,"",ANDHRA PRADESH
 1099, completed - sustainable  , Hitten Zaveri  , Sankar Halder  , Padmanava Sen  ," , Vill+ Post : Purba Shridharpur, PS: Raidighi,,,WEST BENGAL  743383 ", +919830967257  ,"",WEST BENGAL
 1100, completed - requirements ended  , Sandeep Morthala  , Abhishek Kishore  ,  ," , ,,,DELHI   ",   ,"",DELHI
-1102, current / ongoing  , Ramya Narasimha  , Meenakshi Nayar  , Sindhu Kashyap  ," , E 48 Greater Kailash Enclave II,N/A,New Delhi,DELHI  110048 ", 91 11 0 29221320  ,"",Delhi
+1102, current / ongoing  , Ramya Narasimha  , Meenakshi Nayar  , Sindhu Kashyap  ," , E 48 Greater Kailash Enclave II,N/A,New Delhi,DELHI  110048 ", 91 11 0 29221320  ,"",DELHI
 1103, completed - requirements ended  , Anuradha Bulusu  , Shampa Roy  ,  ," , Trinita Society for Social Education and Health Research,19, Kankulia Road,,WEST BENGAL  700029 ", 9433079313  ,"",WEST BENGAL
 1104, completed - things went wrong  , Aditya Kappagantula  , Madhavarao Dhamma  , Amy Huff Shah  ," , Vijaya Lakshmi Nilayam, 4th floor,Saroor Nagar,Hyderabad,TELANGANA   ", +91-40-32588838  ,"",TELANGANA
 1105, completed - requirements ended  , Namita  Gujral  , Barnali Chakraborty  ,  ," , Munshi mohallah,,Jamshedpur,JHARKHAND  831002 ",   ,"",JHARKHAND
@@ -728,18 +728,18 @@ pid,Status,Project Steward,Project Partner,Other Contacts,Project Address,Tel,St
 1128, completed - requirements ended  , Vinay Vemuri  , Lakshmi  Ramakrishnan  , Chandrasekhar Raman  ," , No 11 Avatar apts, ,27 Balakrishnan Road, Valmikinagar, ,Thiruvanmiyur,TAMIL NADU  600041 ", 044 24455568  ,"",TAMIL NADU
 1129, completed - requirements ended  , Swathi Komandur  , Sangeeta Patankar  ,  ," , A/3 Untra Co-op Housing Society,Lt. Gupte Road  ,Mahim Mumbai,MAHARASHTRA  400006 ", +912224467308  ,"",MAHARASHTRA
 1130, current / ongoing  , Roopashi Saxena  , Sarvalaxmi P. V  , Anubhav Rai  ," , H.No.2-53/2, Chaithanyapuri,Dilsukhnagar,Hyderabad,TELANGANA  500060 ", 09908221082  ,"",TELANGANA
-1131, completed - requirements ended  , Athena  Mak  , Baidyanath Baral  ,  ," , Gandhipadia,,,ORISSA  752056 ",   ,"",ORISSA
+1131, completed - requirements ended  , Athena  Mak  , Baidyanath Baral  ,  ," , Gandhipadia,,,ORISSA  752056 ",   ,"",ODISHA
 1133, completed - requirements ended  , Ashwin Ashok  , S. D. Gaikwad  ,  ," , ï¿½Shivaiï¿½ Plot # 11,Yashwantnager,Sangli,MAHARASHTRA  416416 ", (+91-233)-231-3122  ,"",MAHARASHTRA
 1134, current / ongoing  , Sonia Paget  , Aniket   Amte  , Rajdeep  Deb  ," , Lok Biradari Prakalp Hemalkasa,Bhamragad,Hemalkasa,MAHARASHTRA  442710 ",  91 7134 220001  ,"",MAHARASHTRA
 1135, completed - requirements ended  , Rahul Batra  , Kamal Kishor  ,  ," , A-17, Ashok Vihar, Near Babul Paradise Marriage Garden,,New Sanganer Road, Mansarovar,Jaipur,RAJASTHAN  302020 ", 91 98280 15081  ,"",RAJASTHAN
 1137, completed - requirements ended  , Namita   Agrawal  ,  , shantikumar ningthoujam  ," , Moirang Lamkhai,Moirang,Moirang,MANIPUR  795133 "," +919856424724,+919436295832  ","",MANIPUR
 1138, current / ongoing  , Sameer Kulkarni  , Gautam Gauri  , Aditi Khot  ," , C-1, Shanti Vihar Colony, P.O. BV College,Ambedkar Path,Patna,BIHAR  800014 ", 011 91 9204056412  ,"",BIHAR
-1139, rejected  , Ebru Tontas  , Ram Bodepu  ,  ," , Madanapuram (Village) Nivagam (via) Srikakulam (Dist),Andhra Pradesh India - 532457 ,Madanapuram,ANDHRA PRADESH  532457 ", 0091-9866656209  ,"",Andhra Pradesh
+1139, rejected  , Ebru Tontas  , Ram Bodepu  ,  ," , Madanapuram (Village) Nivagam (via) Srikakulam (Dist),Andhra Pradesh India - 532457 ,Madanapuram,ANDHRA PRADESH  532457 ", 0091-9866656209  ,"",ANDHRA PRADESH
 1140, completed - requirements ended  , Smita  Puniyani   , Monica Bisht  , Nikhil  Jadhav  ," , Asha Mumbai Center, Powai nook  bldg,,Opp. Tirandaj village Municipal School, Opp  IITB main gate,,powai ,MAHARASHTRA  400076 ", 91-22-2578 7466  ,"",MAHARASHTRA
 1141, completed - requirements ended  , Poornima Padmanabhan  , Hemanta Samanta  ,  ," , ,,Totopara,WEST BENGAL   ",   ,"",WEST BENGAL
 1142, current / ongoing  , Chidu  Subbaih  , Sashikala Sriram  ,  ," , New No.2, (Old No.28) Besant Avenue,,Besant Nagar,Chennai,TAMIL NADU  600090 ", 91-984109142  ,"",TAMIL NADU
 1143, current / ongoing  , Charu Katyal  , Amit Sinha  ,  ," ,  F 2,Fourth Floor,Lado Sarai,DELHI  110030 ", 91-9818705715  ,"",DELHI
-1144, completed - things went wrong  , Giridhar Kolanupaka  , Hochiminh Sastri  , Jayanti Golchha  ," , Bachhara Patna,Jatni,Khurda,ORISSA   ",   ,"",ORISSA
+1144, completed - things went wrong  , Giridhar Kolanupaka  , Hochiminh Sastri  , Jayanti Golchha  ," , Bachhara Patna,Jatni,Khurda,ORISSA   ",   ,"",ODISHA
 1145, completed - requirements ended  , Rahul Batra  , Balamanikandan K  , Udhaya Kumar V.  ," , D-Lakshmi Sree Apartments, Vedha Nagar,,Chinmaya Nagar Stage II Ext,Chennai,TAMIL NADU  600092 ", 91 9840295650  ,"",TAMIL NADU
 1147, completed - requirements ended  , Radhakrishna Velagapudi  ,  ,  ," , H.No: C-835, N.G.O’s colony,,Vansasthalipuram,Hyderabad,TELANGANA  500070 ", 9959172223  ,"",TELANGANA
 1151, completed - requirements ended  , Ajay Vishwanath  , Naresh Bala  ,  ," , No.294, 4th Cross, 8th Main Dollars Colony ,JP Nagar 4th phase,Bangalore ,KARNATAKA  560078 ", +91 9845169366  ,"",KARNATAKA
@@ -763,12 +763,12 @@ pid,Status,Project Steward,Project Partner,Other Contacts,Project Address,Tel,St
 1185, completed - requirements ended  , Padmanava Sen  , Vallabhacharya Pandey  , Rajeev Annaluru  ," , ,,,UTTAR PRADESH   ",   ,"",UTTAR PRADESH
 1186, completed - requirements ended  , Vallabh Pandey  , Suraj Kumar  , MAHESH  PANDEY  ," , Asha Trust ,Village: Bhandha Kala Post: Kaithi ,Kaithi,UTTAR PRADESH  221116 "," 91-542-2618301, Cell: 91-94152  ","",UTTAR PRADESH
 1187, current / ongoing  , Andrew Shapiro  , Swapan Mandal  , Amy Hinesley  ," , Digambarpur, Via Kashinagar ,P.S. Dholahat,Patharpratima,WEST BENGAL  743349 ",  011 91 3324283363  ,"",WEST BENGAL
-1188, current / ongoing  , Suvarna SreeGeetha Dandapanthula  , Sandhya Puchalapalli  , Prema Grandhi  ," , House number 20 539 Opposite Municipal Stadium, Kadapa,Y.S.R District Andhra Pradesh, India,Kadapa,ANDHRA PRADESH  516004 ", 91 - 8562 - 247 106  ,"",Andhra Pradesh
+1188, current / ongoing  , Suvarna SreeGeetha Dandapanthula  , Sandhya Puchalapalli  , Prema Grandhi  ," , House number 20 539 Opposite Municipal Stadium, Kadapa,Y.S.R District Andhra Pradesh, India,Kadapa,ANDHRA PRADESH  516004 ", 91 - 8562 - 247 106  ,"",ANDHRA PRADESH
 1189, completed - requirements ended  , Vipulkumar Patel  , Mittal Gohil  , Ramesh Kasondra  ," , ,,Padal Village, Zhagadia,GUJARAT   ",   ,"",GUJARAT
-1190, current / ongoing  , Aditi Chandarana  , Jitendra  Pandey  , Ritika Gulabrani  ," , Path village under Phakiradih Panchayat in Bhandaria Block,Jharkhand-822125, India,Ramkanda Post Office,JHARKHAND  822125 ", 011 918877067911  ,"",Jharkhand
-1193, current / ongoing  , Tejal Patel  ,    , Nisha Rajagopalan  ," , H.NO.8-1-284/OU/256,,OU COLONY SAIKPET, Telangana,Hyderabad,ANDHRA PRADESH  500104 ", 91 84042 71122  ,"",Telangana
-1194, completed - things went wrong  , Jayaprakash Nair  , Rajeevan B.V.  ,  ," , Mattilayam Post.Vellamunda (Via) Wayanad Dt.Kerala,Mattilayam P.O,Vellamunda,KERALA  670731 ", 04935-236346  ,"",Kerala
-1196, current / ongoing  , Prajakta Waghmare  , Snigdha  Biswal  , Rajdeep Deka  ," , Gatiroutpatna,P.O. Biribati,Distt. Cuttack,ORISSA  754100 ", 011 91 9437452072  ,"",ORISSA
+1190, current / ongoing  , Aditi Chandarana  , Jitendra  Pandey  , Ritika Gulabrani  ," , Path village under Phakiradih Panchayat in Bhandaria Block,Jharkhand-822125, India,Ramkanda Post Office,JHARKHAND  822125 ", 011 918877067911  ,"",JHARKHAND
+1193, current / ongoing  , Tejal Patel  ,    , Nisha Rajagopalan  ," , H.NO.8-1-284/OU/256,,OU COLONY SAIKPET, Telangana,Hyderabad,ANDHRA PRADESH  500104 ", 91 84042 71122  ,"",TELANGANA
+1194, completed - things went wrong  , Jayaprakash Nair  , Rajeevan B.V.  ,  ," , Mattilayam Post.Vellamunda (Via) Wayanad Dt.Kerala,Mattilayam P.O,Vellamunda,KERALA  670731 ", 04935-236346  ,"",KERALA
+1196, current / ongoing  , Prajakta Waghmare  , Snigdha  Biswal  , Rajdeep Deka  ," , Gatiroutpatna,P.O. Biribati,Distt. Cuttack,ORISSA  754100 ", 011 91 9437452072  ,"",ODISHA
 1197, completed - requirements ended  , Sandeep Morthala  , Rajaraman Krishnan  ,  ," , 5, Kondal Street,Kondithope,Chennai,TAMIL NADU  600079 ", 0091-98407 28798  ,"",TAMIL NADU
 1198, completed - things went wrong  , Sridhar Dandapanthula  , Rupa Mary  ,  ," , Wings School,House No.4-60/3/92,Tumkunta,TELANGANA  000000 ", 9948093165  ,"",TELANGANA
 1199, completed - requirements ended  , Paripooranam K  , Lakshmi Suryanarayanan  ,  ," , ,,Seeyapoondi,TAMIL NADU   ",   ,"",TAMIL NADU
@@ -780,7 +780,7 @@ pid,Status,Project Steward,Project Partner,Other Contacts,Project Address,Tel,St
 1210, completed - requirements ended  , Venkat Bhamidipati  , Karthik Rapaka  ,  ," , Durga Apartments,,Hyderabad,ANDHRA PRADESH   ", 91 40 6515 5525  ,"",ANDHRA PRADESH
 1211, current / ongoing  , Radhakrishna Velagapudi  , Laskhmi Kumari Suryadevara  ,  ," , H.No. 42-93/2, Plot No. 245, Jawahar Nagar Colony,Moula-Ali,Hyderabad,TELANGANA  500040 ", 9959244558  ,"",TELANGANA
 1212, completed - requirements ended  , Prathibha Nandagudi  , Ajit Mandlik  , Aditi Natu  ," , Gandhi Bhavan,Next to Poona Blind Girl School, Kothrud,Pune,MAHARASHTRA  411038 ", 020-25386687/ 09869049849  ,"",MAHARASHTRA
-1213, current / ongoing  , Anishi Patel  , Roohi Sharma  , Avani Agarwal  ," , Samarpan Foundation,63 Jor Bagh,New Delhi,DELHI  110003 ", 91 09810012062  ,"",Delhi
+1213, current / ongoing  , Anishi Patel  , Roohi Sharma  , Avani Agarwal  ," , Samarpan Foundation,63 Jor Bagh,New Delhi,DELHI  110003 ", 91 09810012062  ,"",DELHI
 1214, current / ongoing  , Amit Rajkhowa  , Lanu Aimol  , Nabanita Majumdar  ," , Shiyalkhati (Near Indian Airforce Station),P.O.: Digaru,Sonapur,ASSAM  782401 ", +9198599-43117 / +9197067-6762  ,"",ASSAM
 1215, current / ongoing  , Pallavi Kulkarni  , Aparna Pardeshi  , Vani Subramanyam  ," , Plot 497, Sector 28,,Pradhikaran,Pune,MAHARASHTRA  411044 ", +919890093187  ,"",MAHARASHTRA
 1216, current / ongoing  , Maulik Nagri  , Vijay Balasubramaniam  , Maulik Nagri  ," , Bhagwati Sarla Paliwal Shiksha Samiti,Village and Post,Jattari,UTTAR PRADESH  202137 ", 011 91 99999 99999  ,"",UTTAR PRADESH
@@ -792,7 +792,7 @@ pid,Status,Project Steward,Project Partner,Other Contacts,Project Address,Tel,St
 1223, completed - sustainable  , Pallavi Kulkarni  , Anil Gawade  ,  ," , Snehalaya, F Block, Survey No. 239, Shree Tiles Chowk, ,Beside Super Ammonia Plant, MIDC,Ahmednagar,MAHARASHTRA  414111 ", 0241-2778353  ,"",MAHARASHTRA
 1226, current / ongoing  , Sandeep Sarkar  , LOK Das  ,  ," , ICHAPUR Sealdanga,P.O.- Santragachi,Howrah,WEST BENGAL  711104 ", 011 91 9836509314  ,"",WEST BENGAL
 1228, current / ongoing  , Rajaraman Krishnan  , Rajaraman Krishnan  , Venkat Ramasamy  ," , First Floor, 85/2, Luz Avenue, Mylapore, Chennai 600004,Near Nageswara rao park,Chennai,TAMIL NADU  600004 ", 91 9444404060  ,"",TAMIL NADU
-1230, current / ongoing  , Sambit Saha  , Arunabha  Das  , Ved Trivedi  ," ,  Mathurapur II Block,Sundarban, West Bengal, 743349,Nandakumarpur,WEST BENGAL  743349 ", 01191 9007032300  ,"",West Bengal
+1230, current / ongoing  , Sambit Saha  , Arunabha  Das  , Ved Trivedi  ," ,  Mathurapur II Block,Sundarban, West Bengal, 743349,Nandakumarpur,WEST BENGAL  743349 ", 01191 9007032300  ,"",WEST BENGAL
 1231, completed - requirements ended  , Kumar Santhanam  , Kumar Santhanam  , Paripooranam K  ," , ,,,TAMIL NADU   ",   ,"",TAMIL NADU
 1233, completed - sustainable  , Vijaya Sundaram  , Vijaya Sundaram  ,  ," , -,-,-,TAMIL NADU  600003 ", 011919876543210  ,"",TAMIL NADU
 1234, current / ongoing  , Usha bhaskar  , Rajaraman Krishnan  ,  ," , First Floor, 85/2, Luz Avenue, Mylapore, Chennai 600004,Near Nageswara rao park,Chennai,TAMIL NADU  600004 ",    ,"",TAMIL NADU
@@ -802,7 +802,7 @@ pid,Status,Project Steward,Project Partner,Other Contacts,Project Address,Tel,St
 1238, completed - sustainable  , Prathibha Nandagudi  , Ramesh Swamy  , Madhav Venkateswaran  ," , 1(P), Unnati Centre, Temple Road, Sadanandanagar, NGEF Layout,Bangalore,KARNATAKA  560038 ", 9844085864  ,"",KARNATAKA
 1240, completed - requirements ended  , Sowmya Suryanarayanan  , Siddamma E  , Savitha Sridharan  ," ,  184/14C-2 Jayanagar,,Thiruvallur,,TAMIL NADU   ", 9884080048(C  ,"",TAMIL NADU
 1241, current / ongoing  , Lalitha Podila  , Devaki Kumar  ,  ," , 8-3-1027/A2,Lane Opp To Indian Bank,Srinagar Colony-Hyderabad,TELANGANA  500073 ",  040-4004 2250  ,"",TELANGANA
-1242, completed - requirements ended  , Pradeep Jayaraman  , Apoorva Murari  , Rahul Batra  ," , K-96, B K Dutt Colony,,Jor Bagh Road, ,New Delhi,DELHI  110003 ",   ,"",Delhi
+1242, completed - requirements ended  , Pradeep Jayaraman  , Apoorva Murari  , Rahul Batra  ," , K-96, B K Dutt Colony,,Jor Bagh Road, ,New Delhi,DELHI  110003 ",   ,"",DELHI
 1243, current / ongoing  , Revathi Kadari  , Srivyal Vuyyuri  ,  ," , 536, BN Reddy Nagar Colony, ,Near Cherlapally Industrial Area,Hyderabad,ANDHRA PRADESH  500051 ", (91)9959559022  ,"",ANDHRA PRADESH
 1244, completed - requirements ended  , Melli Annamalai  , Rajaraman Krishnan  , Bhaskar V  ," , ,,,TAMIL NADU   ",   ,"",TAMIL NADU
 1245, completed - sustainable  , Atrei Ghosh  , Sanjeev Ranganathan  ,  ," , STEM Land, Udavi School,Edayanchavadi Village, Auroville,Edayanchavadi village,TAMIL NADU  605101 ", 8940262969  ,"",TAMIL NADU
@@ -823,7 +823,7 @@ pid,Status,Project Steward,Project Partner,Other Contacts,Project Address,Tel,St
 1264, completed - sustainable  , Viswa Ammula  , Urmi Basu  , Manorama A Koppula  ," , 162 Kalighat Road,Kalighat Road,Kolkata,WEST BENGAL  700026 ", 011 91 3324850068  ,"",WEST BENGAL
 1265, completed - requirements ended  , Arjun Prakash  , Himanshu  M  , Aarti Chigullapalli  ," , 73, 3rd phase 2nd main road,Vinayaka layout, Vijayanagar,,Bangalore,KARNATAKA  560040 ", 011 91 9880086300  ,"",KARNATAKA
 1266, completed - sustainable  , Ananth ES  , Nalan B  ,  ," , Tirunelveli,Tirunelveli,Tirunelveli,TAMIL NADU  627113 ", 04424320430  ,"",TAMIL NADU
-1267, terminated  , Keertana Marella  , Chris Anthony  , Rohil Jain  ," , Building 9-10, Bhai Vir Singh Marg,Near Bangla Sahab Gurudwara,New Delhi,DELHI  110001 ", 011-23347506  ,"",Delhi
+1267, terminated  , Keertana Marella  , Chris Anthony  , Rohil Jain  ," , Building 9-10, Bhai Vir Singh Marg,Near Bangla Sahab Gurudwara,New Delhi,DELHI  110001 ", 011-23347506  ,"",DELHI
 1268, current / ongoing  , Sanjali Subash  , Sajal Kanti Kayal  , Lakshmi Santhosh  ," , Kankura Masat, PO Masat, PS,Diamond Harbour, Dist South 24 Parganas,Paraganas,WEST BENGAL  743375 ", 011 91 9830963053  ,"",WEST BENGAL
 1269, current / ongoing  , Payal Tiwari  , Bindu Singh  , Anshul Sachdev  ," , Gramya Sansthan , L-40, VDA Colony, Chandmari,Lalpur II, Lamhi, Sarnath,Varanasi,UTTAR PRADESH  221007 ", 91 9415222597  ,"",UTTAR PRADESH
 1270, current / ongoing  , Amrish Garg  , Asha Pandey  ,  ," , N1/59-A-23-22, Shivpuri Colony,Nagwa,Varanasi,UTTAR PRADESH  221005 ", 011 91 8858504470  ,"",UTTAR PRADESH
@@ -837,10 +837,10 @@ pid,Status,Project Steward,Project Partner,Other Contacts,Project Address,Tel,St
 1279, completed - requirements ended  , Asha Stanford  , Veer Shah  , Anika Raghuvanshi  ," , Chikkagubbi, Alpha Engineering College Road,Kothanur Post,Bangalore,KARNATAKA  560077 ", 011 98 86411130  ,"",KARNATAKA
 1280, completed - requirements ended  , Suhas Satheesh  , Prajna N S  , Atman R Parikh  ," , Deenabandhu Trust, PWD Colony,Behind Forest Nursery,Chamarajnagara,KARNATAKA  571313 ", 011 91 9449406494  ,"",KARNATAKA
 1281, completed - requirements ended  , Shubhalaxmi Taywade  , Vrundan Bawankar  , Jayashree Pahade  ," , Pawan Public School,Pauni  ,Bhandara,MAHARASHTRA  441910 ", 91 9766370959   ,"",MAHARASHTRA
-1282, proposal - received  , Punit Barot  , Shrish Patel   ,  ," ,  Gandhi Smarak Sangrahalaya, Ashram Rd, Ahmedabad, Gujarat ,Ashram Road , Ahmedabad,GUJARAT  380027 ", 011 91 7927557277  ,"",Gujarat
+1282, proposal - received  , Punit Barot  , Shrish Patel   ,  ," ,  Gandhi Smarak Sangrahalaya, Ashram Rd, Ahmedabad, Gujarat ,Ashram Road , Ahmedabad,GUJARAT  380027 ", 011 91 7927557277  ,"",GUJARAT
 1283, current / ongoing  , Atman R Parikh  , Prajna N S  , Melli Annamalai  ," , Deenabandhu Trust, PWD Colony,Behind Forest Nursery,Chamarajnagara,KARNATAKA  571313 ", 009108226223077  ,"",KARNATAKA
 1284, completed - sustainable  , Sandeep Morthala  , Rukmini Rao  ,  ," , 12-13-440,Street no 1,Tarnaka,Secunderabad,TELANGANA  500017 ", 011 91 9440860271  ,"",TELANGANA
-1285, current / ongoing  , Sanjeev Kumar  , Tapan Gandhi  , Hitten Zaveri  ," , Dr. Shroffs Charity Eye Hospital,5027 Kedarnath Road, Darya Ganj,,Delhi,DELHI  110002 ", 9101123438245  ,"",Delhi
+1285, current / ongoing  , Sanjeev Kumar  , Tapan Gandhi  , Hitten Zaveri  ," , Dr. Shroffs Charity Eye Hospital,5027 Kedarnath Road, Darya Ganj,,Delhi,DELHI  110002 ", 9101123438245  ,"",DELHI
 1286, current / ongoing  , Amrita Chaturvedi  , Connie Rao  ,  ," , B-30/2A-6-1,GANGA BAG COLONY,VARANASI,UTTAR PRADESH  221005 ", 0117755092551  ,"",UTTAR PRADESH
 1287, completed - requirements ended  , Durgesh Gupta  , Divya Singh  ,  ," , Bodh Shiksha Samiti ,AA-1, Anita Colony  Bajaj Nagar,Jaipur,RAJASTHAN  302015 ", 001 91 141 2708460  ,"",RAJASTHAN
 1288, current / ongoing  , Amrish Garg  , Sanjay Singh  ,  ," , Parmarth Samaj Sevi Sansthan, Mona House, Churkhi Road, Orai,UTTAR PRADESH  285001 ", 05162-258412  ,"",UTTAR PRADESH
@@ -849,10 +849,10 @@ pid,Status,Project Steward,Project Partner,Other Contacts,Project Address,Tel,St
 1291, current / ongoing  , Abhilash Sawant  , Swati Vempati  ,  ," , H.No.12/A, PS Nagar, Vijayanagar Colony,Masab Tank,Hyderabad,TELANGANA  500057 ", 011 91 9052858856  ,"",TELANGANA
 1292, completed - requirements ended  , Seema Chaudhary  , Geetanjali Degaonkar  , Deepali Bhagvat  ," , S.No. 18/B5, Rigved, Sankalp Society,Gondhalenagar,Pune ,MAHARASHTRA  411028 ", 011 91 9890690513   ,"",MAHARASHTRA
 1293, completed - requirements ended  , Anusha Harish  , Shiva Prakash  , Shashidhar Ravishankar  ," , No. 151/F 4th Cross,Gokulam 3rd Stage,Mysore,KARNATAKA  570002 ", 011 91 9886409563  ,"",KARNATAKA
-1294, current / ongoing  , Ashok Panigrahi  , Shri Laxminarayan Panigrahy  , Naheed Qaisar  ," , VK Odisha Seva Prakalpa- VIVEKANANDA KENDRA,Jamuhata mining school road,Keonjhar,ORISSA  758001 ", 011 91 6766255954  ,"",Odisha
+1294, current / ongoing  , Ashok Panigrahi  , Shri Laxminarayan Panigrahy  , Naheed Qaisar  ," , VK Odisha Seva Prakalpa- VIVEKANANDA KENDRA,Jamuhata mining school road,Keonjhar,ORISSA  758001 ", 011 91 6766255954  ,"",ODISHA
 1295, completed - requirements ended  , Madhura Nirkhe  , Sushama Sathaye  , Seema Chaudhary  ," , VANASTHALI RURAL DEVELOPMENT CENTRE ,318 / 19 B, Canal road, Model Colony,Pune,MAHARASHTRA  411016 ", 0119120265238747  ,"",MAHARASHTRA
 1296, completed - requirements ended  , Neel Kishnani  , Vrundan Bawankar  ,  ," , Gram Vikas Sanstha Campus,Shirsala Road,Pauni,MAHARASHTRA  441910 ", 919766370959  ,"",MAHARASHTRA
-1297, current / ongoing  , Atrei Ghosh  , Sanjeev Ranganathan  , Balaji S  ," , Isai Ambalam School,Auroville, Alankuppam Village,,Puducherry,TAMIL NADU  605101 ", 91-8940262969  ,"",Puducherry
+1297, current / ongoing  , Atrei Ghosh  , Sanjeev Ranganathan  , Balaji S  ," , Isai Ambalam School,Auroville, Alankuppam Village,,Puducherry,TAMIL NADU  605101 ", 91-8940262969  ,"",PUDUCHERRY
 1298, completed - sustainable  , Vandana Mallempati  , Pakalapati Lakshmi  ,  ," , 13-239, Bhimli Beach Rd, Mangamaripeta Village,Chapaluppada Post,Visakhapatnam,ANDHRA PRADESH  530045 ", 011 91 99896 95888  ,"",ANDHRA PRADESH
 1299, Proposal - Closed  , Melli Annamalai  , Paripooranam K  , Atman R Parikh  ," , First Floor, 85/2 Luz Avenue,Mylapore,Chennai,TAMIL NADU  600004 ", 011919444404060  ,"",TAMIL NADU
 1300, completed - requirements ended  , Sekar Srinivasan  , Sheela Menon  ,  ," , 37/10, Yellappa Chetty Layout ,Ulsoor Road,Bengaluru,KARNATAKA  560042 ", 011 91 80 41131930  ,"",KARNATAKA
@@ -877,7 +877,7 @@ pid,Status,Project Steward,Project Partner,Other Contacts,Project Address,Tel,St
 1319, current / ongoing  , Mohit Sood  , Suresh Rathaur  ,  ," , MNREGA Workers Union Office,In front of Aaraji Line,Rajatalab ,UTTAR PRADESH  221311 ", 011 91 8858460501  ,"",UTTAR PRADESH
 1320, current / ongoing  , RANJANI KUMAR  , Parimal Sinha  ,  ," , 	SANKALP EK PRAYAS SOCIETY, BHILAI, ROOM NO-3,CONTRACTOR BUILDING, NSPCL TOWNSHIP,BHILAI,CHHATTISGARH  490006 ", 011 91 9425553681  ,"",CHHATTISGARH
 1321, current / ongoing  , Medha Joshi  , Ashwini Dharmadhikari  ,  ," , Kalyan, 32, Natraj Society,Karve Nagar,Pune,MAHARASHTRA  411038 ", 011 91 2025450882  ,"",MAHARASHTRA
-1322, current / ongoing  , Shaibal Dutta  , Uday Gosain  , Amit Sharma  ," , 405, F, Pocket II, Phase I,Mayur Vihar,Delhi,DELHI  110091 ", 01143042669  ,"",Delhi
+1322, current / ongoing  , Shaibal Dutta  , Uday Gosain  , Amit Sharma  ," , 405, F, Pocket II, Phase I,Mayur Vihar,Delhi,DELHI  110091 ", 01143042669  ,"",DELHI
 1323, completed - sustainable  , Padmanava Sen  , Nandlal Master  ,  ," , Bhandahan Kala,Near River,Kaithi,UTTAR PRADESH  221116 ", 91 542 2618201  ,"",UTTAR PRADESH
 1324, current / ongoing  , Rajaraman Krishnan  , Bhaskar Venkateswaran  , Paripooranam K  ," , Asha Chennai First Floor, 85/2 Luz Avenue Mylapore, Chennai ,,Chennai,TAMIL NADU  600004 ",  94444-04060  ,"",TAMIL NADU
 1325, current / ongoing  , SUBHANGI GHOSH  , Balaram Karan  ,  ," , Vill and P.O.-Paunsi, Block- Bhagawanpur-II, PS.,PS.- Bhupatinagar  Dist - Purba Medinipur,,Paushi,WEST BENGAL  721444 ", 011 91 9932671081  ,"",WEST BENGAL
@@ -885,7 +885,7 @@ pid,Status,Project Steward,Project Partner,Other Contacts,Project Address,Tel,St
 1327, current / ongoing  , Pranavi Kethanaboyina  , Dheershitha   ,  ," , Vijay Foundation Trust (Assn)  D.No. 20/539-B,Opposite Municipal Stadium,Kadapa,ANDHRA PRADESH  516001 ", 91 8121801644  ,"",ANDHRA PRADESH
 1328, completed - things went wrong  , Amita Gondi  , M SOMESWARA RAO  , Sarina Rani Deb  ," , Veeronkilock, D. No 3-57,,,Pamidimukkala Mandal,ANDHRA PRADESH  521250 ", 919441413161  ,"",ANDHRA PRADESH
 1329, completed - requirements ended  , Niranjan Thontadarya  , Luit Goswami  ,  ," , Vill-Akajan, via-Salapathar,,Salapathar,ASSAM  787059 ", 91 9954179520  ,"",ASSAM
-1330, current / ongoing  , Abhinav Tyagi  , Makeshwar Rawat  ,  ," , Samagra Seva,North of Animal Hospital,Naya tola Bihari,BIHAR  811307 ", 011 91 9931534537  ,"",Bihar
+1330, current / ongoing  , Abhinav Tyagi  , Makeshwar Rawat  ,  ," , Samagra Seva,North of Animal Hospital,Naya tola Bihari,BIHAR  811307 ", 011 91 9931534537  ,"",BIHAR
 1331, current / ongoing  , Siddharth Deshpande  , Moushumi Banerjee  , Aparna Deshmukh  ," , 2nd Floor, Administrative Block  Andhajan Mandal Campus,Opp. IIM, Vastrapur,Ahmedabad,GUJARAT  380015 ", 011 91 079 26301282  ,"",GUJARAT
 1332, current / ongoing  , Shivani Prasad  , Govind Yadav   ,    ," , Gramin Vikas Samiti,40, NAROTTAM NAGAR CHOPRA KHURD,DAMOH,MADHYA PRADESH  470661 ", 91-94256 28427   ,"",MADHYA PRADESH
 1333, current / ongoing  , Siddharth Deshpande  , Uttam Kumar  , Aparna Deshmukh  ," , Disha Special School and Autism Centre,62, Sampat Rao Colony, Alkapuri,Vadodara,GUJARAT  390005 ", 011 91 6352469413  ,"",GUJARAT

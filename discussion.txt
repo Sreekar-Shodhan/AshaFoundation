@@ -32,3 +32,33 @@ data saved to csv but its raw
 groupby year and get cumulative amount 
 maybe combine two df's based on pid 
 make it one single csv and make data visualization on that csv 
+
+INR in cumulative 
+consolidation based on cur and year -> what is the total in this year and curr 
+pid state funding chapter df and csv 
+dict for state - check 
+check if address -> from the address does it have any of state in dict if yes then what state 
+either parse it as parameter or load the data 
+
+pid state 
+
+final df -> pid year chapter amount state curr (ignore other than USD? )
+pid year area curr amount(sum) -> this one df 
+get state sep and join that state to 46 
+
+graph , percenta_state_year imp 
+divide percenta_state_year with percentage_population
+
+ex: bihar 2.8 %(amount)
+BIHAR,2023,87090.0,3039128.0,2.865624613375942
+population per -> 8.6%
+
+2.86/8.6 = 0.3325581395348837
+
+TAMIL NADU,2023,702131.0,3039128.0,23.103041398717
+Tamil Nadu pop -> 5.96%
+
+23.10/5.96 =3.885
+tamil nadu gets 11.5 times more funding per capita 
+
+for each state whats the per represent taht in graph 
