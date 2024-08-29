@@ -22,12 +22,12 @@ def extract_funding(text, pid: int):
         if matches:
             month = matches.group(1)
             year = matches.group(2)
-            area = matches.group(3)
+            chapter = matches.group(3)
             currency = matches.group(4)
             amount = matches.group(5)
             
-            #print(month, year, area, currency, amount,'######')
-            result.append((pid,month, year, area, currency, amount))
+            #print(month, year, chapter, currency, amount,'######')
+            result.append((pid,month, year, chapter, currency, amount))
     return result
 
 
@@ -61,7 +61,7 @@ def extract_data(i):
     project_funding_value = extract_funding(project_funding,pid)
   #  print(project_funding_value)
    # print(project_status_value)
-    column_names = ['pid','month', 'year', 'area', 'currency', 'amount']
+    column_names = ['pid','month', 'year', 'chapter', 'currency', 'amount']
     
     df = pl.DataFrame(project_funding_value, schema=column_names,orient='row')
     print(df)
@@ -82,7 +82,7 @@ def convert_to_DF():
         all_status_data.append(project_status_value)
         all_funding_data.extend(project_funding_value)
 
-    funding_column_names = ['pid', 'month', 'year', 'area', 'currency', 'amount']
+    funding_column_names = ['pid', 'month', 'year', 'chapter', 'currency', 'amount']
     status_column_names = ['pid', 'Status', 'Project Steward', 'Project Partner', 'Other Contacts', 'Project Address', 'Tel', 'Stewarding Chapter','Extracted State']
 
     funding_df = pl.DataFrame(all_funding_data, schema=funding_column_names)
@@ -117,7 +117,7 @@ def calculate_funding_pidYear():
     ])
     # Group by year and calculate yearly total
         # Group by 'pid' and 'year', then sum the amounts for each combination
-    pid_year_totals = funding_df_processed.group_by(['pid', 'year','area','currency']).agg([
+    pid_year_totals = funding_df_processed.group_by(['pid', 'year','chapter','currency']).agg([
         pl.col('amount').sum().alias('yearly_total')
     ]).sort(['pid', 'year'])
 
@@ -133,7 +133,7 @@ def calculate_funding_pidYear():
     pid_year_totals.write_csv('DataCSV/cumulative_funding.csv')
 
 def extract_state(text):
-    strings_to_check = [
+    namechangedict = {state.upper(): state.upper() for state in [
         "Andhra Pradesh", "Arunachal Pradesh", "Assam", "Bihar", 
         "Chhattisgarh", "Goa", "Gujarat", "Haryana", "Himachal Pradesh", 
         "Jharkhand", "Karnataka", "Kerala", "Madhya Pradesh", 
@@ -142,16 +142,20 @@ def extract_state(text):
         "Telangana", "Tripura", "Uttar Pradesh", "Uttarakhand", "West Bengal",
         "Andaman and Nicobar Islands", "Chandigarh", "Dadra and Nagar Haveli and Daman and Diu", 
         "Lakshadweep", "Delhi", "Puducherry", 
-        "Ladakh", "Jammu and Kashmir","Uttaranchal","Pondicherry","Orissa"
-    ]
+        "Ladakh", "Jammu and Kashmir", "Uttaranchal" , "Pondicherry", "Orissa" ,
+    ]}
+    namechangedict["PONDICHERRY"] = "PUDUCHERRY"
+    namechangedict["UTTARANCHAL"] = "UTTARAKHAND"
+    namechangedict["ORISSA"] = "ODISHA"
 
     #text = "hello bihar, this is a test"
 
-    pattern = "(?i)" + "|".join(strings_to_check)
+    pattern = "(?i)" + "|".join(namechangedict.keys())
     match = re.search(pattern, text)
-
+    
     if match:
         extracted_string = match.group()
+        extracted_string = namechangedict[extracted_string.upper()]
     else:
         extracted_string = None
     print(f"Extracted string: {extracted_string}")
@@ -163,13 +167,64 @@ def final_df():
     funding_df = pl.read_csv('DataCSV/cumulative_funding.csv')
     
     final_df = status_df.join(funding_df, on='pid', how='left').select([
-    'pid', 'year', 'area', 'Stewarding Chapter', 'currency', 'yearly_total', 'Extracted State'
+    'pid', 'year', 'chapter',  'currency', 'yearly_total', 'Extracted State'
     ]).rename({'Extracted State': 'state'})
     print("Final DataFrame:")
     print(final_df)
     print("****")
     
     final_df.write_csv('DataCSV/final_df.csv')
+
+def state_year():
+    final_df = pl.read_csv('DataCSV/final_df.csv')
+    # Convert 'year' to integer type if it's not already
+    final_df = final_df.with_columns(pl.col('year').cast(pl.Int64))
+
+    final_df = final_df.filter(pl.col('currency') == 'USD')
+    # Perform the grouping and aggregation
+    new_df = final_df.group_by(['state', 'year']).agg([
+        pl.col('yearly_total').sum().alias('state_total_amount')
+    ])
+    new_df.write_csv('DataCSV/state_year.csv')
+
+
+def total_year_df():
+    new_df = pl.read_csv('DataCSV/state_year.csv')
+    
+    total_year_df = new_df.groupby('year').agg([
+        pl.col('state_total_amount').sum().alias('total_amount')
+    ]).sort('year')
+    total_year_df.write_csv('DataCSV/total_year.csv')
+
+def percentage_state_df():
+    state_year_df = pl.read_csv('DataCSV/state_year.csv')
+    total_year_df = pl.read_csv('DataCSV/total_year.csv')
+    
+    # Join state_year_df with total_year_df
+    joined_df = state_year_df.join(total_year_df, on='year', how='left')
+    
+    # Calculate the percentage of total amount for each state and year
+    percentage_df = joined_df.with_columns((pl.col('state_total_amount')/pl.col('total_amount')* 100).alias('percentage'))
+    percentage_df = percentage_df.sort(['year','state'])
+    percentage_df.write_csv('DataCSV/percentage_year_state.csv')
+    
+    percentage_df = percentage_df.sort(['state','year'])
+    percentage_df.write_csv('DataCSV/percentage_state_year.csv')
+    
+def state_chapter_df():
+    #drop pid, currency only usd, and drop currency, 
+    final_df = pl.read_csv('DataCSV/final_df.csv')
+    final_df = final_df.filter(pl.col('currency') == 'USD')
+    final_df = final_df.select(['year','state', 'chapter', 'yearly_total'])
+    final_df = final_df.sort(['state','year'])
+    final_df.write_csv('DataCSV/state_chapter.csv')
+    
+def percentage_state_chapter():
+    #out x% y% came from silicon valley 
+    state_chapter_df = pl.read_csv('DataCSV/state_chapter.csv')
+    
+    
+    
 # def only_states():
 #     status_df = pl.read_csv('DataCSV/consolidated_status.csv')
     

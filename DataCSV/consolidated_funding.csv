@@ -1,4 +1,4 @@
-pid,month,year,area,currency,amount
+pid,month,year,chapter,currency,amount
 1,Dec,2000,Boston,USD,800
 2,Dec,2000,Boston,USD,780
 3,Dec,1998,Indiana,USD,625
