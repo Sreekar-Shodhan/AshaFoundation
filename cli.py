@@ -20,3 +20,7 @@ if __name__ == '__main__':
         extraction.percentage_state_df()
    elif command == 'state_chapter':
         extraction.state_chapter_df()
+   elif command == 'state_year_chapter':
+        extraction.state_year_chapter()
+   elif command == 'percentage_state_year_chapter':
+        extraction.percentage_state_year_chapter()

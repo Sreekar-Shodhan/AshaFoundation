@@ -187,6 +187,17 @@ def state_year():
     ])
     new_df.write_csv('DataCSV/state_year.csv')
 
+def state_year_chapter():
+    final_df = pl.read_csv('DataCSV/final_df.csv')
+    # Convert 'year' to integer type if it's not already
+    final_df = final_df.with_columns(pl.col('year').cast(pl.Int64))
+
+    final_df = final_df.filter(pl.col('currency') == 'USD')
+    # Perform the grouping and aggregation
+    new_df = final_df.group_by(['state', 'year', 'chapter']).agg([
+        pl.col('yearly_total').sum().alias('chapter_amount')
+    ]).sort(['state', 'year', 'chapter'])
+    new_df.write_csv('DataCSV/state_year_chapter.csv')
 
 def total_year_df():
     new_df = pl.read_csv('DataCSV/state_year.csv')
@@ -219,9 +230,18 @@ def state_chapter_df():
     final_df = final_df.sort(['state','year'])
     final_df.write_csv('DataCSV/state_chapter.csv')
     
-def percentage_state_chapter():
+def percentage_state_year_chapter():
     #out x% y% came from silicon valley 
-    state_chapter_df = pl.read_csv('DataCSV/state_chapter.csv')
+    state_year_df = pl.read_csv('DataCSV/state_year.csv')
+    state_year_chapter_df = pl.read_csv('DataCSV/state_year_chapter.csv')
+    
+    # Join state_year_chapter_df with total_year_df
+    joined_df = state_year_chapter_df.join(state_year_df, on=['state','year'], how='left')
+    
+    # Calculate the percentage of total amount for each state and year
+    percentage_df = joined_df.with_columns((pl.col('chapter_amount')/pl.col('state_total_amount')* 100).alias('percentage'))
+    percentage_df = percentage_df.sort(['state','year','chapter'])
+    percentage_df.write_csv('DataCSV/percentage_state_year_chapter.csv')
     
     
     
