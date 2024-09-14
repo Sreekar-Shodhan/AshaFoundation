@@ -24,3 +24,11 @@ if __name__ == '__main__':
         extraction.state_year_chapter()
    elif command == 'percentage_state_year_chapter':
         extraction.percentage_state_year_chapter()
+   elif command == 'per_pop_state_year_chapter':
+        extraction.per_pop_state_year_chapter()
+   elif command == 'per_pop_state_year':
+        extraction.per_pop_state_year()
+   elif command == 'per_pop_year_state':
+        extraction.per_pop_year_state()
+   elif command == 'bimaru':
+        extraction.bimaru()
