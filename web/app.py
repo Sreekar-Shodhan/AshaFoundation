@@ -16,7 +16,6 @@ st.set_page_config(page_title=config['app']['title'], page_icon=":bar_chart:", l
 def main():
     st.title(config['app']['title'])
     st.markdown(config['app']['subtitle'])
-    st.markdown("Hello World")
     st.markdown("---")
     cols = st.columns(2)
     state_df = pd.read_csv("data/percentage_year_state.csv")
@@ -86,7 +85,7 @@ def main():
         """)
         
     with st.expander("", expanded=True):
-        st.markdown("**BIMARU** refers to a combination of less developed states in India, specifically Bihar, Uttar Pradesh, Jharkhand, Madhya Pradesh, Chhattisgarh, and Uttarakhand.")
+        st.markdown("**BIMARU** refers to a combination of less developed states in India, specifically Bihar,Jharkhand, Madhya Pradesh, Chhattisgarh, Rajasthan, Uttar Pradesh and Uttarakhand.")
 
 def add_all_years(df):
     
