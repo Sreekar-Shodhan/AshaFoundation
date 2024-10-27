@@ -1,14 +1,18 @@
 FROM python:3.9 
 
-WORKDIR /AshaFoundation
+WORKDIR /AshaFundingAnalysis
 
 COPY requirements.txt . 
 
 RUN pip install -r requirements.txt
 
-COPY . .
+#COPY . .
 
-#use command docker run -it python-ashafoundation extract_yc 
-#extract_yc is a command in cli.py which creates yearcurr.csv 
-CMD ["python", "cli.py"] 
+#build cmd
+#Docker build -t af .
 
+#use command  
+ENTRYPOINT [ "python3", "Download/cli.py" ]
+
+# run cmd
+#sudo docker run -e ACTION=download -it --name af7 -v $HOME/AshaFundingAnalysis:/AshaFundingAnalysis  --net="host" af 
