@@ -1,7 +1,5 @@
-streamlit
-matplot
-seaborn
-pandas
-python-dotenv
-pandasai
-numpy==1.23.5
+beautifulsoup4==4.12.3
+numpy==1.22.4
+pandas==2.2.2
+polars==1.10.0
+streamlit==1.39.0
