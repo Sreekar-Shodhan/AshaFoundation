@@ -13,5 +13,5 @@ docker build -t asha-foundation/web-app .
 ```
 3. Run docker container
 ```
-docker run -p 8501:8501 -it --name asha-foundation-web-app-1 -v "$(pwd):/app" asha-foundation/web-app:latest
+docker run -p 8501:8501 -it --name asha-foundation-web-app -v "$(pwd):/app" asha-foundation/web-app:latest
 ```
