@@ -1,5 +1,8 @@
 import os
 import requests
+import re 
+from bs4 import BeautifulSoup
+
 
 def download_data(pid):
     print(f"Downloading data for project {pid}")
@@ -9,9 +12,11 @@ def download_data(pid):
 
 # download and save data for 1 to last project(i.e 1353)
 def download_all_data():
-    i = 1
+    i = 1350
     while True:
         data = download_data(i)
+        if not isvalid(i,data):
+            break        
         # convert data to html and save it
         if not os.path.exists("Download/HTML_DATA"):
             os.makedirs("Download/HTML_DATA")
@@ -20,3 +25,20 @@ def download_all_data():
         i += 1
             
 
+def isvalid(dn,data):
+    if dn <= 1350:
+        return True
+    html_code = data
+    
+    stewarding_chapter_pattern = r'<strong>Stewarding Chapter:</strong>\s*<a[^>]*>([^<]*)</a>'
+    match = re.search(stewarding_chapter_pattern, data)
+    #print(match,dn)
+    if match:
+        # Get the content between <a> tags
+        chapter_content = match.group(1).strip()
+        #print(chapter_content)
+        # Return False if the content is empty
+        if chapter_content == "":
+            return False
+        return True
+    return False
