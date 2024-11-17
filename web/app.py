@@ -18,12 +18,12 @@ def main():
     st.markdown(config['app']['subtitle'])
     st.markdown("---")
     cols = st.columns(2)
-    state_df = pd.read_csv("data/percentage_year_state.csv")
+    state_df = pd.read_csv("web/data/percentage_year_state.csv")
     
     state_df = add_missing_years(state_df)
     state_df = add_all_years(state_df)
     
-    chapters_df = pd.read_csv("data/per_population_state_chapter_year.csv")
+    chapters_df = pd.read_csv("web/data/per_population_state_chapter_year.csv")
     
     chapters = list(chapters_df['chapter'].unique())
 
@@ -138,7 +138,7 @@ def plot_state_year_wise_funds_breakdown(states, chapter):
     min_year = 2024
     max_year = 1990
     for state in states:
-        df = pd.read_csv("data/per_population_state_chapter_year.csv")
+        df = pd.read_csv("web/data/per_population_state_chapter_year.csv")
         df = df[df['chapter'] == chapter]
         df = df[df['state'] == state]
         data = []
@@ -207,7 +207,7 @@ def plot_state_year_wise_funds_breakdown(states, chapter):
     st.markdown("---")
     
 def plot_state_wise_funds_breakdown(start_year, end_year, chapter):
-    df = pd.read_csv("data/per_population_state_chapter_year.csv")
+    df = pd.read_csv("web/data/per_population_state_chapter_year.csv")
     
     df = df[df['chapter'] == chapter]
     df = df[df['year'].isin(range(start_year, end_year))]
@@ -288,7 +288,7 @@ def plot_state_wise_funds_breakdown(start_year, end_year, chapter):
     for state in all_states:
         if state not in funds_received_states:
             states.append({"state" :state})
-    population_percent_df = pd.read_csv("data/population.csv")
+    population_percent_df = pd.read_csv("web/data/population.csv")
     new_df = pd.merge(pd.DataFrame(states), population_percent_df, on='state')
     new_df = new_df[['state', '% of Total','Population']]
     new_df = new_df.rename(columns={'% of Total': 'Percentage of population', 'state': 'State'})
@@ -306,7 +306,7 @@ def get_bar_color(value):
     return 'green'
 
 def add_population(data):
-    population_df = pd.read_csv("data/population.csv")
+    population_df = pd.read_csv("web/data/population.csv")
     for i in range(len(data)):
         state = data[i][0]
         percent = data[i][1]
@@ -321,7 +321,7 @@ def add_population(data):
 def get_transformed_year_state_data():
 
     
-    df = pd.read_csv("data/per_population_state_year.csv")
+    df = pd.read_csv("web/data/per_population_state_year.csv")
     df = df.map(lambda x: x.strip() if isinstance(x, str) else x)
     df['state'] = df['state'].apply(lambda x: " ".join([s.capitalize() for s in x.split()]))
     df = df.sort_values(by='year')
@@ -364,7 +364,7 @@ def plot_KPI(KPI_summary):
         )
 
 def get_all_states():
-    df = pd.read_csv("data/population.csv")
+    df = pd.read_csv("web/data/population.csv")
     
     states = list(df['state'].values )
     states.append('BIMARU')
