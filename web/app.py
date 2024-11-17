@@ -8,7 +8,7 @@ from streamlit_echarts import st_echarts
 
 # locale.setlocale(locale.LC_ALL, 'en_US.utf8')
 
-with open('config/config.yaml') as file:
+with open('web/config/config.yaml') as file:
     config = yaml.safe_load(file)
     
 st.set_page_config(page_title=config['app']['title'], page_icon=":bar_chart:", layout="wide")
