@@ -2,9 +2,6 @@ from bs4 import BeautifulSoup
 import re
 import polars as pl
 
-# def analyze():
-#     i = 0
-#     read_and_analyze(i)
 def read_and_analyze(i):
     try:
         with open(f"Download/HTML_DATA/ashasup_{i}.html", "r") as f:
@@ -327,4 +324,3 @@ def bimaru():
     
     
     
-convert_to_DF()

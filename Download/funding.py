@@ -12,7 +12,6 @@ def download_data(pid):
 
 # download and save data for 1 to last project(i.e 1353)
 def download_all_data():
-    i = 1350
     while True:
         data = download_data(i)
         if not isvalid(i,data):
@@ -28,15 +27,13 @@ def download_all_data():
 def isvalid(dn,data):
     if dn <= 1350:
         return True
-    html_code = data
     
     stewarding_chapter_pattern = r'<strong>Stewarding Chapter:</strong>\s*<a[^>]*>([^<]*)</a>'
     match = re.search(stewarding_chapter_pattern, data)
-    #print(match,dn)
+    
     if match:
         # Get the content between <a> tags
         chapter_content = match.group(1).strip()
-        #print(chapter_content)
         # Return False if the content is empty
         if chapter_content == "":
             return False

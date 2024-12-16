@@ -15,4 +15,4 @@ RUN pip install -r requirements.txt
 ENTRYPOINT [ "python3", "Download/cli.py" ]
 
 # run cmd
-#sudo docker run -e ACTION=download -it --name af7 -v $HOME/AshaFundingAnalysis:/AshaFundingAnalysis  --net="host" af -
+#sudo docker run -e ACTION=download -it --name af7 -v $HOME/AshaFundingAnalysis:/AshaFundingAnalysis  --net="host" af 
