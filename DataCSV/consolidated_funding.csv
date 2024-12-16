@@ -223,6 +223,7 @@ pid,month,year,chapter,currency,amount
 34,Apr,2003,Cleveland,USD,2440
 34,Dec,2003,Corvallis,USD,1000
 34,Dec,1997,Berkeley,USD,800
+35,Aug,2024,Seattle,USD,48995
 35,Jul,2023,Seattle,USD,50132
 35,May,2022,Seattle,USD,52926
 35,Jul,2021,Seattle,USD,54822
@@ -435,6 +436,7 @@ pid,month,year,chapter,currency,amount
 51,Dec,1996,Boston,USD,1050
 51,Dec,1995,Boston,USD,1050
 52,Dec,2000,Seattle,USD,4500
+53,Jun,2024,Boston,USD,11790
 53,Sep,2023,Boston,USD,3252
 53,Mar,2023,Boston,USD,5243
 53,Sep,2022,Boston,USD,2234
@@ -528,6 +530,7 @@ pid,month,year,chapter,currency,amount
 74,Dec,2001,UIUC,USD,3130
 74,Dec,1999,Berkeley,USD,2250
 75,Dec,1999,Detroit,USD,980
+77,Aug,2024,San Francisco,USD,26830
 77,Sep,2023,San Francisco,USD,24690
 77,Sep,2022,San Francisco,USD,3890
 77,Aug,2022,San Francisco,USD,27100
@@ -623,6 +626,7 @@ pid,month,year,chapter,currency,amount
 80,Dec,2001,Michigan State University,USD,1100
 80,Dec,2000,Michigan State University,USD,866
 80,Dec,2000,Berkeley,USD,1700
+81,Sep,2024,Silicon Valley,USD,16790
 81,Apr,2024,Silicon Valley,USD,16782
 81,Sep,2023,Silicon Valley,USD,16915
 81,Apr,2023,Silicon Valley,USD,17132
@@ -815,6 +819,7 @@ pid,month,year,chapter,currency,amount
 98,Dec,1999,Seattle,USD,5000
 98,Dec,1998,Berkeley,USD,4720
 98,Dec,1998,Seattle,USD,3500
+99,Jun,2024,Silicon Valley,USD,9879
 99,Sep,2023,Silicon Valley,USD,9745
 99,Aug,2023,Silicon Valley,USD,9471
 99,Nov,2022,Silicon Valley,USD,4449
@@ -960,6 +965,9 @@ pid,month,year,chapter,currency,amount
 122,Dec,2000,Yale,USD,1000
 123,Dec,1999,Detroit,USD,250
 123,Dec,1998,Detroit,USD,250
+124,Sep,2024,General Funds,USD,20141
+124,Sep,2024,Bangalore,USD,5334
+124,Sep,2024,Austin,USD,11263
 124,Sep,2023,General Funds,USD,19535
 124,Sep,2023,Austin,USD,14961
 124,Sep,2023,Bangalore,USD,5223
@@ -1179,6 +1187,7 @@ pid,month,year,chapter,currency,amount
 154,Dec,2001,Cleveland,USD,1850
 154,Dec,2000,UIUC,USD,827
 154,Dec,1999,UIUC,USD,1768
+155,Aug,2024,Boston,USD,17704
 155,Aug,2023,Boston,USD,17876
 155,Sep,2022,Boston,USD,6686
 155,Apr,2022,Boston,USD,10822
@@ -1279,6 +1288,7 @@ pid,month,year,chapter,currency,amount
 162,Dec,2000,Yale,USD,13350
 164,Dec,1999,Cornell,USD,500
 165,Dec,2000,Yale,USD,1500
+166,Aug,2024,Houston,USD,12288
 166,Sep,2023,St. Louis,USD,12096
 166,Jun,2022,St. Louis,USD,10744
 166,Mar,2022,St. Louis,USD,4733
@@ -1852,6 +1862,7 @@ pid,month,year,chapter,currency,amount
 252,Dec,2001,CentralNJ,USD,2500
 252,Dec,2001,Cleveland,USD,1000
 252,Dec,2001,NYC/NJ,USD,1500
+253,Sep,2024,Chicago,USD,17055
 253,Jan,2024,Chicago,USD,7450
 253,Jan,2024,Chicago,USD,15860
 253,Aug,2023,Chicago,USD,15942
@@ -2001,6 +2012,7 @@ pid,month,year,chapter,currency,amount
 265,Dec,2002,DC,USD,1500
 265,Dec,2001,DC,USD,1500
 266,Dec,2001,Delaware,USD,4000
+267,Sep,2024,Seattle,USD,23649
 267,Feb,2024,Seattle,USD,23892
 267,Mar,2023,Seattle,USD,23993
 267,Jun,2022,Frankfurt,EUR,471
@@ -2059,6 +2071,7 @@ pid,month,year,chapter,currency,amount
 267,Dec,2002,Seattle,USD,9000
 267,Dec,2001,Detroit,USD,1500
 267,Dec,2001,Michigan State University,USD,4800
+268,Sep,2024,Detroit,USD,6581
 268,Sep,2023,Detroit,USD,4881
 268,Jun,2022,Detroit,USD,10387
 268,Dec,2021,Detroit,USD,3411
@@ -2177,6 +2190,8 @@ pid,month,year,chapter,currency,amount
 277,Dec,2003,Redlands,USD,500
 277,Dec,2002,Redlands,USD,1400
 277,Dec,2001,Redlands,USD,550
+278,Sep,2024,Cornell,USD,11885
+278,Aug,2024,Cornell,USD,6025
 278,Sep,2023,Cornell,USD,6606
 278,Dec,2022,Cornell,USD,4970
 278,Jul,2022,Cornell,USD,4993
@@ -2284,6 +2299,10 @@ pid,month,year,chapter,currency,amount
 283,Dec,2005,Seattle,USD,1750
 283,Dec,2002,Seattle,USD,500
 283,Dec,2001,Seattle,USD,4000
+284,Oct,2024,Silicon Valley,USD,24094
+284,Sep,2024,General Funds,USD,19597
+284,Aug,2024,Silicon Valley,USD,14353
+284,Jun,2024,Silicon Valley,USD,24186
 284,Nov,2023,General Funds,USD,10936
 284,Sep,2023,Silicon Valley,USD,20100
 284,Aug,2023,General Funds,USD,19828
@@ -2371,6 +2390,7 @@ pid,month,year,chapter,currency,amount
 290,Jun,2003,Silicon Valley,USD,7183
 290,Jun,2002,Silicon Valley,USD,4286
 290,Dec,2001,Silicon Valley,USD,2374
+291,Oct,2024,Boston,USD,6021
 291,Dec,2023,Boston,USD,5844
 291,Sep,2022,Boston,USD,6000
 291,Nov,2021,Boston,USD,6161
@@ -2423,6 +2443,7 @@ pid,month,year,chapter,currency,amount
 299,Dec,2003,Stanford,USD,4000
 299,Dec,2002,Stanford,USD,2200
 299,Dec,2001,Stanford,USD,2200
+300,Jun,2024,Stanford,USD,16014
 300,Nov,2023,Stanford,USD,13741
 300,Jul,2023,Stanford,USD,13878
 300,Aug,2022,Silicon Valley,USD,14246
@@ -2518,6 +2539,7 @@ pid,month,year,chapter,currency,amount
 313,Dec,2003,St. Louis,USD,1500
 313,Dec,2002,Work an Hour,USD,7650
 313,Dec,2002,Cornell,USD,2000
+318,Sep,2024,Seattle,USD,424
 318,Apr,2024,Seattle,USD,11690
 318,Jul,2023,Seattle,USD,10130
 318,Sep,2022,Seattle,USD,3556
@@ -2633,6 +2655,7 @@ pid,month,year,chapter,currency,amount
 347,Dec,2006,UIUC,USD,1094
 347,Dec,2005,UIUC,USD,1475
 347,Dec,2003,UIUC,USD,1200
+349,Sep,2024,Detroit,USD,6058
 349,May,2024,Detroit,USD,36409
 349,Jul,2023,Detroit,USD,30808
 349,May,2023,Detroit,USD,2718
@@ -2717,6 +2740,8 @@ pid,month,year,chapter,currency,amount
 352,Oct,2002,Boston,USD,1300
 353,May,2004,Salt Lake City,USD,5165
 353,Dec,2004,Work an Hour,USD,24000
+354,Sep,2024,General Funds,USD,19156
+354,Aug,2024,Stamford,USD,26936
 354,Nov,2023,General Funds,USD,29479
 354,Aug,2023,Stamford,USD,23064
 354,Aug,2022,General Funds,USD,19180
@@ -2785,6 +2810,7 @@ pid,month,year,chapter,currency,amount
 362,Jun,2006,Zurich,CHF,3250
 362,Apr,2006,Zurich,CHF,1950
 362,Oct,2003,Zurich,CHF,4250
+363,Sep,2024,Danbury,USD,9863
 363,Mar,2024,Danbury,USD,13563
 363,Dec,2022,Danbury,USD,11213
 363,Dec,2021,Danbury,USD,9299
@@ -2874,6 +2900,7 @@ pid,month,year,chapter,currency,amount
 396,Aug,2003,Austin,USD,450
 396,Aug,2003,Austin,USD,885
 396,Dec,2003,Silicon Valley,USD,885
+397,Sep,2024,Seattle,USD,10562
 397,Sep,2023,Seattle,USD,19860
 397,Sep,2022,Seattle,USD,20765
 397,Dec,2021,Seattle,USD,22042
@@ -2980,6 +3007,7 @@ pid,month,year,chapter,currency,amount
 413,Jun,2004,Silicon Valley,USD,3256
 413,Dec,2004,Silicon Valley,USD,3505
 413,Dec,2003,Silicon Valley,USD,2625
+414,Aug,2024,Seattle,USD,11151
 414,Aug,2023,Seattle,USD,13144
 414,Aug,2022,Seattle,USD,11702
 414,Dec,2021,Seattle,USD,12463
@@ -3128,6 +3156,7 @@ pid,month,year,chapter,currency,amount
 453,Nov,2010,Arizona,USD,7000
 453,Apr,2004,Arizona,USD,6500
 455,Apr,2004,Arizona,USD,4000
+458,Jun,2024,Silicon Valley,USD,14814
 458,Mar,2024,Silicon Valley,USD,14648
 458,Sep,2023,Silicon Valley,USD,24293
 458,Aug,2023,Silicon Valley,USD,13856
@@ -3346,6 +3375,7 @@ pid,month,year,chapter,currency,amount
 503,Aug,2004,Arizona,USD,3500
 504,Dec,2005,Eindhoven,INR,50000
 504,Aug,2004,Eindhoven,EUR,0
+505,Sep,2024,Chennai,USD,20130
 505,Apr,2024,Chennai,USD,2318
 505,Aug,2023,Chennai,USD,11863
 505,May,2023,Chennai,USD,2571
@@ -3449,6 +3479,8 @@ pid,month,year,chapter,currency,amount
 549,Dec,2005,Seattle,USD,27000
 553,Dec,2005,Seattle,USD,14400
 554,Dec,2005,Seattle,USD,3001
+555,Sep,2024,Chennai,USD,111141
+555,Jul,2024,Chennai,INR,600000
 555,Apr,2024,Chennai,USD,18659
 555,Jan,2024,Chennai,USD,8399
 555,Aug,2023,Chennai,USD,94469
@@ -3608,6 +3640,7 @@ pid,month,year,chapter,currency,amount
 578,Dec,2005,London,GBP,2500
 578,Dec,2005,Seattle,USD,5800
 578,Dec,2004,London,GBP,2500
+579,Sep,2024,Austin,USD,5081
 579,Jan,2024,Austin,USD,2557
 579,Aug,2023,Austin,USD,5140
 579,Jun,2022,Austin,USD,5431
@@ -3664,6 +3697,7 @@ pid,month,year,chapter,currency,amount
 585,Jan,2005,Bangalore,INR,9417
 585,Dec,2004,Bangalore,INR,42000
 586,Apr,2005,Arizona,USD,1000
+587,Aug,2024,Seattle,USD,34613
 587,Feb,2024,Seattle,USD,1293
 587,Jun,2023,Seattle,USD,35210
 587,Sep,2022,Seattle,USD,36533
@@ -3951,6 +3985,7 @@ pid,month,year,chapter,currency,amount
 606,Dec,2005,Toledo,USD,1025
 607,Dec,2005,Toledo,USD,1165
 610,Jun,2005,Cleveland,USD,6130
+611,Oct,2024,Silicon Valley,USD,5510
 611,Sep,2023,Silicon Valley,USD,5581
 611,Jun,2022,Silicon Valley,USD,5451
 611,Sep,2021,Silicon Valley,USD,5770
@@ -4009,6 +4044,7 @@ pid,month,year,chapter,currency,amount
 616,Apr,2005,Bangalore,INR,25000
 617,Dec,2004,Bangalore,INR,10000
 618,Dec,2004,Bangalore,INR,15000
+619,Sep,2024,Silicon Valley,USD,7023
 619,Nov,2023,Silicon Valley,USD,6043
 619,Dec,2022,Silicon Valley,USD,2791
 619,Jun,2022,Silicon Valley,USD,2958
@@ -4035,6 +4071,7 @@ pid,month,year,chapter,currency,amount
 619,Jul,2005,DC,USD,3000
 619,Dec,2002,Berkeley,USD,1200
 619,Dec,2001,Berkeley,USD,1200
+620,Sep,2024,Dallas,USD,20468
 620,Nov,2023,Dallas,USD,18315
 620,Aug,2022,Dallas,USD,18493
 620,Sep,2021,Dallas,USD,22406
@@ -4055,6 +4092,7 @@ pid,month,year,chapter,currency,amount
 624,Aug,2007,DC,USD,1848
 624,Mar,2007,DC,USD,1440
 624,Aug,2005,DC,USD,2600
+626,Sep,2024,Chennai,USD,6629
 626,Aug,2023,Chennai,USD,3680
 626,Aug,2022,Chennai,USD,3163
 626,May,2019,Frankfurt,EUR,2470
@@ -4067,6 +4105,7 @@ pid,month,year,chapter,currency,amount
 626,Nov,2007,Chennai,USD,1001
 626,Sep,2007,Silicon Valley,USD,7250
 626,Jun,2006,Silicon Valley,USD,1440
+628,Sep,2024,Seattle,USD,40936
 628,Sep,2021,Silicon Valley,USD,31252
 628,Nov,2020,Silicon Valley,USD,20661
 628,Jun,2020,Silicon Valley,USD,20211
@@ -4106,6 +4145,7 @@ pid,month,year,chapter,currency,amount
 633,Jul,2006,Silicon Valley,USD,1560
 633,Jul,2006,Silicon Valley,USD,17950
 633,Oct,2005,Silicon Valley,USD,18375
+634,Sep,2024,San Diego,USD,16876
 634,Sep,2023,San Diego,USD,15969
 634,Sep,2022,San Diego,USD,16145
 634,Oct,2021,San Diego,USD,17788
@@ -4176,6 +4216,7 @@ pid,month,year,chapter,currency,amount
 645,Oct,2005,Bangalore,INR,4000
 646,Dec,2006,Yale,USD,3490
 646,Dec,2005,Yale,USD,1
+648,Jun,2024,Beyond Borders,USD,6864
 648,Apr,2023,Yale,USD,20983
 648,Jul,2022,Yale,USD,3044
 648,Apr,2022,Yale,USD,7143
@@ -4283,6 +4324,7 @@ pid,month,year,chapter,currency,amount
 667,May,2005,Austin,USD,581
 667,Apr,2005,Cleveland,USD,2667
 667,Mar,2005,Austin,USD,10569
+668,Sep,2024,Colorado,USD,2409
 668,Nov,2023,Colorado,USD,7914
 668,Sep,2022,Colorado,USD,8112
 668,Dec,2021,Colorado,USD,2488
@@ -4302,6 +4344,8 @@ pid,month,year,chapter,currency,amount
 668,May,2009,Colorado,USD,1690
 668,Sep,2008,Colorado,USD,1270
 668,Apr,2008,Colorado,USD,700
+671,Aug,2024,Bangalore,USD,18173
+671,Aug,2024,Bangalore,USD,6021
 671,Aug,2023,Bangalore,USD,12567
 671,Nov,2022,Bangalore,USD,4920
 671,Jul,2022,Bangalore,USD,15774
@@ -4469,6 +4513,7 @@ pid,month,year,chapter,currency,amount
 692,Dec,2006,Berkeley,USD,4000
 692,Dec,2006,Berkeley,USD,4
 696,Dec,2008,Seattle,USD,5000
+697,Aug,2024,Dallas,USD,9412
 697,Apr,2024,Atlanta,USD,23906
 697,May,2023,Dallas,USD,12858
 697,May,2023,Atlanta,USD,24247
@@ -4630,6 +4675,7 @@ pid,month,year,chapter,currency,amount
 715,May,2006,Mid-Hudson Valley,USD,10000
 715,May,2006,Munich,USD,365
 715,Apr,2006,DC,USD,3000
+716,Sep,2024,Chennai,USD,33066
 716,Apr,2024,Chennai,USD,4948
 716,Aug,2023,Chennai,USD,25150
 716,May,2023,Chennai,USD,4355
@@ -4730,6 +4776,7 @@ pid,month,year,chapter,currency,amount
 740,Dec,2005,Yale,USD,5420
 741,Jul,2006,Yale,USD,2400
 741,Mar,2005,Yale,USD,2400
+745,Sep,2024,Seattle,USD,26376
 745,Feb,2024,Seattle,USD,1706
 745,Oct,2023,Seattle,USD,26510
 745,Aug,2022,Seattle,USD,30955
@@ -4839,6 +4886,8 @@ pid,month,year,chapter,currency,amount
 753,Aug,2007,Stanford,USD,4401
 753,Nov,2006,Stanford,USD,4040
 754,Dec,2006,Atlanta,USD,1760
+756,Sep,2024,NYC/NJ,USD,3337
+756,Aug,2024,Atlanta,USD,3338
 756,Aug,2023,NYC/NJ,USD,3198
 756,Jul,2023,Atlanta,USD,3294
 756,Sep,2022,NYC/NJ,USD,3754
@@ -4969,6 +5018,7 @@ pid,month,year,chapter,currency,amount
 784,Dec,2009,Silicon Valley,USD,18809
 784,Nov,2009,Silicon Valley,USD,10497
 784,Jan,2007,Silicon Valley,USD,14170
+787,Sep,2024,Seattle,USD,6947
 787,Jan,2024,Seattle,USD,8257
 787,Sep,2022,Seattle,USD,7805
 787,Nov,2021,Seattle,USD,7816
@@ -4990,6 +5040,8 @@ pid,month,year,chapter,currency,amount
 787,Oct,2008,Seattle,USD,2892
 787,Dec,2005,Seattle,USD,5000
 787,Dec,2004,Seattle,USD,4200
+788,Sep,2024,NYC/NJ,USD,26073
+788,Sep,2024,Bangalore,USD,6379
 788,May,2024,Bangalore,USD,15453
 788,Mar,2024,Bangalore,USD,5186
 788,Jul,2023,NYC/NJ,USD,25698
@@ -5051,6 +5103,7 @@ pid,month,year,chapter,currency,amount
 792,Jul,2006,Colorado,INR,25000
 792,Jun,2006,Colorado,INR,25000
 792,Apr,2006,Colorado,INR,28600
+794,Jul,2024,UIUC,USD,14565
 794,Aug,2023,UIUC,USD,10536
 794,Aug,2022,UIUC,USD,1518
 794,Jun,2022,UIUC,USD,7333
@@ -5155,6 +5208,8 @@ pid,month,year,chapter,currency,amount
 807,Jun,2007,Madison,USD,2100
 807,Jun,2007,Austin,USD,5000
 808,Mar,2007,Princeton,USD,600
+809,Oct,2024,Boston,USD,6021
+809,Jun,2024,Boston,USD,8717
 809,May,2023,Boston,USD,7381
 809,Jun,2022,Boston,USD,9168
 809,Jun,2021,Boston,USD,7465
@@ -5250,6 +5305,7 @@ pid,month,year,chapter,currency,amount
 826,Jun,2008,Chennai,USD,155
 826,Dec,2007,Chennai,USD,291
 826,Oct,2006,General Funds,USD,1920
+827,Aug,2024,Minnesota,USD,4941
 827,Apr,2023,Minnesota,USD,3346
 827,Apr,2022,Minnesota,USD,2402
 827,Jul,2021,Minnesota,USD,2532
@@ -5288,6 +5344,9 @@ pid,month,year,chapter,currency,amount
 832,Apr,2008,Atlanta,USD,14115
 832,Mar,2008,Atlanta,USD,2258
 832,Oct,2007,Atlanta,USD,14000
+834,Sep,2024,Zurich,USD,8434
+834,Jun,2024,Zurich,CHF,3750
+834,Mar,2024,Zurich,CHF,2800
 834,Aug,2023,Zurich,USD,6425
 834,May,2023,Zurich,CHF,4150
 834,Nov,2022,Zurich,CHF,9427
@@ -5327,6 +5386,7 @@ pid,month,year,chapter,currency,amount
 836,Dec,2007,Zurich,CHF,8500
 837,Sep,2010,Boston,USD,20000
 837,Dec,2006,Zurich,CHF,1
+839,Aug,2024,Athens,USD,7236
 839,Sep,2023,Athens,USD,7288
 839,Aug,2022,Athens,USD,6357
 839,Nov,2021,Athens,USD,6845
@@ -5390,6 +5450,7 @@ pid,month,year,chapter,currency,amount
 842,Mar,2008,Silicon Valley,USD,12308
 842,Jul,2007,Silicon Valley,USD,11928
 843,Feb,2005,Carbondale,USD,2650
+845,Aug,2024,Seattle,USD,21917
 845,Sep,2023,Seattle,USD,23219
 845,Jun,2022,Seattle,USD,23526
 845,Oct,2021,Seattle,USD,24573
@@ -5415,6 +5476,7 @@ pid,month,year,chapter,currency,amount
 847,Jul,2009,Hyderabad,USD,3260
 847,Nov,2008,Hyderabad,INR,40
 847,Jul,2008,Hyderabad,INR,50000
+848,Jun,2024,Silicon Valley,USD,6240
 848,Aug,2023,Silicon Valley,USD,5945
 848,Dec,2022,Silicon Valley,USD,2770
 848,Apr,2022,Silicon Valley,USD,2956
@@ -5440,6 +5502,7 @@ pid,month,year,chapter,currency,amount
 848,Jan,2008,Silicon Valley,USD,2346
 848,Sep,2007,Silicon Valley,USD,2250
 848,Aug,2007,Los Angeles,USD,4500
+849,Jun,2024,Silicon Valley,USD,6240
 849,Aug,2023,Silicon Valley,USD,5945
 849,Dec,2022,Silicon Valley,USD,2770
 849,Apr,2022,Silicon Valley,USD,2956
@@ -5552,6 +5615,7 @@ pid,month,year,chapter,currency,amount
 874,Sep,2008,NYC/NJ,USD,16750
 874,Jan,2008,NYC/NJ,USD,8000
 875,May,2008,Silicon Valley,USD,0
+876,Sep,2024,Silicon Valley,USD,23383
 876,Mar,2024,Silicon Valley,USD,23706
 876,Sep,2023,Silicon Valley,USD,20632
 876,May,2023,Silicon Valley,USD,20827
@@ -5631,6 +5695,8 @@ pid,month,year,chapter,currency,amount
 882,Jan,2008,Silicon Valley,USD,5038
 883,Jan,2008,Silicon Valley,USD,12030
 884,Dec,2007,Salt Lake City,USD,2500
+885,Oct,2024,Colorado,USD,4491
+885,Sep,2024,Cornell,USD,14766
 885,Oct,2023,Colorado,USD,4888
 885,Aug,2023,Cornell,USD,11816
 885,Sep,2022,Colorado,USD,5068
@@ -5724,6 +5790,7 @@ pid,month,year,chapter,currency,amount
 892,Jun,2009,Chicago,USD,1504
 892,Jan,2009,Chicago,USD,1714
 892,Sep,2008,Chicago,USD,1639
+895,Jun,2024,UIUC,USD,24040
 895,Aug,2023,UIUC,USD,21826
 895,Aug,2022,UIUC,USD,1253
 895,Jun,2022,UIUC,USD,7233
@@ -5922,6 +5989,7 @@ pid,month,year,chapter,currency,amount
 917,May,2011,Houston,USD,2500
 917,Dec,2008,Houston,USD,0
 918,Apr,2008,Toledo,USD,8200
+919,Sep,2024,General Funds,USD,20219
 919,Sep,2023,General Funds,USD,19523
 919,Aug,2022,General Funds,USD,19735
 919,Jul,2021,General Funds,USD,19425
@@ -5939,6 +6007,7 @@ pid,month,year,chapter,currency,amount
 921,Apr,2009,Arizona,USD,5000
 921,Jun,2008,Arizona,USD,5000
 923,Sep,2010,Houston,USD,6000
+925,Sep,2024,Seattle,USD,33104
 925,Aug,2023,Seattle,USD,33214
 925,Aug,2022,Seattle,USD,34724
 925,Oct,2021,Seattle,USD,4719
@@ -6009,6 +6078,7 @@ pid,month,year,chapter,currency,amount
 930,Feb,2012,San Francisco,USD,1640
 930,Mar,2011,San Francisco,USD,1750
 930,Feb,2010,San Francisco,USD,1750
+931,Mar,2024,Frankfurt,EUR,1500
 931,Feb,2023,Frankfurt,EUR,1200
 931,Mar,2022,Frankfurt,EUR,2030
 931,Nov,2020,Frankfurt,EUR,3000
@@ -6024,6 +6094,7 @@ pid,month,year,chapter,currency,amount
 931,Jul,2011,Delhi,USD,4150
 931,Oct,2009,Delhi,USD,3509
 931,Jun,2008,Delhi,USD,2888
+932,Jul,2024,Seattle,USD,20847
 932,May,2023,Seattle,USD,21113
 932,May,2022,Seattle,USD,22498
 932,Oct,2021,Seattle,USD,4693
@@ -6169,6 +6240,8 @@ pid,month,year,chapter,currency,amount
 961,Sep,2008,Silicon Valley,USD,17920
 965,Nov,2008,NYC/NJ,USD,20000
 966,Oct,2008,DC,INR,236000
+967,Sep,2024,Irvine,USD,3011
+967,Aug,2024,Bangalore,USD,16871
 967,Nov,2023,Irvine,USD,1945
 967,Aug,2023,Bangalore,USD,10058
 967,Jul,2023,Bangalore,USD,12848
@@ -6203,6 +6276,7 @@ pid,month,year,chapter,currency,amount
 967,Jul,2009,Bangalore,INR,96600
 967,Nov,2008,Bangalore,INR,96600
 969,Sep,2008,CentralNJ,USD,5000
+970,Oct,2024,Silicon Valley,USD,29514
 970,Aug,2023,Silicon Valley,USD,30000
 970,Dec,2022,Silicon Valley,USD,14260
 970,Jun,2022,Silicon Valley,USD,15086
@@ -6350,6 +6424,7 @@ pid,month,year,chapter,currency,amount
 989,Apr,2011,Berkeley,USD,3894
 989,Jan,2010,Berkeley,USD,3300
 989,Jan,2009,Berkeley,USD,3300
+990,Sep,2024,General Funds,USD,20174
 990,Aug,2022,General Funds,USD,19921
 990,Sep,2020,General Funds,USD,12684
 990,Sep,2019,General Funds,USD,11523
@@ -6385,6 +6460,7 @@ pid,month,year,chapter,currency,amount
 991,Mar,2011,San Francisco,USD,6756
 991,Jun,2010,San Francisco,USD,5840
 991,Sep,2009,San Francisco,USD,5750
+993,Aug,2024,Seattle,USD,30419
 993,Feb,2024,Seattle,USD,1279
 993,Jul,2023,Seattle,USD,31104
 993,Jun,2022,Seattle,USD,32743
@@ -6414,6 +6490,7 @@ pid,month,year,chapter,currency,amount
 995,Mar,2009,Frankfurt,EUR,2000
 998,May,2009,Toledo,USD,5050
 998,Feb,2009,Toledo,USD,5200
+999,Oct,2024,Seattle,USD,8735
 999,Oct,2023,Seattle,USD,8828
 999,Nov,2022,Seattle,USD,8995
 999,Oct,2021,Seattle,USD,19592
@@ -6432,6 +6509,7 @@ pid,month,year,chapter,currency,amount
 999,Feb,2010,Seattle,USD,3525
 999,Feb,2009,Seattle,USD,1620
 999,Feb,2009,Seattle,USD,1670
+1000,Sep,2024,Seattle,USD,7357
 1000,Oct,2023,Seattle,USD,8098
 1000,Jun,2022,Seattle,USD,17294
 1000,Oct,2020,Seattle,USD,9074
@@ -6485,6 +6563,7 @@ pid,month,year,chapter,currency,amount
 1012,Oct,2010,Stanford,USD,2500
 1012,Oct,2009,Dallas,USD,2500
 1012,Oct,2009,Stanford,USD,2500
+1014,Sep,2024,Seattle,USD,23290
 1014,Aug,2023,Seattle,USD,24554
 1014,Sep,2022,Seattle,USD,23850
 1014,Nov,2021,Seattle,USD,26121
@@ -6509,6 +6588,9 @@ pid,month,year,chapter,currency,amount
 1016,Dec,2010,San Diego,USD,0
 1016,Aug,2010,San Diego,USD,0
 1017,Dec,2008,Sheffield,GBP,1250
+1018,Sep,2024,NYC/NJ,USD,5844
+1018,Aug,2024,Atlanta,USD,5845
+1018,Jun,2024,Atlanta,USD,11187
 1018,Aug,2023,NYC/NJ,USD,6312
 1018,Jul,2023,Atlanta,USD,6489
 1018,Nov,2022,Atlanta,USD,4957
@@ -6577,6 +6659,7 @@ pid,month,year,chapter,currency,amount
 1027,Jul,2011,Atlanta,USD,1000
 1027,Jul,2010,Atlanta,USD,1700
 1028,Jul,2009,Austin,USD,2500
+1029,Sep,2024,Chennai,USD,40985
 1029,Apr,2024,Chennai,USD,6913
 1029,Aug,2023,Chennai,USD,35039
 1029,Aug,2023,Chennai,USD,13053
@@ -6611,6 +6694,7 @@ pid,month,year,chapter,currency,amount
 1033,Jul,2009,Delaware,USD,5000
 1034,May,2010,Kansas City,USD,2645
 1034,Jul,2009,Kansas City,USD,1400
+1035,Sep,2024,Austin,USD,5788
 1035,Jun,2018,NYC/NJ,USD,11144
 1035,Mar,2017,NYC/NJ,USD,10889
 1035,Jan,2016,NYC/NJ,USD,9656
@@ -6653,6 +6737,7 @@ pid,month,year,chapter,currency,amount
 1043,Nov,2009,Berkeley,USD,2000
 1043,Oct,2009,UFlorida,USD,1500
 1043,Oct,2009,Boston,USD,2000
+1044,Aug,2024,Atlanta,USD,5097
 1044,Aug,2023,Atlanta,USD,4847
 1044,Jun,2022,Atlanta,USD,4802
 1044,May,2021,Atlanta,USD,1375
@@ -6708,7 +6793,20 @@ pid,month,year,chapter,currency,amount
 1063,May,2010,Atlanta,USD,1000
 1065,Jun,2010,Santa Barbara,USD,2000
 1065,May,2009,Santa Barbara,USD,2000
+1067,Dec,2024,Mumbai,INR,1431492
+1067,Nov,2024,Mumbai,INR,864450
+1067,Oct,2024,Mumbai,INR,824200
+1067,Aug,2024,Mumbai,USD,65369
+1067,Jun,2024,Mumbai,INR,459900
+1067,May,2024,Mumbai,INR,258380
 1067,Apr,2024,Mumbai,USD,24231
+1067,Apr,2024,Mumbai,INR,112663
+1067,Mar,2024,Mumbai,INR,1719507
+1067,Feb,2024,Mumbai,INR,1144147
+1067,Jan,2024,Mumbai,INR,882736
+1067,Dec,2023,Mumbai,INR,1431492
+1067,Nov,2023,Mumbai,INR,864450
+1067,Oct,2023,Mumbai,INR,824200
 1067,Sep,2023,Mumbai,INR,667392
 1067,Aug,2023,Mumbai,USD,51678
 1067,Aug,2023,Mumbai,INR,701582
@@ -6939,6 +7037,7 @@ pid,month,year,chapter,currency,amount
 1107,Nov,2011,Silicon Valley,USD,16640
 1107,Aug,2011,Silicon Valley,USD,9520
 1107,May,2011,Silicon Valley,USD,9463
+1109,Sep,2024,Bangalore,USD,3411
 1109,Sep,2023,Bangalore,USD,9523
 1109,Sep,2022,Bangalore,USD,15685
 1109,Oct,2021,Bangalore,USD,21559
@@ -6976,6 +7075,7 @@ pid,month,year,chapter,currency,amount
 1120,Dec,2011,Kansas City,USD,2000
 1121,Aug,2011,Sheffield,USD,750
 1121,Aug,2011,Sheffield,GBP,500
+1122,Oct,2024,Minnesota,USD,1504
 1122,May,2023,Minnesota,USD,3199
 1122,Apr,2022,Minnesota,USD,4023
 1122,Oct,2021,Delaware,USD,3546
@@ -7003,6 +7103,7 @@ pid,month,year,chapter,currency,amount
 1127,Mar,2013,Cleveland,USD,6669
 1127,May,2012,Cleveland,USD,2250
 1127,Aug,2011,Cleveland,USD,2250
+1128,Sep,2024,Austin,USD,10283
 1128,Dec,2017,Stanford,USD,15572
 1128,Oct,2016,Stanford,USD,13690
 1128,Dec,2015,Stanford,USD,6509
@@ -7110,6 +7211,7 @@ pid,month,year,chapter,currency,amount
 1142,Jan,2014,St. Louis,USD,5224
 1142,Aug,2013,St. Louis,USD,8725
 1142,Jul,2012,St. Louis,USD,6000
+1143,Sep,2024,St. Louis,USD,24127
 1143,Sep,2023,St. Louis,USD,11987
 1143,Sep,2022,St. Louis,USD,19757
 1143,Oct,2021,St. Louis,USD,4958
@@ -7138,6 +7240,7 @@ pid,month,year,chapter,currency,amount
 1145,Sep,2012,Stanford,USD,4546
 1147,Aug,2012,Kansas City,USD,1700
 1151,Oct,2012,Houston,USD,6757
+1153,Aug,2024,Athens,USD,24178
 1153,Sep,2023,Athens,USD,21888
 1153,Aug,2022,Athens,USD,26925
 1153,Nov,2021,Athens,USD,20535
@@ -7155,10 +7258,12 @@ pid,month,year,chapter,currency,amount
 1153,Jun,2014,Athens,USD,3384
 1153,Feb,2014,Athens,USD,2462
 1153,Sep,2013,Athens,USD,2553
+1155,Sep,2024,Kansas City,USD,15887
 1155,Jul,2023,Kansas City,USD,15358
 1155,Jul,2016,Kansas City,USD,21995
 1155,Sep,2013,Kansas City,USD,780
 1155,Jul,2013,Kansas City,USD,11996
+1160,Sep,2024,Chennai,USD,8076
 1160,Apr,2024,Chennai,USD,2500
 1160,Aug,2023,Chennai,USD,12673
 1160,May,2023,Chennai,USD,2313
@@ -7179,6 +7284,7 @@ pid,month,year,chapter,currency,amount
 1160,May,2015,Chennai,INR,4500
 1160,May,2014,Chennai,USD,1722
 1160,Nov,2013,Chennai,USD,1294
+1161,Jun,2024,Boston,USD,3632
 1161,May,2023,Boston,USD,3691
 1161,Jun,2022,Boston,USD,3885
 1161,Jun,2021,Boston,USD,4116
@@ -7200,6 +7306,7 @@ pid,month,year,chapter,currency,amount
 1173,Oct,2014,St. Louis,USD,10342
 1173,Jun,2013,St. Louis,USD,7909
 1174,Jun,2013,Mumbai,USD,3323
+1175,Aug,2024,Minnesota,USD,5206
 1175,Apr,2023,Minnesota,USD,6150
 1175,May,2022,Minnesota,USD,7308
 1175,Aug,2021,Minnesota,USD,7306
@@ -7213,6 +7320,7 @@ pid,month,year,chapter,currency,amount
 1175,Nov,2013,Minnesota,USD,1780
 1176,Aug,2014,Dallas,USD,5350
 1176,Apr,2014,Dallas,USD,4200
+1178,Sep,2024,St. Louis,USD,29036
 1178,Aug,2023,St. Louis,USD,17092
 1178,Jun,2022,St. Louis,USD,25474
 1178,Dec,2021,St. Louis,USD,2452
@@ -7255,6 +7363,9 @@ pid,month,year,chapter,currency,amount
 1184,Apr,2014,Toledo,USD,1184
 1185,Jan,2014,Varanasi,USD,4239
 1186,Feb,2014,Varanasi,USD,12221
+1187,Sep,2024,Cornell,USD,8317
+1187,Aug,2024,San Francisco,USD,25753
+1187,Aug,2024,Cornell,USD,6025
 1187,Sep,2023,Cornell,USD,5593
 1187,Aug,2023,San Francisco,USD,24538
 1187,Sep,2022,San Francisco,USD,25161
@@ -7309,6 +7420,7 @@ pid,month,year,chapter,currency,amount
 1188,Aug,2014,San Francisco,USD,6731
 1189,Nov,2015,Sheffield,USD,2905
 1189,May,2014,Sheffield,USD,2463
+1190,Aug,2024,San Francisco,USD,11943
 1190,Jun,2023,San Francisco,USD,1234
 1190,May,2023,San Francisco,USD,11549
 1190,Sep,2022,San Francisco,USD,12664
@@ -7328,6 +7440,7 @@ pid,month,year,chapter,currency,amount
 1190,Jul,2016,San Francisco,USD,7520
 1190,Jun,2015,San Francisco,USD,10244
 1190,Jun,2014,San Francisco,USD,5760
+1193,Sep,2024,St. Louis,USD,14505
 1193,Sep,2023,St. Louis,USD,10090
 1193,Jun,2022,St. Louis,USD,14223
 1193,Aug,2021,St. Louis,USD,13545
@@ -7338,6 +7451,7 @@ pid,month,year,chapter,currency,amount
 1193,Dec,2016,St. Louis,USD,5259
 1193,Jan,2016,St. Louis,USD,3886
 1193,Jul,2014,St. Louis,USD,3024
+1196,Sep,2024,Purdue,USD,10202
 1196,Sep,2023,Purdue,USD,10912
 1196,Sep,2022,Purdue,USD,6262
 1196,Jun,2022,Purdue,USD,5028
@@ -7413,6 +7527,7 @@ pid,month,year,chapter,currency,amount
 1213,Apr,2017,Berkeley,USD,21425
 1213,Mar,2016,Berkeley,USD,7193
 1213,Nov,2014,Berkeley,USD,7671
+1214,Aug,2024,Seattle,USD,14398
 1214,Aug,2023,Seattle,USD,10876
 1214,May,2023,Seattle,USD,12499
 1214,Mar,2023,Seattle,USD,12235
@@ -7444,6 +7559,7 @@ pid,month,year,chapter,currency,amount
 1215,Oct,2015,Boston,USD,311
 1215,Jul,2015,Boston,USD,639
 1215,May,2015,Boston,USD,926
+1216,Sep,2024,Boston,USD,6027
 1216,Sep,2023,Boston,USD,9158
 1216,Mar,2023,Boston,USD,6988
 1216,Sep,2022,Boston,USD,7027
@@ -7483,6 +7599,9 @@ pid,month,year,chapter,currency,amount
 1223,Sep,2017,Toledo,USD,8459
 1223,May,2016,Toledo,USD,9327
 1223,Jun,2015,Toledo,USD,3363
+1226,Sep,2024,Austin,USD,9041
+1226,Sep,2024,Boston,USD,4838
+1226,Jun,2024,Colorado,USD,2667
 1226,Aug,2023,Colorado,USD,8093
 1226,Feb,2023,Colorado,USD,7717
 1226,Jul,2022,Colorado,USD,7040
@@ -7497,6 +7616,8 @@ pid,month,year,chapter,currency,amount
 1226,May,2016,Colorado,USD,6858
 1226,Jan,2016,Colorado,USD,5942
 1226,Aug,2015,Colorado,USD,3922
+1228,Sep,2024,Chennai,USD,24952
+1228,Jul,2024,Chennai,INR,25221000
 1228,Jul,2023,Chennai,INR,15660500
 1228,May,2023,Chennai,USD,3728
 1228,Aug,2022,Chennai,USD,19166
@@ -7513,6 +7634,8 @@ pid,month,year,chapter,currency,amount
 1228,Oct,2016,Chennai,USD,22748
 1228,May,2016,Chennai,INR,112635
 1228,Jun,2015,Chennai,INR,1331889
+1230,Oct,2024,Cornell,USD,11548
+1230,Aug,2024,Cornell,USD,6025
 1230,Aug,2023,Cornell,USD,7420
 1230,Jul,2022,Cornell,USD,4993
 1230,Oct,2021,Cornell,USD,10405
@@ -7569,6 +7692,7 @@ pid,month,year,chapter,currency,amount
 1240,Feb,2016,Purdue,USD,3276
 1240,Nov,2015,Austin,USD,9755
 1240,Nov,2015,Austin,USD,2062
+1241,Sep,2024,Danbury,USD,10033
 1241,Sep,2023,Danbury,USD,12979
 1241,Sep,2022,Danbury,USD,12409
 1241,Dec,2021,Danbury,USD,9539
@@ -7595,7 +7719,8 @@ pid,month,year,chapter,currency,amount
 1246,Apr,2019,UFlorida,USD,4354
 1246,Nov,2017,UFlorida,USD,4679
 1246,Apr,2017,UFlorida,USD,1571
-1248,Aug,2023,Frankfurt,USD,6326
+1248,Sep,2024,Frankfurt,USD,13042
+1248,Mar,2024,Frankfurt,EUR,5300
 1248,Dec,2022,Frankfurt,USD,7504
 1248,Jun,2022,Frankfurt,EUR,7030
 1248,Aug,2021,Frankfurt,USD,12153
@@ -7653,6 +7778,7 @@ pid,month,year,chapter,currency,amount
 1255,Sep,2017,Purdue,USD,6362
 1255,Jul,2017,San Diego,USD,5706
 1255,Nov,2016,Purdue,USD,7831
+1256,Sep,2024,Silicon Valley,USD,16139
 1256,Mar,2024,Silicon Valley,USD,16333
 1256,Aug,2023,Silicon Valley,USD,15394
 1256,Mar,2023,Silicon Valley,USD,15594
@@ -7668,6 +7794,8 @@ pid,month,year,chapter,currency,amount
 1256,Mar,2018,Silicon Valley,USD,20360
 1256,Sep,2017,Silicon Valley,USD,16729
 1256,Nov,2016,Silicon Valley,USD,15896
+1257,Sep,2024,Chennai,USD,39659
+1257,Sep,2024,Boston,USD,3182
 1257,Apr,2024,Chennai,USD,6883
 1257,Oct,2023,Boston,USD,3088
 1257,Aug,2023,Chennai,USD,34818
@@ -7722,6 +7850,8 @@ pid,month,year,chapter,currency,amount
 1266,May,2017,Chennai,INR,63000
 1267,Apr,2018,Purdue,USD,2682
 1267,May,2017,Purdue,USD,5495
+1268,Sep,2024,Minnesota,USD,3495
+1268,Mar,2024,London,GBP,13395
 1268,May,2023,Minnesota,USD,6532
 1268,Jan,2023,London,GBP,9213
 1268,Sep,2022,Atlanta,USD,4095
@@ -7744,6 +7874,7 @@ pid,month,year,chapter,currency,amount
 1268,Jun,2017,London,GBP,11511
 1269,Oct,2017,Purdue,USD,4835
 1269,Oct,2017,St. Louis,USD,5118
+1270,Aug,2024,Princeton,USD,10914
 1270,Sep,2023,Princeton,USD,9977
 1270,Jun,2022,Princeton,USD,9838
 1270,Feb,2022,Princeton,USD,2703
@@ -7765,6 +7896,7 @@ pid,month,year,chapter,currency,amount
 1274,Oct,2017,Stanford,USD,16241
 1275,Aug,2017,Frankfurt,EUR,3000
 1275,May,2017,Frankfurt,EUR,3200
+1276,Jun,2024,Zurich,CHF,1550
 1276,Jul,2023,Zurich,CHF,3147
 1276,Aug,2022,Zurich,USD,3678
 1276,Oct,2021,Zurich,USD,1483
@@ -7797,6 +7929,7 @@ pid,month,year,chapter,currency,amount
 1287,Jul,2019,Minnesota,USD,2186
 1287,Feb,2019,Minnesota,USD,2882
 1287,Dec,2017,CentralNJ,USD,10258
+1288,Aug,2024,Princeton,USD,15750
 1288,Jun,2023,Princeton,USD,15597
 1288,Feb,2022,Princeton,USD,7102
 1288,Jun,2020,Princeton,USD,18000
@@ -7819,6 +7952,7 @@ pid,month,year,chapter,currency,amount
 1290,May,2019,Kansas City,USD,9497
 1290,Nov,2018,Kansas City,USD,8760
 1290,Apr,2018,Kansas City,USD,7640
+1291,Sep,2024,Madison,USD,12329
 1291,Sep,2023,Madison,USD,11577
 1291,Sep,2022,Madison,USD,9928
 1291,Dec,2021,Madison,USD,10087
@@ -7830,6 +7964,7 @@ pid,month,year,chapter,currency,amount
 1293,Sep,2021,Atlanta,USD,10241
 1293,May,2019,Atlanta,USD,5789
 1293,Apr,2018,Atlanta,USD,6246
+1294,Sep,2024,Danbury,USD,10282
 1294,Dec,2022,Danbury,USD,9805
 1294,Dec,2021,Danbury,USD,7653
 1294,Dec,2020,Danbury,USD,7731
@@ -7837,6 +7972,7 @@ pid,month,year,chapter,currency,amount
 1294,Jun,2018,Danbury,USD,7974
 1295,Jun,2018,Seattle,USD,29839
 1296,Oct,2018,Stanford,USD,20260
+1297,Jun,2024,Bangalore,USD,10421
 1297,Sep,2023,Bangalore,USD,6681
 1297,Nov,2022,Bangalore,USD,3469
 1297,Jul,2022,Bangalore,USD,10755
@@ -7867,6 +8003,8 @@ pid,month,year,chapter,currency,amount
 1304,Aug,2020,Berkeley,USD,4058
 1304,Sep,2019,Berkeley,USD,8702
 1304,Dec,2018,Berkeley,USD,5717
+1305,Nov,2024,Zurich,CHF,1306
+1305,Nov,2023,Zurich,CHF,1306
 1305,Aug,2022,Zurich,CHF,11804
 1305,Aug,2021,Zurich,CHF,10624
 1305,May,2020,Zurich,CHF,2650
@@ -7897,11 +8035,13 @@ pid,month,year,chapter,currency,amount
 1308,Jun,2019,Purdue,USD,2859
 1308,Jan,2019,Zurich,CHF,9039
 1308,Nov,2018,Purdue,USD,3980
+1309,Sep,2024,Danbury,USD,10274
 1309,Sep,2023,Danbury,USD,11691
 1309,Sep,2022,Danbury,USD,9208
 1309,Mar,2022,Danbury,USD,3390
 1309,Dec,2021,Danbury,USD,9414
 1309,Dec,2018,Danbury,USD,7342
+1314,Jul,2024,Boston,USD,6384
 1314,Aug,2023,Boston,USD,6472
 1314,May,2022,Boston,USD,6309
 1314,Aug,2021,Boston,USD,6495
@@ -7914,6 +8054,7 @@ pid,month,year,chapter,currency,amount
 1317,Nov,2020,Silicon Valley,USD,2719
 1317,May,2020,Silicon Valley,USD,7541
 1317,Oct,2019,Silicon Valley,USD,5767
+1318,Sep,2024,Silicon Valley,USD,38197
 1318,Sep,2023,Silicon Valley,USD,18151
 1318,Jul,2023,Silicon Valley,USD,18380
 1318,Mar,2023,Silicon Valley,USD,8299
@@ -7923,6 +8064,8 @@ pid,month,year,chapter,currency,amount
 1318,Jun,2020,Silicon Valley,USD,8946
 1318,Jun,2020,Silicon Valley,USD,4970
 1318,Oct,2019,Silicon Valley,USD,17618
+1319,Sep,2024,Austin,USD,14262
+1319,Aug,2024,Austin,USD,10979
 1319,Sep,2023,Austin,USD,11168
 1319,Jun,2023,Austin,USD,11311
 1319,Sep,2022,Austin,USD,9357
@@ -7935,6 +8078,8 @@ pid,month,year,chapter,currency,amount
 1319,Apr,2020,Austin,USD,5276
 1319,Nov,2019,Austin,USD,1401
 1319,Oct,2019,Austin,USD,5991
+1320,Sep,2024,Silicon Valley,USD,33749
+1320,Sep,2024,Silicon Valley,USD,35663
 1320,Sep,2022,Silicon Valley,USD,22878
 1320,Oct,2021,Silicon Valley,USD,5117
 1320,Sep,2021,Silicon Valley,USD,22699
@@ -7944,6 +8089,7 @@ pid,month,year,chapter,currency,amount
 1320,Jun,2020,Silicon Valley,USD,10505
 1320,Apr,2020,Silicon Valley,USD,4946
 1320,Nov,2019,Silicon Valley,USD,19655
+1321,Sep,2024,Silicon Valley,USD,14830
 1321,Sep,2023,Silicon Valley,USD,13461
 1321,Nov,2022,Silicon Valley,USD,5732
 1321,Nov,2022,Silicon Valley,USD,4840
@@ -7963,6 +8109,8 @@ pid,month,year,chapter,currency,amount
 1324,Jul,2021,Chennai,USD,1308
 1324,Jul,2020,Chennai,USD,3129
 1324,May,2020,Chennai,INR,9000
+1325,Sep,2024,Austin,USD,11941
+1325,Aug,2024,Austin,USD,11895
 1325,Sep,2023,Austin,USD,11235
 1325,Jun,2023,Austin,USD,11415
 1325,Sep,2022,Austin,USD,11340
@@ -7981,6 +8129,7 @@ pid,month,year,chapter,currency,amount
 1326,Apr,2020,Austin,USD,4775
 1327,Dec,2020,Stanford,USD,24899
 1329,Oct,2020,Silicon Valley,USD,6786
+1330,Sep,2024,Silicon Valley,USD,20203
 1330,May,2024,Silicon Valley,USD,20338
 1330,Aug,2023,Silicon Valley,USD,9780
 1330,Mar,2023,Silicon Valley,USD,41496
@@ -7999,6 +8148,7 @@ pid,month,year,chapter,currency,amount
 1331,Mar,2022,Silicon Valley,USD,1129
 1331,Jul,2021,Silicon Valley,USD,1077
 1331,Dec,2020,Silicon Valley,USD,1090
+1332,Aug,2024,Silicon Valley,USD,11238
 1332,Sep,2023,Silicon Valley,USD,5353
 1332,May,2023,Silicon Valley,USD,5413
 1332,Sep,2022,Silicon Valley,USD,5195
@@ -8012,12 +8162,16 @@ pid,month,year,chapter,currency,amount
 1333,May,2022,Silicon Valley,USD,2857
 1333,Jul,2021,Silicon Valley,USD,2707
 1333,Dec,2020,Silicon Valley,USD,2801
+1334,Jul,2024,Chennai,INR,1500000
+1334,Oct,2023,Chennai,INR,500000
 1334,Feb,2023,Chennai,INR,500000
 1334,Aug,2022,Chennai,USD,8590
 1334,Jul,2021,Chennai,USD,5585
+1335,Sep,2024,Cornell,USD,3158
 1335,Aug,2023,Cornell,USD,11314
 1335,Jul,2022,Cornell,USD,4993
 1335,Oct,2021,Cornell,USD,5400
+1336,Sep,2024,Austin,USD,9840
 1336,Apr,2024,Austin,USD,9882
 1336,Sep,2023,Austin,USD,13057
 1336,Jun,2023,Austin,USD,13191
@@ -8025,6 +8179,7 @@ pid,month,year,chapter,currency,amount
 1336,Jun,2022,Austin,USD,9257
 1336,Feb,2022,Austin,USD,10282
 1336,Sep,2021,Austin,USD,10280
+1337,Sep,2024,Silicon Valley,USD,25330
 1337,Sep,2023,Silicon Valley,USD,24293
 1337,Nov,2022,Silicon Valley,USD,4897
 1337,Sep,2022,Silicon Valley,USD,6947
@@ -8033,20 +8188,40 @@ pid,month,year,chapter,currency,amount
 1339,Dec,2022,Zurich,CHF,989
 1339,Apr,2022,Zurich,CHF,1292
 1339,Nov,2021,Zurich,CHF,1347
+1340,Sep,2024,Boston,USD,4132
 1340,Sep,2023,Boston,USD,3739
 1340,Jul,2022,Boston,USD,2855
+1341,Jul,2024,Chennai,INR,100000
 1341,Jul,2023,Chennai,INR,200000
+1342,Sep,2024,Boston,USD,5975
 1342,Sep,2023,Boston,USD,3607
 1342,Sep,2022,Boston,USD,3267
+1343,Sep,2024,Beyond Borders,USD,5626
 1343,May,2024,Beyond Borders,USD,5660
+1344,Sep,2024,Princeton,USD,1935
+1344,Aug,2024,Princeton,USD,15364
 1344,Feb,2024,Princeton,USD,1562
 1344,Jun,2023,Princeton,USD,9865
+1345,Sep,2024,Atlanta,USD,10130
+1345,Sep,2024,Austin,USD,7073
+1345,Sep,2024,NYC/NJ,USD,13977
+1345,Sep,2024,Portland,USD,12049
+1345,Sep,2024,Austin,USD,6024
 1345,Jun,2024,San Diego,USD,18047
 1345,Sep,2023,San Diego,USD,13497
+1346,Sep,2024,Chennai,USD,20130
 1346,Apr,2024,Chennai,USD,1359
 1346,Aug,2023,Chennai,USD,6931
+1347,Oct,2024,Chennai,INR,840000
+1347,Jul,2024,Boston,USD,10109
+1347,Jul,2024,Chennai,INR,40000
+1347,Oct,2023,Chennai,INR,840000
+1348,Aug,2024,Austin,USD,12778
 1348,Feb,2024,Austin,USD,12156
 1348,Aug,2023,Austin,USD,12223
+1350,Sep,2024,Austin,USD,6412
 1350,Nov,2023,Austin,USD,13003
 1351,Apr,2024,Atlanta,USD,12060
 1351,Jan,2024,Atlanta,USD,3652
+1352,Aug,2024,Beyond Borders,USD,4675
+1353,Sep,2024,Danbury,USD,10057

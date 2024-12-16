@@ -10,5 +10,5 @@ if __name__ == '__main__':
      if command == 'download':
           funding.download_all_data()
      elif command == 'analyze':
-          extraction.read_and_analyze()
+          extraction.convert_to_DF()
 

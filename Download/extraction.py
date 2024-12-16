@@ -4,7 +4,7 @@ import polars as pl
 
 def read_and_analyze(i):
     try:
-        with open(f"Download/ashasup_{i}.html", "r") as f:
+        with open(f"Download/HTML_DATA/ashasup_{i}.html", "r") as f:
             soup = BeautifulSoup(f.read(), 'html.parser')
             if not soup.find_all('div', {"class": "x-accordion-inner"}):
                 return None
@@ -78,7 +78,7 @@ def convert_to_DF():
     all_funding_data = []
     all_status_data = []
 
-    # Main loop
+    # Main loop #glob of filename in that directory extract data of that file name or pid 
     for pid in range(1, 1354):
         project_status_value, project_funding_value = extract_data(pid)
         all_status_data.append(project_status_value)
@@ -87,8 +87,8 @@ def convert_to_DF():
     funding_column_names = ['pid', 'month', 'year', 'chapter', 'currency', 'amount']
     status_column_names = ['pid', 'Status', 'Project Steward', 'Project Partner', 'Other Contacts', 'Project Address', 'Tel', 'Stewarding Chapter','Extracted State']
 
-    funding_df = pl.DataFrame(all_funding_data, schema=funding_column_names)
-    status_df = pl.DataFrame(all_status_data, schema=status_column_names).drop_nulls()
+    funding_df = pl.DataFrame(all_funding_data, schema=funding_column_names,orient='row')
+    status_df = pl.DataFrame(all_status_data, schema=status_column_names,orient='row').drop_nulls()
 
     # Save to CSV
     funding_df.write_csv('DataCSV/consolidated_funding.csv')
@@ -324,4 +324,3 @@ def bimaru():
     
     
     
-
